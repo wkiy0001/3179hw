@@ -1,0 +1,6018 @@
+"Region","TimePeriod","PopulationValue"
+"Nillumbik",2013,63174
+"Nillumbik",2014,63433
+"Nillumbik",2015,63675
+"Nillumbik",2016,64174
+"Nillumbik",2017,64414
+"Nillumbik",2018,64542
+"Nillumbik",2019,64464
+"Nillumbik",2020,64322
+"Nillumbik",2021,63450
+"Nillumbik",2022,63066
+"Nillumbik",2023,63264
+"South Burnett",2013,32647
+"South Burnett",2014,32606
+"South Burnett",2015,32589
+"South Burnett",2016,32625
+"South Burnett",2017,32680
+"South Burnett",2018,32698
+"South Burnett",2019,32784
+"South Burnett",2020,32952
+"South Burnett",2021,33323
+"South Burnett",2022,33783
+"South Burnett",2023,34290
+"Maralinga Tjarutja",2013,74
+"Maralinga Tjarutja",2014,70
+"Maralinga Tjarutja",2015,66
+"Maralinga Tjarutja",2016,62
+"Maralinga Tjarutja",2017,68
+"Maralinga Tjarutja",2018,76
+"Maralinga Tjarutja",2019,85
+"Maralinga Tjarutja",2020,93
+"Maralinga Tjarutja",2021,102
+"Maralinga Tjarutja",2022,102
+"Maralinga Tjarutja",2023,102
+"Yankalilla",2013,4759
+"Yankalilla",2014,4925
+"Yankalilla",2015,5095
+"Yankalilla",2016,5276
+"Yankalilla",2017,5398
+"Yankalilla",2018,5519
+"Yankalilla",2019,5617
+"Yankalilla",2020,5736
+"Yankalilla",2021,5931
+"Yankalilla",2022,5991
+"Yankalilla",2023,6100
+"Carnamah",2013,566
+"Carnamah",2014,566
+"Carnamah",2015,568
+"Carnamah",2016,564
+"Carnamah",2017,564
+"Carnamah",2018,555
+"Carnamah",2019,554
+"Carnamah",2020,555
+"Carnamah",2021,573
+"Carnamah",2022,572
+"Carnamah",2023,579
+"Unincorporated NT",2013,8215
+"Unincorporated NT",2014,7970
+"Unincorporated NT",2015,7112
+"Unincorporated NT",2016,7065
+"Unincorporated NT",2017,7034
+"Unincorporated NT",2018,7023
+"Unincorporated NT",2019,7102
+"Unincorporated NT",2020,7263
+"Unincorporated NT",2021,7420
+"Unincorporated NT",2022,7571
+"Unincorporated NT",2023,7713
+"Tweed",2013,90226
+"Tweed",2014,91139
+"Tweed",2015,92261
+"Tweed",2016,93742
+"Tweed",2017,94597
+"Tweed",2018,95355
+"Tweed",2019,96068
+"Tweed",2020,96857
+"Tweed",2021,97216
+"Tweed",2022,97966
+"Tweed",2023,98967
+"Litchfield",2013,22195
+"Litchfield",2014,23256
+"Litchfield",2015,24757
+"Litchfield",2016,25355
+"Litchfield",2017,25203
+"Litchfield",2018,24498
+"Litchfield",2019,23331
+"Litchfield",2020,23111
+"Litchfield",2021,22879
+"Litchfield",2022,23083
+"Litchfield",2023,23415
+"Burke",2013,506
+"Burke",2014,450
+"Burke",2015,396
+"Burke",2016,342
+"Burke",2017,362
+"Burke",2018,381
+"Burke",2019,399
+"Burke",2020,415
+"Burke",2021,430
+"Burke",2022,432
+"Burke",2023,438
+"Inverell",2013,17715
+"Inverell",2014,17746
+"Inverell",2015,17764
+"Inverell",2016,17815
+"Inverell",2017,17840
+"Inverell",2018,17895
+"Inverell",2019,17974
+"Inverell",2020,17985
+"Inverell",2021,17920
+"Inverell",2022,17965
+"Inverell",2023,18059
+"Devonport",2013,25407
+"Devonport",2014,25295
+"Devonport",2015,25162
+"Devonport",2016,25128
+"Devonport",2017,25405
+"Devonport",2018,25852
+"Devonport",2019,26262
+"Devonport",2020,26566
+"Devonport",2021,26896
+"Devonport",2022,26935
+"Devonport",2023,26977
+"Coffs Harbour",2013,72303
+"Coffs Harbour",2014,73016
+"Coffs Harbour",2015,73739
+"Coffs Harbour",2016,74670
+"Coffs Harbour",2017,75753
+"Coffs Harbour",2018,76887
+"Coffs Harbour",2019,77810
+"Coffs Harbour",2020,78409
+"Coffs Harbour",2021,78781
+"Coffs Harbour",2022,79725
+"Coffs Harbour",2023,80489
+"Dardanup",2013,13824
+"Dardanup",2014,14036
+"Dardanup",2015,14190
+"Dardanup",2016,14241
+"Dardanup",2017,14413
+"Dardanup",2018,14503
+"Dardanup",2019,14706
+"Dardanup",2020,14931
+"Dardanup",2021,15197
+"Dardanup",2022,15376
+"Dardanup",2023,15685
+"Narromine",2013,6761
+"Narromine",2014,6721
+"Narromine",2015,6668
+"Narromine",2016,6617
+"Narromine",2017,6596
+"Narromine",2018,6584
+"Narromine",2019,6565
+"Narromine",2020,6521
+"Narromine",2021,6448
+"Narromine",2022,6429
+"Narromine",2023,6443
+"Sutherland Shire",2013,222549
+"Sutherland Shire",2014,223921
+"Sutherland Shire",2015,225218
+"Sutherland Shire",2016,226461
+"Sutherland Shire",2017,227428
+"Sutherland Shire",2018,228239
+"Sutherland Shire",2019,229213
+"Sutherland Shire",2020,230379
+"Sutherland Shire",2021,230994
+"Sutherland Shire",2022,231845
+"Sutherland Shire",2023,235029
+"Loddon",2013,7518
+"Loddon",2014,7513
+"Loddon",2015,7531
+"Loddon",2016,7558
+"Loddon",2017,7569
+"Loddon",2018,7602
+"Loddon",2019,7629
+"Loddon",2020,7657
+"Loddon",2021,7703
+"Loddon",2022,7750
+"Loddon",2023,7747
+"Wyndham",2013,190211
+"Wyndham",2014,201512
+"Wyndham",2015,213815
+"Wyndham",2016,227008
+"Wyndham",2017,241573
+"Wyndham",2018,257010
+"Wyndham",2019,273201
+"Wyndham",2020,287292
+"Wyndham",2021,296322
+"Wyndham",2022,309398
+"Wyndham",2023,324087
+"Oberon",2013,5300
+"Oberon",2014,5318
+"Oberon",2015,5329
+"Oberon",2016,5349
+"Oberon",2017,5409
+"Oberon",2018,5455
+"Oberon",2019,5489
+"Oberon",2020,5540
+"Oberon",2021,5567
+"Oberon",2022,5596
+"Oberon",2023,5600
+"Kellerberrin",2013,1251
+"Kellerberrin",2014,1251
+"Kellerberrin",2015,1249
+"Kellerberrin",2016,1242
+"Kellerberrin",2017,1220
+"Kellerberrin",2018,1202
+"Kellerberrin",2019,1191
+"Kellerberrin",2020,1180
+"Kellerberrin",2021,1177
+"Kellerberrin",2022,1180
+"Kellerberrin",2023,1166
+"Wellington",2013,42721
+"Wellington",2014,42948
+"Wellington",2015,43172
+"Wellington",2016,43530
+"Wellington",2017,43872
+"Wellington",2018,44233
+"Wellington",2019,44676
+"Wellington",2020,45105
+"Wellington",2021,45469
+"Wellington",2022,45818
+"Wellington",2023,46124
+"Charles Sturt",2013,111324
+"Charles Sturt",2014,112846
+"Charles Sturt",2015,114125
+"Charles Sturt",2016,114980
+"Charles Sturt",2017,116438
+"Charles Sturt",2018,118160
+"Charles Sturt",2019,120098
+"Charles Sturt",2020,122119
+"Charles Sturt",2021,123105
+"Charles Sturt",2022,124865
+"Charles Sturt",2023,127440
+"Nungarin",2013,254
+"Nungarin",2014,256
+"Nungarin",2015,259
+"Nungarin",2016,259
+"Nungarin",2017,257
+"Nungarin",2018,257
+"Nungarin",2019,261
+"Nungarin",2020,261
+"Nungarin",2021,263
+"Nungarin",2022,261
+"Nungarin",2023,256
+"Bass Coast",2013,31331
+"Bass Coast",2014,31917
+"Bass Coast",2015,32576
+"Bass Coast",2016,33464
+"Bass Coast",2017,34748
+"Bass Coast",2018,36083
+"Bass Coast",2019,37440
+"Bass Coast",2020,38950
+"Bass Coast",2021,40675
+"Bass Coast",2022,41813
+"Bass Coast",2023,42729
+"Mareeba",2013,21379
+"Mareeba",2014,21542
+"Mareeba",2015,21812
+"Mareeba",2016,22038
+"Mareeba",2017,22227
+"Mareeba",2018,22501
+"Mareeba",2019,22681
+"Mareeba",2020,23010
+"Mareeba",2021,23171
+"Mareeba",2022,23367
+"Mareeba",2023,23702
+"Mount Magnet",2013,661
+"Mount Magnet",2014,615
+"Mount Magnet",2015,563
+"Mount Magnet",2016,507
+"Mount Magnet",2017,542
+"Mount Magnet",2018,560
+"Mount Magnet",2019,599
+"Mount Magnet",2020,643
+"Mount Magnet",2021,699
+"Mount Magnet",2022,701
+"Mount Magnet",2023,701
+"Belmont",2013,39919
+"Belmont",2014,40531
+"Belmont",2015,41055
+"Belmont",2016,41448
+"Belmont",2017,41683
+"Belmont",2018,41872
+"Belmont",2019,42719
+"Belmont",2020,43614
+"Belmont",2021,43868
+"Belmont",2022,44364
+"Belmont",2023,45976
+"Toodyay",2013,4682
+"Toodyay",2014,4620
+"Toodyay",2015,4535
+"Toodyay",2016,4461
+"Toodyay",2017,4513
+"Toodyay",2018,4520
+"Toodyay",2019,4570
+"Toodyay",2020,4611
+"Toodyay",2021,4709
+"Toodyay",2022,4814
+"Toodyay",2023,4954
+"Carrathool",2013,2797
+"Carrathool",2014,2800
+"Carrathool",2015,2766
+"Carrathool",2016,2793
+"Carrathool",2017,2825
+"Carrathool",2018,2864
+"Carrathool",2019,2863
+"Carrathool",2020,2892
+"Carrathool",2021,2873
+"Carrathool",2022,2829
+"Carrathool",2023,2765
+"Edward River",2013,8929
+"Edward River",2014,8962
+"Edward River",2015,9012
+"Edward River",2016,8991
+"Edward River",2017,8847
+"Edward River",2018,8728
+"Edward River",2019,8657
+"Edward River",2020,8547
+"Edward River",2021,8437
+"Edward River",2022,8456
+"Edward River",2023,8430
+"East Gippsland",2013,43809
+"East Gippsland",2014,44277
+"East Gippsland",2015,44868
+"East Gippsland",2016,45600
+"East Gippsland",2017,46219
+"East Gippsland",2018,46881
+"East Gippsland",2019,47464
+"East Gippsland",2020,47874
+"East Gippsland",2021,48477
+"East Gippsland",2022,48939
+"East Gippsland",2023,49179
+"Cook",2013,4222
+"Cook",2014,4065
+"Cook",2015,4217
+"Cook",2016,4302
+"Cook",2017,4414
+"Cook",2018,4471
+"Cook",2019,4532
+"Cook",2020,4579
+"Cook",2021,4631
+"Cook",2022,4673
+"Cook",2023,4761
+"Whitsunday",2013,34113
+"Whitsunday",2014,34362
+"Whitsunday",2015,34509
+"Whitsunday",2016,34538
+"Whitsunday",2017,35083
+"Whitsunday",2018,35651
+"Whitsunday",2019,36266
+"Whitsunday",2020,37105
+"Whitsunday",2021,37642
+"Whitsunday",2022,38509
+"Whitsunday",2023,39712
+"Berri Barmera",2013,10804
+"Berri Barmera",2014,10847
+"Berri Barmera",2015,10854
+"Berri Barmera",2016,10835
+"Berri Barmera",2017,10833
+"Berri Barmera",2018,10826
+"Berri Barmera",2019,10812
+"Berri Barmera",2020,10800
+"Berri Barmera",2021,10741
+"Berri Barmera",2022,10710
+"Berri Barmera",2023,10730
+"Prospect",2013,20959
+"Prospect",2014,21050
+"Prospect",2015,21096
+"Prospect",2016,21124
+"Prospect",2017,21272
+"Prospect",2018,21460
+"Prospect",2019,21841
+"Prospect",2020,22234
+"Prospect",2021,22487
+"Prospect",2022,22750
+"Prospect",2023,23137
+"Wyndham-East Kimberley",2013,8243
+"Wyndham-East Kimberley",2014,8020
+"Wyndham-East Kimberley",2015,7780
+"Wyndham-East Kimberley",2016,7478
+"Wyndham-East Kimberley",2017,7508
+"Wyndham-East Kimberley",2018,7561
+"Wyndham-East Kimberley",2019,7741
+"Wyndham-East Kimberley",2020,7904
+"Wyndham-East Kimberley",2021,8050
+"Wyndham-East Kimberley",2022,8064
+"Wyndham-East Kimberley",2023,8209
+"Central Goldfields",2013,12815
+"Central Goldfields",2014,12884
+"Central Goldfields",2015,12950
+"Central Goldfields",2016,13087
+"Central Goldfields",2017,13200
+"Central Goldfields",2018,13330
+"Central Goldfields",2019,13349
+"Central Goldfields",2020,13304
+"Central Goldfields",2021,13388
+"Central Goldfields",2022,13520
+"Central Goldfields",2023,13574
+"Moira",2013,28905
+"Moira",2014,29100
+"Moira",2015,29288
+"Moira",2016,29486
+"Moira",2017,29717
+"Moira",2018,29910
+"Moira",2019,30099
+"Moira",2020,30298
+"Moira",2021,30367
+"Moira",2022,30584
+"Moira",2023,30775
+"Kingston (SA)",2013,2380
+"Kingston (SA)",2014,2392
+"Kingston (SA)",2015,2403
+"Kingston (SA)",2016,2415
+"Kingston (SA)",2017,2400
+"Kingston (SA)",2018,2362
+"Kingston (SA)",2019,2355
+"Kingston (SA)",2020,2359
+"Kingston (SA)",2021,2375
+"Kingston (SA)",2022,2376
+"Kingston (SA)",2023,2393
+"Wiluna",2013,1131
+"Wiluna",2014,1020
+"Wiluna",2015,894
+"Wiluna",2016,767
+"Wiluna",2017,706
+"Wiluna",2018,657
+"Wiluna",2019,611
+"Wiluna",2020,587
+"Wiluna",2021,570
+"Wiluna",2022,572
+"Wiluna",2023,568
+"Liverpool",2013,196122
+"Liverpool",2014,200725
+"Liverpool",2015,206205
+"Liverpool",2016,211983
+"Liverpool",2017,217465
+"Liverpool",2018,222410
+"Liverpool",2019,227187
+"Liverpool",2020,231268
+"Liverpool",2021,234505
+"Liverpool",2022,239774
+"Liverpool",2023,247672
+"Armidale Regional",2013,28895
+"Armidale Regional",2014,29015
+"Armidale Regional",2015,29160
+"Armidale Regional",2016,29310
+"Armidale Regional",2017,29519
+"Armidale Regional",2018,29631
+"Armidale Regional",2019,29701
+"Armidale Regional",2020,29600
+"Armidale Regional",2021,29332
+"Armidale Regional",2022,29361
+"Armidale Regional",2023,29594
+"Forbes",2013,9608
+"Forbes",2014,9698
+"Forbes",2015,9750
+"Forbes",2016,9817
+"Forbes",2017,9725
+"Forbes",2018,9664
+"Forbes",2019,9590
+"Forbes",2020,9502
+"Forbes",2021,9385
+"Forbes",2022,9338
+"Forbes",2023,9300
+"Torres",2013,3647
+"Torres",2014,3717
+"Torres",2015,3753
+"Torres",2016,3799
+"Torres",2017,3784
+"Torres",2018,3721
+"Torres",2019,3652
+"Torres",2020,3589
+"Torres",2021,3532
+"Torres",2022,3517
+"Torres",2023,3502
+"Coomalie",2013,1369
+"Coomalie",2014,1374
+"Coomalie",2015,1396
+"Coomalie",2016,1412
+"Coomalie",2017,1428
+"Coomalie",2018,1414
+"Coomalie",2019,1411
+"Coomalie",2020,1410
+"Coomalie",2021,1400
+"Coomalie",2022,1396
+"Coomalie",2023,1421
+"Towong",2013,5961
+"Towong",2014,5982
+"Towong",2015,6005
+"Towong",2016,6046
+"Towong",2017,6064
+"Towong",2018,6100
+"Towong",2019,6142
+"Towong",2020,6170
+"Towong",2021,6186
+"Towong",2022,6198
+"Towong",2023,6243
+"Copper Coast",2013,13747
+"Copper Coast",2014,14024
+"Copper Coast",2015,14266
+"Copper Coast",2016,14472
+"Copper Coast",2017,14636
+"Copper Coast",2018,14810
+"Copper Coast",2019,14962
+"Copper Coast",2020,15109
+"Copper Coast",2021,15338
+"Copper Coast",2022,15643
+"Copper Coast",2023,15951
+"Mingenew",2013,487
+"Mingenew",2014,482
+"Mingenew",2015,474
+"Mingenew",2016,465
+"Mingenew",2017,450
+"Mingenew",2018,434
+"Mingenew",2019,430
+"Mingenew",2020,421
+"Mingenew",2021,423
+"Mingenew",2022,423
+"Mingenew",2023,417
+"Koorda",2013,446
+"Koorda",2014,440
+"Koorda",2015,437
+"Koorda",2016,428
+"Koorda",2017,416
+"Koorda",2018,400
+"Koorda",2019,391
+"Koorda",2020,382
+"Koorda",2021,373
+"Koorda",2022,374
+"Koorda",2023,371
+"Clarence Valley",2013,51443
+"Clarence Valley",2014,51498
+"Clarence Valley",2015,51547
+"Clarence Valley",2016,51622
+"Clarence Valley",2017,51953
+"Clarence Valley",2018,52301
+"Clarence Valley",2019,52604
+"Clarence Valley",2020,52893
+"Clarence Valley",2021,54212
+"Clarence Valley",2022,54659
+"Clarence Valley",2023,55323
+"Hilltops",2013,18783
+"Hilltops",2014,18776
+"Hilltops",2015,18760
+"Hilltops",2016,18756
+"Hilltops",2017,18906
+"Hilltops",2018,19019
+"Hilltops",2019,19131
+"Hilltops",2020,19205
+"Hilltops",2021,19223
+"Hilltops",2022,19238
+"Hilltops",2023,19255
+"Penrith",2013,190527
+"Penrith",2014,193765
+"Penrith",2015,197678
+"Penrith",2016,201597
+"Penrith",2017,205517
+"Penrith",2018,209578
+"Penrith",2019,213534
+"Penrith",2020,216922
+"Penrith",2021,219239
+"Penrith",2022,220915
+"Penrith",2023,224483
+"Central Highlands (Tas.)",2013,2278
+"Central Highlands (Tas.)",2014,2239
+"Central Highlands (Tas.)",2015,2203
+"Central Highlands (Tas.)",2016,2169
+"Central Highlands (Tas.)",2017,2222
+"Central Highlands (Tas.)",2018,2296
+"Central Highlands (Tas.)",2019,2377
+"Central Highlands (Tas.)",2020,2473
+"Central Highlands (Tas.)",2021,2579
+"Central Highlands (Tas.)",2022,2586
+"Central Highlands (Tas.)",2023,2595
+"Indigo",2013,15605
+"Indigo",2014,15732
+"Indigo",2015,15922
+"Indigo",2016,16165
+"Indigo",2017,16390
+"Indigo",2018,16613
+"Indigo",2019,16876
+"Indigo",2020,17115
+"Indigo",2021,17251
+"Indigo",2022,17425
+"Indigo",2023,17662
+"Port Adelaide Enfield",2013,119876
+"Port Adelaide Enfield",2014,121422
+"Port Adelaide Enfield",2015,122766
+"Port Adelaide Enfield",2016,124007
+"Port Adelaide Enfield",2017,125690
+"Port Adelaide Enfield",2018,127684
+"Port Adelaide Enfield",2019,130293
+"Port Adelaide Enfield",2020,132967
+"Port Adelaide Enfield",2021,134131
+"Port Adelaide Enfield",2022,135822
+"Port Adelaide Enfield",2023,138585
+"Tasman",2013,2356
+"Tasman",2014,2389
+"Tasman",2015,2391
+"Tasman",2016,2389
+"Tasman",2017,2405
+"Tasman",2018,2443
+"Tasman",2019,2486
+"Tasman",2020,2560
+"Tasman",2021,2643
+"Tasman",2022,2676
+"Tasman",2023,2686
+"Ku-ring-gai",2013,118195
+"Ku-ring-gai",2014,119851
+"Ku-ring-gai",2015,121315
+"Ku-ring-gai",2016,122472
+"Ku-ring-gai",2017,124122
+"Ku-ring-gai",2018,125528
+"Ku-ring-gai",2019,126364
+"Ku-ring-gai",2020,126438
+"Ku-ring-gai",2021,124703
+"Ku-ring-gai",2022,124205
+"Ku-ring-gai",2023,126983
+"Central Highlands (Qld)",2013,29782
+"Central Highlands (Qld)",2014,29598
+"Central Highlands (Qld)",2015,29143
+"Central Highlands (Qld)",2016,28690
+"Central Highlands (Qld)",2017,28573
+"Central Highlands (Qld)",2018,28572
+"Central Highlands (Qld)",2019,28574
+"Central Highlands (Qld)",2020,28524
+"Central Highlands (Qld)",2021,28298
+"Central Highlands (Qld)",2022,28530
+"Central Highlands (Qld)",2023,28973
+"Yarrabah",2013,2686
+"Yarrabah",2014,2694
+"Yarrabah",2015,2695
+"Yarrabah",2016,2702
+"Yarrabah",2017,2663
+"Yarrabah",2018,2643
+"Yarrabah",2019,2621
+"Yarrabah",2020,2606
+"Yarrabah",2021,2597
+"Yarrabah",2022,2619
+"Yarrabah",2023,2640
+"South Gippsland",2013,28273
+"South Gippsland",2014,28521
+"South Gippsland",2015,28781
+"South Gippsland",2016,29122
+"South Gippsland",2017,29361
+"South Gippsland",2018,29604
+"South Gippsland",2019,29923
+"South Gippsland",2020,30272
+"South Gippsland",2021,30388
+"South Gippsland",2022,30708
+"South Gippsland",2023,30823
+"Bunbury",2013,32951
+"Bunbury",2014,32941
+"Bunbury",2015,32872
+"Bunbury",2016,32574
+"Bunbury",2017,32758
+"Bunbury",2018,32897
+"Bunbury",2019,33267
+"Bunbury",2020,33769
+"Bunbury",2021,34137
+"Bunbury",2022,34417
+"Bunbury",2023,34768
+"Capel",2013,16483
+"Capel",2014,16934
+"Capel",2015,17250
+"Capel",2016,17375
+"Capel",2017,17696
+"Capel",2018,18001
+"Capel",2019,18205
+"Capel",2020,18492
+"Capel",2021,18776
+"Capel",2022,19012
+"Capel",2023,19335
+"Wattle Range",2013,11935
+"Wattle Range",2014,11982
+"Wattle Range",2015,12010
+"Wattle Range",2016,12022
+"Wattle Range",2017,12034
+"Wattle Range",2018,12046
+"Wattle Range",2019,12043
+"Wattle Range",2020,12058
+"Wattle Range",2021,12127
+"Wattle Range",2022,12178
+"Wattle Range",2023,12257
+"Blacktown",2013,324797
+"Blacktown",2014,331825
+"Blacktown",2015,339449
+"Blacktown",2016,348030
+"Blacktown",2017,359591
+"Blacktown",2018,369384
+"Blacktown",2019,380186
+"Blacktown",2020,391911
+"Blacktown",2021,399925
+"Blacktown",2022,410944
+"Blacktown",2023,426202
+"Muswellbrook",2013,16415
+"Muswellbrook",2014,16431
+"Muswellbrook",2015,16435
+"Muswellbrook",2016,16462
+"Muswellbrook",2017,16519
+"Muswellbrook",2018,16520
+"Muswellbrook",2019,16554
+"Muswellbrook",2020,16539
+"Muswellbrook",2021,16469
+"Muswellbrook",2022,16540
+"Muswellbrook",2023,16778
+"Tamworth Regional",2013,59240
+"Tamworth Regional",2014,59872
+"Tamworth Regional",2015,60432
+"Tamworth Regional",2016,60990
+"Tamworth Regional",2017,61758
+"Tamworth Regional",2018,62511
+"Tamworth Regional",2019,63183
+"Tamworth Regional",2020,63405
+"Tamworth Regional",2021,63670
+"Tamworth Regional",2022,64520
+"Tamworth Regional",2023,65246
+"Hope Vale",2013,1043
+"Hope Vale",2014,1030
+"Hope Vale",2015,1009
+"Hope Vale",2016,1014
+"Hope Vale",2017,1005
+"Hope Vale",2018,1011
+"Hope Vale",2019,1013
+"Hope Vale",2020,1007
+"Hope Vale",2021,998
+"Hope Vale",2022,1004
+"Hope Vale",2023,1026
+"Greater Hume Shire",2013,10220
+"Greater Hume Shire",2014,10318
+"Greater Hume Shire",2015,10441
+"Greater Hume Shire",2016,10519
+"Greater Hume Shire",2017,10601
+"Greater Hume Shire",2018,10701
+"Greater Hume Shire",2019,10801
+"Greater Hume Shire",2020,10931
+"Greater Hume Shire",2021,11109
+"Greater Hume Shire",2022,11266
+"Greater Hume Shire",2023,11445
+"Barkly",2013,7810
+"Barkly",2014,7663
+"Barkly",2015,7572
+"Barkly",2016,7426
+"Barkly",2017,7342
+"Barkly",2018,7257
+"Barkly",2019,7212
+"Barkly",2020,7228
+"Barkly",2021,7189
+"Barkly",2022,7212
+"Barkly",2023,7239
+"Robe",2013,1425
+"Robe",2014,1425
+"Robe",2015,1423
+"Robe",2016,1413
+"Robe",2017,1435
+"Robe",2018,1471
+"Robe",2019,1490
+"Robe",2020,1526
+"Robe",2021,1568
+"Robe",2022,1588
+"Robe",2023,1603
+"Paroo",2013,1849
+"Paroo",2014,1807
+"Paroo",2015,1734
+"Paroo",2016,1668
+"Paroo",2017,1679
+"Paroo",2018,1666
+"Paroo",2019,1671
+"Paroo",2020,1683
+"Paroo",2021,1707
+"Paroo",2022,1712
+"Paroo",2023,1725
+"Carnarvon",2013,6034
+"Carnarvon",2014,5951
+"Carnarvon",2015,5844
+"Carnarvon",2016,5713
+"Carnarvon",2017,5652
+"Carnarvon",2018,5574
+"Carnarvon",2019,5497
+"Carnarvon",2020,5491
+"Carnarvon",2021,5520
+"Carnarvon",2022,5522
+"Carnarvon",2023,5528
+"Coolamon",2013,4328
+"Coolamon",2014,4357
+"Coolamon",2015,4366
+"Coolamon",2016,4390
+"Coolamon",2017,4423
+"Coolamon",2018,4415
+"Coolamon",2019,4413
+"Coolamon",2020,4404
+"Coolamon",2021,4403
+"Coolamon",2022,4465
+"Coolamon",2023,4549
+"Gold Coast",2013,540687
+"Gold Coast",2014,550718
+"Gold Coast",2015,561629
+"Gold Coast",2016,575303
+"Gold Coast",2017,589101
+"Gold Coast",2018,602443
+"Gold Coast",2019,614435
+"Gold Coast",2020,626342
+"Gold Coast",2021,633598
+"Gold Coast",2022,647178
+"Gold Coast",2023,666087
+"Adelaide Hills",2013,39687
+"Adelaide Hills",2014,39657
+"Adelaide Hills",2015,39630
+"Adelaide Hills",2016,39632
+"Adelaide Hills",2017,39875
+"Adelaide Hills",2018,40173
+"Adelaide Hills",2019,40587
+"Adelaide Hills",2020,40969
+"Adelaide Hills",2021,41237
+"Adelaide Hills",2022,41408
+"Adelaide Hills",2023,41842
+"Goulburn Mulwaree",2013,29187
+"Goulburn Mulwaree",2014,29486
+"Goulburn Mulwaree",2015,29815
+"Goulburn Mulwaree",2016,30261
+"Goulburn Mulwaree",2017,30642
+"Goulburn Mulwaree",2018,31072
+"Goulburn Mulwaree",2019,31490
+"Goulburn Mulwaree",2020,31934
+"Goulburn Mulwaree",2021,32150
+"Goulburn Mulwaree",2022,32428
+"Goulburn Mulwaree",2023,32710
+"Upper Lachlan Shire",2013,7594
+"Upper Lachlan Shire",2014,7722
+"Upper Lachlan Shire",2015,7804
+"Upper Lachlan Shire",2016,7853
+"Upper Lachlan Shire",2017,8003
+"Upper Lachlan Shire",2018,8097
+"Upper Lachlan Shire",2019,8220
+"Upper Lachlan Shire",2020,8378
+"Upper Lachlan Shire",2021,8494
+"Upper Lachlan Shire",2022,8550
+"Upper Lachlan Shire",2023,8706
+"Elliston",2013,1067
+"Elliston",2014,1068
+"Elliston",2015,1071
+"Elliston",2016,1070
+"Elliston",2017,1071
+"Elliston",2018,1059
+"Elliston",2019,1050
+"Elliston",2020,1046
+"Elliston",2021,1038
+"Elliston",2022,1032
+"Elliston",2023,1041
+"Yass Valley",2013,16010
+"Yass Valley",2014,16188
+"Yass Valley",2015,16356
+"Yass Valley",2016,16568
+"Yass Valley",2017,16669
+"Yass Valley",2018,16796
+"Yass Valley",2019,16941
+"Yass Valley",2020,17092
+"Yass Valley",2021,17240
+"Yass Valley",2022,17379
+"Yass Valley",2023,17477
+"Swan Hill",2013,21003
+"Swan Hill",2014,20940
+"Swan Hill",2015,20893
+"Swan Hill",2016,20896
+"Swan Hill",2017,21069
+"Swan Hill",2018,21240
+"Swan Hill",2019,21407
+"Swan Hill",2020,21499
+"Swan Hill",2021,21381
+"Swan Hill",2022,21239
+"Swan Hill",2023,21212
+"Denmark",2013,5804
+"Denmark",2014,5872
+"Denmark",2015,5957
+"Denmark",2016,6018
+"Denmark",2017,6133
+"Denmark",2018,6165
+"Denmark",2019,6235
+"Denmark",2020,6398
+"Denmark",2021,6468
+"Denmark",2022,6539
+"Denmark",2023,6618
+"Merredin",2013,3379
+"Merredin",2014,3380
+"Merredin",2015,3385
+"Merredin",2016,3395
+"Merredin",2017,3385
+"Merredin",2018,3349
+"Merredin",2019,3286
+"Merredin",2020,3254
+"Merredin",2021,3221
+"Merredin",2022,3235
+"Merredin",2023,3268
+"Buloke",2013,6388
+"Buloke",2014,6335
+"Buloke",2015,6306
+"Buloke",2016,6284
+"Buloke",2017,6221
+"Buloke",2018,6214
+"Buloke",2019,6166
+"Buloke",2020,6156
+"Buloke",2021,6132
+"Buloke",2022,6120
+"Buloke",2023,6040
+"Greater Bendigo",2013,105957
+"Greater Bendigo",2014,107955
+"Greater Bendigo",2015,109908
+"Greater Bendigo",2016,112267
+"Greater Bendigo",2017,114265
+"Greater Bendigo",2018,116186
+"Greater Bendigo",2019,118214
+"Greater Bendigo",2020,119958
+"Greater Bendigo",2021,121272
+"Greater Bendigo",2022,122704
+"Greater Bendigo",2023,124174
+"Kojonup",2013,2044
+"Kojonup",2014,2029
+"Kojonup",2015,2027
+"Kojonup",2016,2010
+"Kojonup",2017,2013
+"Kojonup",2018,2009
+"Kojonup",2019,1979
+"Kojonup",2020,1964
+"Kojonup",2021,1963
+"Kojonup",2022,1976
+"Kojonup",2023,1967
+"Cassowary Coast",2013,28950
+"Cassowary Coast",2014,29038
+"Cassowary Coast",2015,29098
+"Cassowary Coast",2016,29287
+"Cassowary Coast",2017,29442
+"Cassowary Coast",2018,29536
+"Cassowary Coast",2019,29564
+"Cassowary Coast",2020,29608
+"Cassowary Coast",2021,29511
+"Cassowary Coast",2022,29605
+"Cassowary Coast",2023,29972
+"Tea Tree Gully",2013,98558
+"Tea Tree Gully",2014,98726
+"Tea Tree Gully",2015,98983
+"Tea Tree Gully",2016,99153
+"Tea Tree Gully",2017,99567
+"Tea Tree Gully",2018,100132
+"Tea Tree Gully",2019,100837
+"Tea Tree Gully",2020,101613
+"Tea Tree Gully",2021,102044
+"Tea Tree Gully",2022,102610
+"Tea Tree Gully",2023,103685
+"Bruce Rock",2013,988
+"Bruce Rock",2014,966
+"Bruce Rock",2015,955
+"Bruce Rock",2016,941
+"Bruce Rock",2017,953
+"Bruce Rock",2018,964
+"Bruce Rock",2019,982
+"Bruce Rock",2020,1000
+"Bruce Rock",2021,1016
+"Bruce Rock",2022,1020
+"Bruce Rock",2023,1043
+"Corrigin",2013,1147
+"Corrigin",2014,1161
+"Corrigin",2015,1168
+"Corrigin",2016,1193
+"Corrigin",2017,1153
+"Corrigin",2018,1102
+"Corrigin",2019,1067
+"Corrigin",2020,1044
+"Corrigin",2021,1028
+"Corrigin",2022,1023
+"Corrigin",2023,1029
+"King Island",2013,1619
+"King Island",2014,1611
+"King Island",2015,1599
+"King Island",2016,1594
+"King Island",2017,1600
+"King Island",2018,1616
+"King Island",2019,1633
+"King Island",2020,1639
+"King Island",2021,1652
+"King Island",2022,1675
+"King Island",2023,1648
+"Rockingham",2013,119300
+"Rockingham",2014,123038
+"Rockingham",2015,126012
+"Rockingham",2016,128992
+"Rockingham",2017,130672
+"Rockingham",2018,132911
+"Rockingham",2019,135440
+"Rockingham",2020,137931
+"Rockingham",2021,140584
+"Rockingham",2022,143754
+"Rockingham",2023,148822
+"Bega Valley",2013,33430
+"Bega Valley",2014,33562
+"Bega Valley",2015,33713
+"Bega Valley",2016,33941
+"Bega Valley",2017,34287
+"Bega Valley",2018,34674
+"Bega Valley",2019,35026
+"Bega Valley",2020,35428
+"Bega Valley",2021,35770
+"Bega Valley",2022,35985
+"Bega Valley",2023,36279
+"Richmond Valley",2013,22981
+"Richmond Valley",2014,23087
+"Richmond Valley",2015,23148
+"Richmond Valley",2016,23256
+"Richmond Valley",2017,23336
+"Richmond Valley",2018,23446
+"Richmond Valley",2019,23525
+"Richmond Valley",2020,23593
+"Richmond Valley",2021,23595
+"Richmond Valley",2022,23700
+"Richmond Valley",2023,23705
+"Southern Grampians",2013,16355
+"Southern Grampians",2014,16255
+"Southern Grampians",2015,16162
+"Southern Grampians",2016,16123
+"Southern Grampians",2017,16207
+"Southern Grampians",2018,16291
+"Southern Grampians",2019,16378
+"Southern Grampians",2020,16506
+"Southern Grampians",2021,16492
+"Southern Grampians",2022,16401
+"Southern Grampians",2023,16470
+"Livingstone",2013,35279
+"Livingstone",2014,36063
+"Livingstone",2015,36579
+"Livingstone",2016,36950
+"Livingstone",2017,37452
+"Livingstone",2018,37950
+"Livingstone",2019,38548
+"Livingstone",2020,39206
+"Livingstone",2021,39877
+"Livingstone",2022,40901
+"Livingstone",2023,41906
+"Wanneroo",2013,176627
+"Wanneroo",2014,182385
+"Wanneroo",2015,188278
+"Wanneroo",2016,194779
+"Wanneroo",2017,199194
+"Wanneroo",2018,203526
+"Wanneroo",2019,208263
+"Wanneroo",2020,212823
+"Wanneroo",2021,216422
+"Wanneroo",2022,221257
+"Wanneroo",2023,229438
+"Warrumbungle Shire",2013,9743
+"Warrumbungle Shire",2014,9689
+"Warrumbungle Shire",2015,9622
+"Warrumbungle Shire",2016,9562
+"Warrumbungle Shire",2017,9489
+"Warrumbungle Shire",2018,9454
+"Warrumbungle Shire",2019,9377
+"Warrumbungle Shire",2020,9358
+"Warrumbungle Shire",2021,9256
+"Warrumbungle Shire",2022,9245
+"Warrumbungle Shire",2023,9228
+"Kentish",2013,6334
+"Kentish",2014,6317
+"Kentish",2015,6286
+"Kentish",2016,6263
+"Kentish",2017,6314
+"Kentish",2018,6386
+"Kentish",2019,6461
+"Kentish",2020,6583
+"Kentish",2021,6775
+"Kentish",2022,6805
+"Kentish",2023,6831
+"Hindmarsh",2013,5852
+"Hindmarsh",2014,5844
+"Hindmarsh",2015,5808
+"Hindmarsh",2016,5784
+"Hindmarsh",2017,5728
+"Hindmarsh",2018,5691
+"Hindmarsh",2019,5668
+"Hindmarsh",2020,5668
+"Hindmarsh",2021,5656
+"Hindmarsh",2022,5601
+"Hindmarsh",2023,5559
+"Murrumbidgee",2013,3920
+"Murrumbidgee",2014,3900
+"Murrumbidgee",2015,3893
+"Murrumbidgee",2016,3929
+"Murrumbidgee",2017,3854
+"Murrumbidgee",2018,3809
+"Murrumbidgee",2019,3753
+"Murrumbidgee",2020,3625
+"Murrumbidgee",2021,3564
+"Murrumbidgee",2022,3566
+"Murrumbidgee",2023,3607
+"Glenelg",2013,19797
+"Glenelg",2014,19755
+"Glenelg",2015,19722
+"Glenelg",2016,19759
+"Glenelg",2017,19802
+"Glenelg",2018,19893
+"Glenelg",2019,19992
+"Glenelg",2020,20055
+"Glenelg",2021,20058
+"Glenelg",2022,20049
+"Glenelg",2023,20022
+"Adelaide",2013,22143
+"Adelaide",2014,22624
+"Adelaide",2015,23085
+"Adelaide",2016,23552
+"Adelaide",2017,24188
+"Adelaide",2018,24688
+"Adelaide",2019,25376
+"Adelaide",2020,25964
+"Adelaide",2021,25522
+"Adelaide",2022,26183
+"Adelaide",2023,27901
+"Albury",2013,50338
+"Albury",2014,50990
+"Albury",2015,51486
+"Albury",2016,52171
+"Albury",2017,53056
+"Albury",2018,53922
+"Albury",2019,54657
+"Albury",2020,55466
+"Albury",2021,56067
+"Albury",2022,56665
+"Albury",2023,57517
+"Mount Barker",2013,31580
+"Mount Barker",2014,32386
+"Mount Barker",2015,33187
+"Mount Barker",2016,33897
+"Mount Barker",2017,34735
+"Mount Barker",2018,35637
+"Mount Barker",2019,36842
+"Mount Barker",2020,38206
+"Mount Barker",2021,39632
+"Mount Barker",2022,41083
+"Mount Barker",2023,42297
+"Irwin",2013,3749
+"Irwin",2014,3702
+"Irwin",2015,3662
+"Irwin",2016,3604
+"Irwin",2017,3636
+"Irwin",2018,3627
+"Irwin",2019,3670
+"Irwin",2020,3730
+"Irwin",2021,3769
+"Irwin",2022,3795
+"Irwin",2023,3842
+"Cowra",2013,12511
+"Cowra",2014,12556
+"Cowra",2015,12604
+"Cowra",2016,12659
+"Cowra",2017,12697
+"Cowra",2018,12726
+"Cowra",2019,12732
+"Cowra",2020,12748
+"Cowra",2021,12759
+"Cowra",2022,12703
+"Cowra",2023,12659
+"McKinlay",2013,992
+"McKinlay",2014,943
+"McKinlay",2015,876
+"McKinlay",2016,816
+"McKinlay",2017,811
+"McKinlay",2018,817
+"McKinlay",2019,822
+"McKinlay",2020,828
+"McKinlay",2021,838
+"McKinlay",2022,846
+"McKinlay",2023,849
+"Napranum",2013,922
+"Napranum",2014,939
+"Napranum",2015,959
+"Napranum",2016,989
+"Napranum",2017,973
+"Napranum",2018,958
+"Napranum",2019,943
+"Napranum",2020,923
+"Napranum",2021,906
+"Napranum",2022,906
+"Napranum",2023,924
+"Golden Plains",2013,20362
+"Golden Plains",2014,20899
+"Golden Plains",2015,21388
+"Golden Plains",2016,22016
+"Golden Plains",2017,22613
+"Golden Plains",2018,23191
+"Golden Plains",2019,23810
+"Golden Plains",2020,24366
+"Golden Plains",2021,24892
+"Golden Plains",2022,25321
+"Golden Plains",2023,25818
+"Woollahra",2013,56909
+"Woollahra",2014,57253
+"Woollahra",2015,57513
+"Woollahra",2016,57744
+"Woollahra",2017,57750
+"Woollahra",2018,57370
+"Woollahra",2019,56892
+"Woollahra",2020,55951
+"Woollahra",2021,53910
+"Woollahra",2022,53525
+"Woollahra",2023,54660
+"Peterborough",2013,1728
+"Peterborough",2014,1717
+"Peterborough",2015,1706
+"Peterborough",2016,1712
+"Peterborough",2017,1723
+"Peterborough",2018,1705
+"Peterborough",2019,1696
+"Peterborough",2020,1681
+"Peterborough",2021,1668
+"Peterborough",2022,1672
+"Peterborough",2023,1683
+"Southern Midlands",2013,6183
+"Southern Midlands",2014,6139
+"Southern Midlands",2015,6096
+"Southern Midlands",2016,6083
+"Southern Midlands",2017,6129
+"Southern Midlands",2018,6257
+"Southern Midlands",2019,6465
+"Southern Midlands",2020,6639
+"Southern Midlands",2021,6834
+"Southern Midlands",2022,6887
+"Southern Midlands",2023,6912
+"Serpentine-Jarrahdale",2013,22011
+"Serpentine-Jarrahdale",2014,23592
+"Serpentine-Jarrahdale",2015,25499
+"Serpentine-Jarrahdale",2016,27578
+"Serpentine-Jarrahdale",2017,29002
+"Serpentine-Jarrahdale",2018,30159
+"Serpentine-Jarrahdale",2019,31410
+"Serpentine-Jarrahdale",2020,32437
+"Serpentine-Jarrahdale",2021,33349
+"Serpentine-Jarrahdale",2022,34795
+"Serpentine-Jarrahdale",2023,36739
+"Sorell",2013,13736
+"Sorell",2014,13981
+"Sorell",2015,14200
+"Sorell",2016,14482
+"Sorell",2017,14929
+"Sorell",2018,15433
+"Sorell",2019,15952
+"Sorell",2020,16471
+"Sorell",2021,16963
+"Sorell",2022,17429
+"Sorell",2023,17635
+"Gnowangerup",2013,1294
+"Gnowangerup",2014,1275
+"Gnowangerup",2015,1255
+"Gnowangerup",2016,1237
+"Gnowangerup",2017,1237
+"Gnowangerup",2018,1245
+"Gnowangerup",2019,1241
+"Gnowangerup",2020,1250
+"Gnowangerup",2021,1260
+"Gnowangerup",2022,1264
+"Gnowangerup",2023,1269
+"Liverpool Plains",2013,7812
+"Liverpool Plains",2014,7831
+"Liverpool Plains",2015,7837
+"Liverpool Plains",2016,7847
+"Liverpool Plains",2017,7829
+"Liverpool Plains",2018,7806
+"Liverpool Plains",2019,7780
+"Liverpool Plains",2020,7702
+"Liverpool Plains",2021,7608
+"Liverpool Plains",2022,7659
+"Liverpool Plains",2023,7667
+"Boulia",2013,481
+"Boulia",2014,473
+"Boulia",2015,459
+"Boulia",2016,436
+"Boulia",2017,435
+"Boulia",2018,447
+"Boulia",2019,454
+"Boulia",2020,458
+"Boulia",2021,470
+"Boulia",2022,474
+"Boulia",2023,478
+"Gladstone",2013,62158
+"Gladstone",2014,63367
+"Gladstone",2015,63697
+"Gladstone",2016,63017
+"Gladstone",2017,62859
+"Gladstone",2018,63077
+"Gladstone",2019,63495
+"Gladstone",2020,63890
+"Gladstone",2021,64275
+"Gladstone",2022,65302
+"Gladstone",2023,66835
+"Dumbleyung",2013,653
+"Dumbleyung",2014,653
+"Dumbleyung",2015,663
+"Dumbleyung",2016,684
+"Dumbleyung",2017,684
+"Dumbleyung",2018,688
+"Dumbleyung",2019,691
+"Dumbleyung",2020,699
+"Dumbleyung",2021,698
+"Dumbleyung",2022,693
+"Dumbleyung",2023,701
+"Meander Valley",2013,19540
+"Meander Valley",2014,19519
+"Meander Valley",2015,19502
+"Meander Valley",2016,19553
+"Meander Valley",2017,19802
+"Meander Valley",2018,20037
+"Meander Valley",2019,20286
+"Meander Valley",2020,20603
+"Meander Valley",2021,21139
+"Meander Valley",2022,21354
+"Meander Valley",2023,21449
+"Cabonne",2013,13473
+"Cabonne",2014,13506
+"Cabonne",2015,13511
+"Cabonne",2016,13577
+"Cabonne",2017,13683
+"Cabonne",2018,13729
+"Cabonne",2019,13773
+"Cabonne",2020,13814
+"Cabonne",2021,13767
+"Cabonne",2022,13843
+"Cabonne",2023,13880
+"Victor Harbor",2013,14525
+"Victor Harbor",2014,14729
+"Victor Harbor",2015,14886
+"Victor Harbor",2016,15011
+"Victor Harbor",2017,15204
+"Victor Harbor",2018,15419
+"Victor Harbor",2019,15708
+"Victor Harbor",2020,16068
+"Victor Harbor",2021,16429
+"Victor Harbor",2022,16721
+"Victor Harbor",2023,16869
+"Camden",2013,64095
+"Camden",2014,68645
+"Camden",2015,74103
+"Camden",2016,80268
+"Camden",2017,88297
+"Camden",2018,96023
+"Camden",2019,104706
+"Camden",2020,112451
+"Camden",2021,120083
+"Camden",2022,127808
+"Camden",2023,134811
+"Kyogle",2013,9345
+"Kyogle",2014,9288
+"Kyogle",2015,9197
+"Kyogle",2016,9114
+"Kyogle",2017,9171
+"Kyogle",2018,9208
+"Kyogle",2019,9248
+"Kyogle",2020,9304
+"Kyogle",2021,9346
+"Kyogle",2022,9452
+"Kyogle",2023,9468
+"Griffith",2013,25705
+"Griffith",2014,25942
+"Griffith",2015,26171
+"Griffith",2016,26356
+"Griffith",2017,26653
+"Griffith",2018,26896
+"Griffith",2019,27102
+"Griffith",2020,27249
+"Griffith",2021,27195
+"Griffith",2022,27015
+"Griffith",2023,27132
+"Weddin",2013,3723
+"Weddin",2014,3706
+"Weddin",2015,3688
+"Weddin",2016,3677
+"Weddin",2017,3672
+"Weddin",2018,3656
+"Weddin",2019,3635
+"Weddin",2020,3619
+"Weddin",2021,3592
+"Weddin",2022,3614
+"Weddin",2023,3616
+"Melton",2013,123936
+"Melton",2014,129309
+"Melton",2015,134915
+"Melton",2016,141420
+"Melton",2017,148711
+"Melton",2018,157019
+"Melton",2019,165535
+"Melton",2020,173566
+"Melton",2021,181346
+"Melton",2022,193285
+"Melton",2023,206070
+"Mount Gambier",2013,26425
+"Mount Gambier",2014,26710
+"Mount Gambier",2015,26931
+"Mount Gambier",2016,27061
+"Mount Gambier",2017,27114
+"Mount Gambier",2018,27242
+"Mount Gambier",2019,27379
+"Mount Gambier",2020,27565
+"Mount Gambier",2021,27637
+"Mount Gambier",2022,27744
+"Mount Gambier",2023,27846
+"Northern Grampians",2013,11880
+"Northern Grampians",2014,11777
+"Northern Grampians",2015,11644
+"Northern Grampians",2016,11570
+"Northern Grampians",2017,11591
+"Northern Grampians",2018,11634
+"Northern Grampians",2019,11707
+"Northern Grampians",2020,11805
+"Northern Grampians",2021,11886
+"Northern Grampians",2022,11879
+"Northern Grampians",2023,11879
+"Western Downs",2013,33415
+"Western Downs",2014,33744
+"Western Downs",2015,33867
+"Western Downs",2016,34049
+"Western Downs",2017,34292
+"Western Downs",2018,34338
+"Western Downs",2019,34420
+"Western Downs",2020,34390
+"Western Downs",2021,34351
+"Western Downs",2022,34537
+"Western Downs",2023,34991
+"Jerramungup",2013,1112
+"Jerramungup",2014,1120
+"Jerramungup",2015,1127
+"Jerramungup",2016,1127
+"Jerramungup",2017,1123
+"Jerramungup",2018,1132
+"Jerramungup",2019,1146
+"Jerramungup",2020,1162
+"Jerramungup",2021,1196
+"Jerramungup",2022,1196
+"Jerramungup",2023,1213
+"Kalamunda",2013,58622
+"Kalamunda",2014,59113
+"Kalamunda",2015,59298
+"Kalamunda",2016,59201
+"Kalamunda",2017,59337
+"Kalamunda",2018,59442
+"Kalamunda",2019,59750
+"Kalamunda",2020,60337
+"Kalamunda",2021,60804
+"Kalamunda",2022,61294
+"Kalamunda",2023,62670
+"Palmerston",2013,32972
+"Palmerston",2014,34478
+"Palmerston",2015,35414
+"Palmerston",2016,36013
+"Palmerston",2017,36797
+"Palmerston",2018,37596
+"Palmerston",2019,38200
+"Palmerston",2020,38902
+"Palmerston",2021,39530
+"Palmerston",2022,40467
+"Palmerston",2023,41113
+"Perth",2013,24317
+"Perth",2014,25257
+"Perth",2015,26096
+"Perth",2016,26879
+"Perth",2017,27112
+"Perth",2018,27433
+"Perth",2019,28214
+"Perth",2020,29588
+"Perth",2021,29653
+"Perth",2022,30580
+"Perth",2023,32856
+"Moreton Bay",2013,410687
+"Moreton Bay",2014,419764
+"Moreton Bay",2015,428994
+"Moreton Bay",2016,439292
+"Moreton Bay",2017,448559
+"Moreton Bay",2018,458013
+"Moreton Bay",2019,467314
+"Moreton Bay",2020,476622
+"Moreton Bay",2021,484353
+"Moreton Bay",2022,496772
+"Moreton Bay",2023,510104
+"Bathurst Regional",2013,40727
+"Bathurst Regional",2014,41157
+"Bathurst Regional",2015,41694
+"Bathurst Regional",2016,42244
+"Bathurst Regional",2017,42583
+"Bathurst Regional",2018,42882
+"Bathurst Regional",2019,43207
+"Bathurst Regional",2020,43444
+"Bathurst Regional",2021,43674
+"Bathurst Regional",2022,44110
+"Bathurst Regional",2023,44612
+"Baw Baw",2013,45627
+"Baw Baw",2014,46644
+"Baw Baw",2015,47837
+"Baw Baw",2016,49296
+"Baw Baw",2017,50883
+"Baw Baw",2018,52447
+"Baw Baw",2019,54047
+"Baw Baw",2020,55753
+"Baw Baw",2021,57618
+"Baw Baw",2022,59277
+"Baw Baw",2023,60644
+"Wujal Wujal",2013,289
+"Wujal Wujal",2014,291
+"Wujal Wujal",2015,287
+"Wujal Wujal",2016,292
+"Wujal Wujal",2017,292
+"Wujal Wujal",2018,290
+"Wujal Wujal",2019,289
+"Wujal Wujal",2020,287
+"Wujal Wujal",2021,284
+"Wujal Wujal",2022,286
+"Wujal Wujal",2023,293
+"Bayside (NSW)",2013,151309
+"Bayside (NSW)",2014,154980
+"Bayside (NSW)",2015,159222
+"Bayside (NSW)",2016,164534
+"Bayside (NSW)",2017,168779
+"Bayside (NSW)",2018,171377
+"Bayside (NSW)",2019,173913
+"Bayside (NSW)",2020,176184
+"Bayside (NSW)",2021,176229
+"Bayside (NSW)",2022,177992
+"Bayside (NSW)",2023,182987
+"Port Augusta",2013,14496
+"Port Augusta",2014,14498
+"Port Augusta",2015,14442
+"Port Augusta",2016,14359
+"Port Augusta",2017,14361
+"Port Augusta",2018,14380
+"Port Augusta",2019,14384
+"Port Augusta",2020,14389
+"Port Augusta",2021,14448
+"Port Augusta",2022,14449
+"Port Augusta",2023,14420
+"Kalgoorlie-Boulder",2013,33267
+"Kalgoorlie-Boulder",2014,32498
+"Kalgoorlie-Boulder",2015,31748
+"Kalgoorlie-Boulder",2016,30840
+"Kalgoorlie-Boulder",2017,30908
+"Kalgoorlie-Boulder",2018,30750
+"Kalgoorlie-Boulder",2019,30636
+"Kalgoorlie-Boulder",2020,30590
+"Kalgoorlie-Boulder",2021,30670
+"Kalgoorlie-Boulder",2022,30756
+"Kalgoorlie-Boulder",2023,30775
+"Derwent Valley",2013,9977
+"Derwent Valley",2014,10013
+"Derwent Valley",2015,10048
+"Derwent Valley",2016,10087
+"Derwent Valley",2017,10233
+"Derwent Valley",2018,10481
+"Derwent Valley",2019,10729
+"Derwent Valley",2020,10926
+"Derwent Valley",2021,11106
+"Derwent Valley",2022,11235
+"Derwent Valley",2023,11341
+"Murrindindi",2013,13563
+"Murrindindi",2014,13687
+"Murrindindi",2015,13848
+"Murrindindi",2016,14052
+"Murrindindi",2017,14290
+"Murrindindi",2018,14561
+"Murrindindi",2019,14737
+"Murrindindi",2020,14872
+"Murrindindi",2021,15139
+"Murrindindi",2022,15353
+"Murrindindi",2023,15482
+"Unley",2013,38552
+"Unley",2014,38695
+"Unley",2015,38823
+"Unley",2016,38939
+"Unley",2017,39078
+"Unley",2018,39187
+"Unley",2019,39322
+"Unley",2020,39465
+"Unley",2021,39061
+"Unley",2022,39092
+"Unley",2023,39929
+"Newcastle",2013,157477
+"Newcastle",2014,158683
+"Newcastle",2015,159680
+"Newcastle",2016,160707
+"Newcastle",2017,162796
+"Newcastle",2018,164730
+"Newcastle",2019,166510
+"Newcastle",2020,168242
+"Newcastle",2021,169433
+"Newcastle",2022,171535
+"Newcastle",2023,174294
+"Southern Downs",2013,35501
+"Southern Downs",2014,35580
+"Southern Downs",2015,35566
+"Southern Downs",2016,35638
+"Southern Downs",2017,35899
+"Southern Downs",2018,36118
+"Southern Downs",2019,36239
+"Southern Downs",2020,36393
+"Southern Downs",2021,36637
+"Southern Downs",2022,36991
+"Southern Downs",2023,37444
+"Gingin",2013,5267
+"Gingin",2014,5356
+"Gingin",2015,5351
+"Gingin",2016,5325
+"Gingin",2017,5349
+"Gingin",2018,5384
+"Gingin",2019,5470
+"Gingin",2020,5611
+"Gingin",2021,5751
+"Gingin",2022,5896
+"Gingin",2023,6064
+"Georges River",2013,146604
+"Georges River",2014,148882
+"Georges River",2015,151069
+"Georges River",2016,153161
+"Georges River",2017,155276
+"Georges River",2018,156225
+"Georges River",2019,156510
+"Georges River",2020,155919
+"Georges River",2021,152800
+"Georges River",2022,153267
+"Georges River",2023,158051
+"Moorabool",2013,30410
+"Moorabool",2014,31066
+"Moorabool",2015,31748
+"Moorabool",2016,32672
+"Moorabool",2017,33689
+"Moorabool",2018,34662
+"Moorabool",2019,35793
+"Moorabool",2020,36944
+"Moorabool",2021,37910
+"Moorabool",2022,38526
+"Moorabool",2023,39092
+"Northern Beaches",2013,257020
+"Northern Beaches",2014,259723
+"Northern Beaches",2015,262593
+"Northern Beaches",2016,265468
+"Northern Beaches",2017,267483
+"Northern Beaches",2018,268390
+"Northern Beaches",2019,268935
+"Northern Beaches",2020,268164
+"Northern Beaches",2021,264567
+"Northern Beaches",2022,263340
+"Northern Beaches",2023,267921
+"Mornington Peninsula",2013,154001
+"Mornington Peninsula",2014,156500
+"Mornington Peninsula",2015,158831
+"Mornington Peninsula",2016,161528
+"Mornington Peninsula",2017,164188
+"Mornington Peninsula",2018,166564
+"Mornington Peninsula",2019,168594
+"Mornington Peninsula",2020,170186
+"Mornington Peninsula",2021,170440
+"Mornington Peninsula",2022,169733
+"Mornington Peninsula",2023,170243
+"Dorset",2013,7010
+"Dorset",2014,6920
+"Dorset",2015,6816
+"Dorset",2016,6724
+"Dorset",2017,6736
+"Dorset",2018,6739
+"Dorset",2019,6779
+"Dorset",2020,6863
+"Dorset",2021,6983
+"Dorset",2022,7022
+"Dorset",2023,7001
+"Hinchinbrook",2013,11613
+"Hinchinbrook",2014,11412
+"Hinchinbrook",2015,11181
+"Hinchinbrook",2016,10968
+"Hinchinbrook",2017,10950
+"Hinchinbrook",2018,10944
+"Hinchinbrook",2019,10891
+"Hinchinbrook",2020,10911
+"Hinchinbrook",2021,10990
+"Hinchinbrook",2022,11087
+"Hinchinbrook",2023,11118
+"Maranoa",2013,13515
+"Maranoa",2014,13434
+"Maranoa",2015,13292
+"Maranoa",2016,12926
+"Maranoa",2017,12927
+"Maranoa",2018,12914
+"Maranoa",2019,12835
+"Maranoa",2020,12891
+"Maranoa",2021,12957
+"Maranoa",2022,13099
+"Maranoa",2023,13255
+"Light",2013,14440
+"Light",2014,14644
+"Light",2015,14890
+"Light",2016,15048
+"Light",2017,15305
+"Light",2018,15509
+"Light",2019,15608
+"Light",2020,15843
+"Light",2021,16083
+"Light",2022,16319
+"Light",2023,16616
+"Esperance",2013,14422
+"Esperance",2014,14624
+"Esperance",2015,14734
+"Esperance",2016,14527
+"Esperance",2017,14450
+"Esperance",2018,14342
+"Esperance",2019,14329
+"Esperance",2020,14325
+"Esperance",2021,14396
+"Esperance",2022,14501
+"Esperance",2023,14547
+"Unincorp.  Other Territories",2013,374
+"Unincorp.  Other Territories",2014,361
+"Unincorp.  Other Territories",2015,367
+"Unincorp.  Other Territories",2016,2159
+"Unincorp.  Other Territories",2017,2243
+"Unincorp.  Other Territories",2018,2324
+"Unincorp.  Other Territories",2019,2382
+"Unincorp.  Other Territories",2020,2437
+"Unincorp.  Other Territories",2021,2530
+"Unincorp.  Other Territories",2022,2518
+"Unincorp.  Other Territories",2023,2516
+"Fairfield",2013,200098
+"Fairfield",2014,201788
+"Fairfield",2015,203490
+"Fairfield",2016,205675
+"Fairfield",2017,209107
+"Fairfield",2018,211392
+"Fairfield",2019,212825
+"Fairfield",2020,212148
+"Fairfield",2021,209066
+"Fairfield",2022,206830
+"Fairfield",2023,209742
+"Katanning",2013,4403
+"Katanning",2014,4389
+"Katanning",2015,4308
+"Katanning",2016,4200
+"Katanning",2017,4180
+"Katanning",2018,4162
+"Katanning",2019,4161
+"Katanning",2020,4205
+"Katanning",2021,4227
+"Katanning",2022,4237
+"Katanning",2023,4290
+"Doomadgee",2013,1400
+"Doomadgee",2014,1422
+"Doomadgee",2015,1454
+"Doomadgee",2016,1475
+"Doomadgee",2017,1495
+"Doomadgee",2018,1486
+"Doomadgee",2019,1479
+"Doomadgee",2020,1459
+"Doomadgee",2021,1434
+"Doomadgee",2022,1442
+"Doomadgee",2023,1461
+"Circular Head",2013,8249
+"Circular Head",2014,8204
+"Circular Head",2015,8142
+"Circular Head",2016,8104
+"Circular Head",2017,8107
+"Circular Head",2018,8118
+"Circular Head",2019,8140
+"Circular Head",2020,8207
+"Circular Head",2021,8325
+"Circular Head",2022,8368
+"Circular Head",2023,8352
+"Central Coast (NSW)",2013,327745
+"Central Coast (NSW)",2014,330377
+"Central Coast (NSW)",2015,333264
+"Central Coast (NSW)",2016,336611
+"Central Coast (NSW)",2017,340140
+"Central Coast (NSW)",2018,343074
+"Central Coast (NSW)",2019,345695
+"Central Coast (NSW)",2020,347734
+"Central Coast (NSW)",2021,348493
+"Central Coast (NSW)",2022,349158
+"Central Coast (NSW)",2023,351934
+"Port Pirie",2013,17793
+"Port Pirie",2014,17870
+"Port Pirie",2015,17826
+"Port Pirie",2016,17767
+"Port Pirie",2017,17749
+"Port Pirie",2018,17726
+"Port Pirie",2019,17736
+"Port Pirie",2020,17742
+"Port Pirie",2021,17747
+"Port Pirie",2022,17616
+"Port Pirie",2023,17602
+"East Pilbara",2013,12570
+"East Pilbara",2014,12149
+"East Pilbara",2015,11529
+"East Pilbara",2016,10953
+"East Pilbara",2017,10888
+"East Pilbara",2018,10754
+"East Pilbara",2019,10637
+"East Pilbara",2020,10533
+"East Pilbara",2021,10378
+"East Pilbara",2022,10311
+"East Pilbara",2023,10401
+"Bayswater",2013,69083
+"Bayswater",2014,69256
+"Bayswater",2015,69136
+"Bayswater",2016,68791
+"Bayswater",2017,69043
+"Bayswater",2018,69267
+"Bayswater",2019,70051
+"Bayswater",2020,71277
+"Bayswater",2021,71774
+"Bayswater",2022,72242
+"Bayswater",2023,74283
+"Swan",2013,123643
+"Swan",2014,128032
+"Swan",2015,132127
+"Swan",2016,136679
+"Swan",2017,140449
+"Swan",2018,144202
+"Swan",2019,148672
+"Swan",2020,153844
+"Swan",2021,158689
+"Swan",2022,163948
+"Swan",2023,171588
+"Three Springs",2013,638
+"Three Springs",2014,627
+"Three Springs",2015,619
+"Three Springs",2016,608
+"Three Springs",2017,615
+"Three Springs",2018,601
+"Three Springs",2019,589
+"Three Springs",2020,582
+"Three Springs",2021,586
+"Three Springs",2022,587
+"Three Springs",2023,593
+"Burnside",2013,44457
+"Burnside",2014,44678
+"Burnside",2015,44938
+"Burnside",2016,45216
+"Burnside",2017,45591
+"Burnside",2018,45882
+"Burnside",2019,46118
+"Burnside",2020,46415
+"Burnside",2021,46425
+"Burnside",2022,46710
+"Burnside",2023,47444
+"Lake Macquarie",2013,198953
+"Lake Macquarie",2014,200249
+"Lake Macquarie",2015,201240
+"Lake Macquarie",2016,202332
+"Lake Macquarie",2017,204512
+"Lake Macquarie",2018,206975
+"Lake Macquarie",2019,209433
+"Lake Macquarie",2020,211954
+"Lake Macquarie",2021,214054
+"Lake Macquarie",2022,216594
+"Lake Macquarie",2023,219249
+"Campbelltown (NSW)",2013,154346
+"Campbelltown (NSW)",2014,156289
+"Campbelltown (NSW)",2015,158586
+"Campbelltown (NSW)",2016,161562
+"Campbelltown (NSW)",2017,165143
+"Campbelltown (NSW)",2018,168825
+"Campbelltown (NSW)",2019,172286
+"Campbelltown (NSW)",2020,175725
+"Campbelltown (NSW)",2021,177778
+"Campbelltown (NSW)",2022,180377
+"Campbelltown (NSW)",2023,184784
+"Tumby Bay",2013,2640
+"Tumby Bay",2014,2651
+"Tumby Bay",2015,2670
+"Tumby Bay",2016,2675
+"Tumby Bay",2017,2708
+"Tumby Bay",2018,2731
+"Tumby Bay",2019,2770
+"Tumby Bay",2020,2832
+"Tumby Bay",2021,2875
+"Tumby Bay",2022,2892
+"Tumby Bay",2023,2906
+"Coolgardie",2013,4196
+"Coolgardie",2014,4046
+"Coolgardie",2015,3904
+"Coolgardie",2016,3695
+"Coolgardie",2017,3669
+"Coolgardie",2018,3591
+"Coolgardie",2019,3542
+"Coolgardie",2020,3546
+"Coolgardie",2021,3638
+"Coolgardie",2022,3638
+"Coolgardie",2023,3686
+"Mosman Park",2013,9217
+"Mosman Park",2014,9202
+"Mosman Park",2015,9188
+"Mosman Park",2016,9167
+"Mosman Park",2017,9199
+"Mosman Park",2018,9224
+"Mosman Park",2019,9332
+"Mosman Park",2020,9394
+"Mosman Park",2021,9478
+"Mosman Park",2022,9621
+"Mosman Park",2023,10032
+"Shoalhaven",2013,98097
+"Shoalhaven",2014,99292
+"Shoalhaven",2015,100550
+"Shoalhaven",2016,101942
+"Shoalhaven",2017,103122
+"Shoalhaven",2018,104489
+"Shoalhaven",2019,105781
+"Shoalhaven",2020,107246
+"Shoalhaven",2021,108550
+"Shoalhaven",2022,109604
+"Shoalhaven",2023,109895
+"Albany",2013,36318
+"Albany",2014,36919
+"Albany",2015,37206
+"Albany",2016,37285
+"Albany",2017,37879
+"Albany",2018,38470
+"Albany",2019,39054
+"Albany",2020,39629
+"Albany",2021,40105
+"Albany",2022,40434
+"Albany",2023,40949
+"Orange",2013,40167
+"Orange",2014,40619
+"Orange",2015,40837
+"Orange",2016,41210
+"Orange",2017,41800
+"Orange",2018,42522
+"Orange",2019,43115
+"Orange",2020,43383
+"Orange",2021,43750
+"Orange",2022,43964
+"Orange",2023,44244
+"Latrobe (Vic.)",2013,74124
+"Latrobe (Vic.)",2014,74134
+"Latrobe (Vic.)",2015,74266
+"Latrobe (Vic.)",2016,74622
+"Latrobe (Vic.)",2017,75088
+"Latrobe (Vic.)",2018,75586
+"Latrobe (Vic.)",2019,76121
+"Latrobe (Vic.)",2020,76714
+"Latrobe (Vic.)",2021,77117
+"Latrobe (Vic.)",2022,77705
+"Latrobe (Vic.)",2023,78154
+"Noosa",2013,52360
+"Noosa",2014,52988
+"Noosa",2015,53497
+"Noosa",2016,53922
+"Noosa",2017,54688
+"Noosa",2018,55511
+"Noosa",2019,56045
+"Noosa",2020,56662
+"Noosa",2021,56874
+"Noosa",2022,57336
+"Noosa",2023,58367
+"Palm Island",2013,2529
+"Palm Island",2014,2527
+"Palm Island",2015,2550
+"Palm Island",2016,2581
+"Palm Island",2017,2465
+"Palm Island",2018,2369
+"Palm Island",2019,2274
+"Palm Island",2020,2205
+"Palm Island",2021,2180
+"Palm Island",2022,2193
+"Palm Island",2023,2214
+"Nedlands",2013,22665
+"Nedlands",2014,22686
+"Nedlands",2015,22435
+"Nedlands",2016,22108
+"Nedlands",2017,22391
+"Nedlands",2018,22564
+"Nedlands",2019,22745
+"Nedlands",2020,23075
+"Nedlands",2021,22924
+"Nedlands",2022,23018
+"Nedlands",2023,24127
+"Ballina",2013,41510
+"Ballina",2014,41881
+"Ballina",2015,42336
+"Ballina",2016,42993
+"Ballina",2017,43652
+"Ballina",2018,44385
+"Ballina",2019,44997
+"Ballina",2020,45663
+"Ballina",2021,46196
+"Ballina",2022,46849
+"Ballina",2023,47279
+"Uralla",2013,6253
+"Uralla",2014,6238
+"Uralla",2015,6194
+"Uralla",2016,6147
+"Uralla",2017,6154
+"Uralla",2018,6144
+"Uralla",2019,6119
+"Uralla",2020,6056
+"Uralla",2021,5992
+"Uralla",2022,5984
+"Uralla",2023,6047
+"Claremont",2013,10220
+"Claremont",2014,10357
+"Claremont",2015,10515
+"Claremont",2016,10632
+"Claremont",2017,10693
+"Claremont",2018,10858
+"Claremont",2019,11055
+"Claremont",2020,11501
+"Claremont",2021,11643
+"Claremont",2022,11735
+"Claremont",2023,12178
+"West Wimmera",2013,4124
+"West Wimmera",2014,4038
+"West Wimmera",2015,3974
+"West Wimmera",2016,3937
+"West Wimmera",2017,3952
+"West Wimmera",2018,3964
+"West Wimmera",2019,3979
+"West Wimmera",2020,3994
+"West Wimmera",2021,3978
+"West Wimmera",2022,3943
+"West Wimmera",2023,3933
+"Playford",2013,85232
+"Playford",2014,87380
+"Playford",2015,88980
+"Playford",2016,90553
+"Playford",2017,92534
+"Playford",2018,94352
+"Playford",2019,96220
+"Playford",2020,98458
+"Playford",2021,100556
+"Playford",2022,103401
+"Playford",2023,107069
+"Plantagenet",2013,5172
+"Plantagenet",2014,5151
+"Plantagenet",2015,5130
+"Plantagenet",2016,5103
+"Plantagenet",2017,5188
+"Plantagenet",2018,5307
+"Plantagenet",2019,5358
+"Plantagenet",2020,5410
+"Plantagenet",2021,5534
+"Plantagenet",2022,5587
+"Plantagenet",2023,5669
+"South Perth",2013,44348
+"South Perth",2014,44251
+"South Perth",2015,44096
+"South Perth",2016,43879
+"South Perth",2017,43886
+"South Perth",2018,43989
+"South Perth",2019,44538
+"South Perth",2020,45072
+"South Perth",2021,44952
+"South Perth",2022,45201
+"South Perth",2023,46701
+"Hornsby",2013,144458
+"Hornsby",2014,145262
+"Hornsby",2015,146147
+"Hornsby",2016,147385
+"Hornsby",2017,149601
+"Hornsby",2018,151809
+"Hornsby",2019,153216
+"Hornsby",2020,154037
+"Hornsby",2021,152263
+"Hornsby",2022,151771
+"Hornsby",2023,154072
+"Narrandera",2013,6054
+"Narrandera",2014,6015
+"Narrandera",2015,5978
+"Narrandera",2016,5949
+"Narrandera",2017,5909
+"Narrandera",2018,5879
+"Narrandera",2019,5832
+"Narrandera",2020,5787
+"Narrandera",2021,5733
+"Narrandera",2022,5720
+"Narrandera",2023,5692
+"Halls Creek",2013,3810
+"Halls Creek",2014,3734
+"Halls Creek",2015,3656
+"Halls Creek",2016,3593
+"Halls Creek",2017,3619
+"Halls Creek",2018,3714
+"Halls Creek",2019,3783
+"Halls Creek",2020,3932
+"Halls Creek",2021,4038
+"Halls Creek",2022,4113
+"Halls Creek",2023,4136
+"Nannup",2013,1343
+"Nannup",2014,1350
+"Nannup",2015,1352
+"Nannup",2016,1339
+"Nannup",2017,1398
+"Nannup",2018,1440
+"Nannup",2019,1487
+"Nannup",2020,1547
+"Nannup",2021,1575
+"Nannup",2022,1593
+"Nannup",2023,1632
+"West Arnhem",2013,7290
+"West Arnhem",2014,7157
+"West Arnhem",2015,7060
+"West Arnhem",2016,6941
+"West Arnhem",2017,6943
+"West Arnhem",2018,6985
+"West Arnhem",2019,7059
+"West Arnhem",2020,7130
+"West Arnhem",2021,7182
+"West Arnhem",2022,7258
+"West Arnhem",2023,7407
+"Mitcham",2013,65644
+"Mitcham",2014,65986
+"Mitcham",2015,66232
+"Mitcham",2016,66482
+"Mitcham",2017,66855
+"Mitcham",2018,67366
+"Mitcham",2019,67690
+"Mitcham",2020,68175
+"Mitcham",2021,68162
+"Mitcham",2022,68370
+"Mitcham",2023,69542
+"Kingborough",2013,35351
+"Kingborough",2014,35723
+"Kingborough",2015,36140
+"Kingborough",2016,36544
+"Kingborough",2017,37485
+"Kingborough",2018,38484
+"Kingborough",2019,39378
+"Kingborough",2020,40052
+"Kingborough",2021,40769
+"Kingborough",2022,40937
+"Kingborough",2023,41179
+"Wodonga",2013,37575
+"Wodonga",2014,38369
+"Wodonga",2015,39223
+"Wodonga",2016,40100
+"Wodonga",2017,40837
+"Wodonga",2018,41541
+"Wodonga",2019,42084
+"Wodonga",2020,42666
+"Wodonga",2021,43207
+"Wodonga",2022,43716
+"Wodonga",2023,44276
+"Hume",2013,184873
+"Hume",2014,191278
+"Hume",2015,198176
+"Hume",2016,207041
+"Hume",2017,216249
+"Hume",2018,225526
+"Hume",2019,235370
+"Hume",2020,243643
+"Hume",2021,246920
+"Hume",2022,253182
+"Hume",2023,262764
+"Ipswich",2013,183688
+"Ipswich",2014,189195
+"Ipswich",2015,194274
+"Ipswich",2016,200103
+"Ipswich",2017,205588
+"Ipswich",2018,211946
+"Ipswich",2019,219893
+"Ipswich",2020,226778
+"Ipswich",2021,233314
+"Ipswich",2022,242640
+"Ipswich",2023,251148
+"Winton",2013,1312
+"Winton",2014,1276
+"Winton",2015,1222
+"Winton",2016,1154
+"Winton",2017,1149
+"Winton",2018,1155
+"Winton",2019,1150
+"Winton",2020,1130
+"Winton",2021,1133
+"Winton",2022,1134
+"Winton",2023,1138
+"Holdfast Bay",2013,36282
+"Holdfast Bay",2014,36354
+"Holdfast Bay",2015,36425
+"Holdfast Bay",2016,36537
+"Holdfast Bay",2017,36696
+"Holdfast Bay",2018,37002
+"Holdfast Bay",2019,37413
+"Holdfast Bay",2020,37724
+"Holdfast Bay",2021,37857
+"Holdfast Bay",2022,38056
+"Holdfast Bay",2023,38766
+"Canning",2013,93491
+"Canning",2014,93843
+"Canning",2015,93959
+"Canning",2016,93733
+"Canning",2017,94403
+"Canning",2018,95171
+"Canning",2019,96447
+"Canning",2020,98643
+"Canning",2021,99306
+"Canning",2022,99764
+"Canning",2023,103691
+"Naracoorte Lucindale",2013,8528
+"Naracoorte Lucindale",2014,8585
+"Naracoorte Lucindale",2015,8570
+"Naracoorte Lucindale",2016,8544
+"Naracoorte Lucindale",2017,8602
+"Naracoorte Lucindale",2018,8679
+"Naracoorte Lucindale",2019,8778
+"Naracoorte Lucindale",2020,8867
+"Naracoorte Lucindale",2021,8892
+"Naracoorte Lucindale",2022,8918
+"Naracoorte Lucindale",2023,8928
+"Busselton",2013,34696
+"Busselton",2014,35917
+"Busselton",2015,36940
+"Busselton",2016,37766
+"Busselton",2017,38619
+"Busselton",2018,39305
+"Busselton",2019,40187
+"Busselton",2020,41059
+"Busselton",2021,42009
+"Busselton",2022,42931
+"Busselton",2023,43969
+"Darwin",2013,82996
+"Darwin",2014,83098
+"Darwin",2015,84363
+"Darwin",2016,85323
+"Darwin",2017,86339
+"Darwin",2018,85788
+"Darwin",2019,85308
+"Darwin",2020,85109
+"Darwin",2021,84854
+"Darwin",2022,84877
+"Darwin",2023,85465
+"Walcha",2013,3150
+"Walcha",2014,3149
+"Walcha",2015,3128
+"Walcha",2016,3130
+"Walcha",2017,3138
+"Walcha",2018,3110
+"Walcha",2019,3090
+"Walcha",2020,3057
+"Walcha",2021,3019
+"Walcha",2022,3010
+"Walcha",2023,2968
+"Victoria Daly",2013,3312
+"Victoria Daly",2014,3269
+"Victoria Daly",2015,3217
+"Victoria Daly",2016,3142
+"Victoria Daly",2017,3120
+"Victoria Daly",2018,3135
+"Victoria Daly",2019,3163
+"Victoria Daly",2020,3196
+"Victoria Daly",2021,3221
+"Victoria Daly",2022,3262
+"Victoria Daly",2023,3295
+"Casey",2013,278023
+"Casey",2014,287937
+"Casey",2015,299528
+"Casey",2016,312789
+"Casey",2017,324946
+"Casey",2018,338087
+"Casey",2019,352006
+"Casey",2020,363970
+"Casey",2021,369558
+"Casey",2022,379104
+"Casey",2023,392110
+"Northern Areas",2013,4595
+"Northern Areas",2014,4610
+"Northern Areas",2015,4616
+"Northern Areas",2016,4623
+"Northern Areas",2017,4607
+"Northern Areas",2018,4596
+"Northern Areas",2019,4611
+"Northern Areas",2020,4622
+"Northern Areas",2021,4659
+"Northern Areas",2022,4662
+"Northern Areas",2023,4667
+"Waroona",2013,3931
+"Waroona",2014,4057
+"Waroona",2015,4133
+"Waroona",2016,4162
+"Waroona",2017,4167
+"Waroona",2018,4195
+"Waroona",2019,4254
+"Waroona",2020,4314
+"Waroona",2021,4355
+"Waroona",2022,4401
+"Waroona",2023,4457
+"Latrobe (Tas.)",2013,10433
+"Latrobe (Tas.)",2014,10569
+"Latrobe (Tas.)",2015,10723
+"Latrobe (Tas.)",2016,10927
+"Latrobe (Tas.)",2017,11240
+"Latrobe (Tas.)",2018,11550
+"Latrobe (Tas.)",2019,11922
+"Latrobe (Tas.)",2020,12301
+"Latrobe (Tas.)",2021,12697
+"Latrobe (Tas.)",2022,12921
+"Latrobe (Tas.)",2023,13062
+"Cootamundra-Gundagai Regional",2013,11313
+"Cootamundra-Gundagai Regional",2014,11305
+"Cootamundra-Gundagai Regional",2015,11302
+"Cootamundra-Gundagai Regional",2016,11291
+"Cootamundra-Gundagai Regional",2017,11306
+"Cootamundra-Gundagai Regional",2018,11324
+"Cootamundra-Gundagai Regional",2019,11362
+"Cootamundra-Gundagai Regional",2020,11393
+"Cootamundra-Gundagai Regional",2021,11390
+"Cootamundra-Gundagai Regional",2022,11403
+"Cootamundra-Gundagai Regional",2023,11424
+"Ravensthorpe",2013,2118
+"Ravensthorpe",2014,2036
+"Ravensthorpe",2015,1906
+"Ravensthorpe",2016,1764
+"Ravensthorpe",2017,1819
+"Ravensthorpe",2018,1845
+"Ravensthorpe",2019,1914
+"Ravensthorpe",2020,2023
+"Ravensthorpe",2021,2157
+"Ravensthorpe",2022,2202
+"Ravensthorpe",2023,2277
+"Campaspe",2013,37213
+"Campaspe",2014,37338
+"Campaspe",2015,37429
+"Campaspe",2016,37595
+"Campaspe",2017,37799
+"Campaspe",2018,37948
+"Campaspe",2019,38128
+"Campaspe",2020,38379
+"Campaspe",2021,38556
+"Campaspe",2022,38556
+"Campaspe",2023,38299
+"Cockburn",2013,102787
+"Cockburn",2014,104906
+"Cockburn",2015,106802
+"Cockburn",2016,108302
+"Cockburn",2017,110451
+"Cockburn",2018,112928
+"Cockburn",2019,115577
+"Cockburn",2020,119032
+"Cockburn",2021,122212
+"Cockburn",2022,125232
+"Cockburn",2023,130282
+"Northern Peninsula Area",2013,2620
+"Northern Peninsula Area",2014,2741
+"Northern Peninsula Area",2015,2836
+"Northern Peninsula Area",2016,2945
+"Northern Peninsula Area",2017,2935
+"Northern Peninsula Area",2018,2923
+"Northern Peninsula Area",2019,2904
+"Northern Peninsula Area",2020,2891
+"Northern Peninsula Area",2021,2885
+"Northern Peninsula Area",2022,2889
+"Northern Peninsula Area",2023,2908
+"Darwin Waterfront Precinct",2013,293
+"Darwin Waterfront Precinct",2014,323
+"Darwin Waterfront Precinct",2015,365
+"Darwin Waterfront Precinct",2016,398
+"Darwin Waterfront Precinct",2017,400
+"Darwin Waterfront Precinct",2018,373
+"Darwin Waterfront Precinct",2019,348
+"Darwin Waterfront Precinct",2020,330
+"Darwin Waterfront Precinct",2021,312
+"Darwin Waterfront Precinct",2022,289
+"Darwin Waterfront Precinct",2023,282
+"Gawler",2013,21656
+"Gawler",2014,22275
+"Gawler",2015,22707
+"Gawler",2016,23355
+"Gawler",2017,23729
+"Gawler",2018,24055
+"Gawler",2019,24465
+"Gawler",2020,24770
+"Gawler",2021,25300
+"Gawler",2022,26114
+"Gawler",2023,26789
+"Glen Innes Severn",2013,8909
+"Glen Innes Severn",2014,8919
+"Glen Innes Severn",2015,8926
+"Glen Innes Severn",2016,8934
+"Glen Innes Severn",2017,8937
+"Glen Innes Severn",2018,8941
+"Glen Innes Severn",2019,8947
+"Glen Innes Severn",2020,8946
+"Glen Innes Severn",2021,8925
+"Glen Innes Severn",2022,8944
+"Glen Innes Severn",2023,8989
+"East Arnhem",2013,10677
+"East Arnhem",2014,10469
+"East Arnhem",2015,10362
+"East Arnhem",2016,10252
+"East Arnhem",2017,10211
+"East Arnhem",2018,10165
+"East Arnhem",2019,10153
+"East Arnhem",2020,10123
+"East Arnhem",2021,10089
+"East Arnhem",2022,10108
+"East Arnhem",2023,10011
+"Banana",2013,14948
+"Banana",2014,14860
+"Banana",2015,14707
+"Banana",2016,14570
+"Banana",2017,14573
+"Banana",2018,14525
+"Banana",2019,14581
+"Banana",2020,14587
+"Banana",2021,14657
+"Banana",2022,14778
+"Banana",2023,14919
+"Lismore",2013,44408
+"Lismore",2014,44327
+"Lismore",2015,44212
+"Lismore",2016,44122
+"Lismore",2017,44137
+"Lismore",2018,44196
+"Lismore",2019,44234
+"Lismore",2020,44316
+"Lismore",2021,44361
+"Lismore",2022,44274
+"Lismore",2023,43907
+"Murray Bridge",2013,20726
+"Murray Bridge",2014,21004
+"Murray Bridge",2015,21274
+"Murray Bridge",2016,21562
+"Murray Bridge",2017,21719
+"Murray Bridge",2018,21893
+"Murray Bridge",2019,22089
+"Murray Bridge",2020,22268
+"Murray Bridge",2021,22339
+"Murray Bridge",2022,22538
+"Murray Bridge",2023,22901
+"Port Hedland",2013,15951
+"Port Hedland",2014,15648
+"Port Hedland",2015,15387
+"Port Hedland",2016,15064
+"Port Hedland",2017,14989
+"Port Hedland",2018,15208
+"Port Hedland",2019,15585
+"Port Hedland",2020,16115
+"Port Hedland",2021,16666
+"Port Hedland",2022,17031
+"Port Hedland",2023,17247
+"Willoughby",2013,73072
+"Willoughby",2014,74238
+"Willoughby",2015,75970
+"Willoughby",2016,77888
+"Willoughby",2017,78873
+"Willoughby",2018,78797
+"Willoughby",2019,78830
+"Willoughby",2020,78566
+"Willoughby",2021,76044
+"Willoughby",2022,75508
+"Willoughby",2023,77874
+"Isaac",2013,23284
+"Isaac",2014,22786
+"Isaac",2015,22173
+"Isaac",2016,21543
+"Isaac",2017,21480
+"Isaac",2018,21523
+"Isaac",2019,21773
+"Isaac",2020,22141
+"Isaac",2021,22419
+"Isaac",2022,22744
+"Isaac",2023,23024
+"Barcaldine",2013,3232
+"Barcaldine",2014,3166
+"Barcaldine",2015,3082
+"Barcaldine",2016,2909
+"Barcaldine",2017,2881
+"Barcaldine",2018,2877
+"Barcaldine",2019,2876
+"Barcaldine",2020,2862
+"Barcaldine",2021,2863
+"Barcaldine",2022,2864
+"Barcaldine",2023,2894
+"Wakefield",2013,6841
+"Wakefield",2014,6896
+"Wakefield",2015,6932
+"Wakefield",2016,6950
+"Wakefield",2017,6976
+"Wakefield",2018,6891
+"Wakefield",2019,6921
+"Wakefield",2020,6867
+"Wakefield",2021,6925
+"Wakefield",2022,6969
+"Wakefield",2023,6958
+"Walkerville",2013,7399
+"Walkerville",2014,7447
+"Walkerville",2015,7732
+"Walkerville",2016,7781
+"Walkerville",2017,7876
+"Walkerville",2018,7975
+"Walkerville",2019,8054
+"Walkerville",2020,8156
+"Walkerville",2021,8086
+"Walkerville",2022,8185
+"Walkerville",2023,8420
+"Westonia",2013,302
+"Westonia",2014,305
+"Westonia",2015,306
+"Westonia",2016,306
+"Westonia",2017,301
+"Westonia",2018,285
+"Westonia",2019,278
+"Westonia",2020,268
+"Westonia",2021,255
+"Westonia",2022,252
+"Westonia",2023,244
+"Lane Cove",2013,34261
+"Lane Cove",2014,35196
+"Lane Cove",2015,36402
+"Lane Cove",2016,37694
+"Lane Cove",2017,38615
+"Lane Cove",2018,39239
+"Lane Cove",2019,39790
+"Lane Cove",2020,40067
+"Lane Cove",2021,39608
+"Lane Cove",2022,40088
+"Lane Cove",2023,41549
+"Merri-bek",2013,160282
+"Merri-bek",2014,164099
+"Merri-bek",2015,167870
+"Merri-bek",2016,172294
+"Merri-bek",2017,175110
+"Merri-bek",2018,177679
+"Merri-bek",2019,179327
+"Merri-bek",2020,180030
+"Merri-bek",2021,173500
+"Merri-bek",2022,174886
+"Merri-bek",2023,181223
+"Narrabri",2013,13489
+"Narrabri",2014,13480
+"Narrabri",2015,13459
+"Narrabri",2016,13367
+"Narrabri",2017,13300
+"Narrabri",2018,13233
+"Narrabri",2019,13146
+"Narrabri",2020,12990
+"Narrabri",2021,12808
+"Narrabri",2022,12720
+"Narrabri",2023,12754
+"Grant",2013,7993
+"Grant",2014,8144
+"Grant",2015,8282
+"Grant",2016,8417
+"Grant",2017,8483
+"Grant",2018,8567
+"Grant",2019,8672
+"Grant",2020,8763
+"Grant",2021,8862
+"Grant",2022,8926
+"Grant",2023,9044
+"Quairading",2013,1066
+"Quairading",2014,1066
+"Quairading",2015,1060
+"Quairading",2016,1038
+"Quairading",2017,1017
+"Quairading",2018,1004
+"Quairading",2019,997
+"Quairading",2020,984
+"Quairading",2021,981
+"Quairading",2022,983
+"Quairading",2023,973
+"Melbourne",2013,118711
+"Melbourne",2014,127975
+"Melbourne",2015,136872
+"Melbourne",2016,146096
+"Melbourne",2017,155956
+"Melbourne",2018,163363
+"Melbourne",2019,168952
+"Melbourne",2020,170589
+"Melbourne",2021,153110
+"Melbourne",2022,160328
+"Melbourne",2023,177396
+"Augusta Margaret River",2013,13487
+"Augusta Margaret River",2014,13996
+"Augusta Margaret River",2015,14419
+"Augusta Margaret River",2016,14819
+"Augusta Margaret River",2017,15258
+"Augusta Margaret River",2018,15708
+"Augusta Margaret River",2019,16235
+"Augusta Margaret River",2020,16792
+"Augusta Margaret River",2021,17303
+"Augusta Margaret River",2022,17917
+"Augusta Margaret River",2023,18620
+"Derby-West Kimberley",2013,9491
+"Derby-West Kimberley",2014,8864
+"Derby-West Kimberley",2015,8570
+"Derby-West Kimberley",2016,8364
+"Derby-West Kimberley",2017,8290
+"Derby-West Kimberley",2018,8340
+"Derby-West Kimberley",2019,8321
+"Derby-West Kimberley",2020,8362
+"Derby-West Kimberley",2021,8414
+"Derby-West Kimberley",2022,8410
+"Derby-West Kimberley",2023,8433
+"Subiaco",2013,16466
+"Subiaco",2014,16700
+"Subiaco",2015,16927
+"Subiaco",2016,17018
+"Subiaco",2017,17231
+"Subiaco",2018,17320
+"Subiaco",2019,17602
+"Subiaco",2020,17941
+"Subiaco",2021,17902
+"Subiaco",2022,18008
+"Subiaco",2023,18870
+"Clarence",2013,53685
+"Clarence",2014,54219
+"Clarence",2015,54829
+"Clarence",2016,55465
+"Clarence",2017,56636
+"Clarence",2018,58064
+"Clarence",2019,59447
+"Clarence",2020,60771
+"Clarence",2021,62336
+"Clarence",2022,63084
+"Clarence",2023,63663
+"Greater Shepparton",2013,63244
+"Greater Shepparton",2014,63919
+"Greater Shepparton",2015,64489
+"Greater Shepparton",2016,65072
+"Greater Shepparton",2017,65955
+"Greater Shepparton",2018,66826
+"Greater Shepparton",2019,67733
+"Greater Shepparton",2020,68474
+"Greater Shepparton",2021,68526
+"Greater Shepparton",2022,68964
+"Greater Shepparton",2023,69135
+"Launceston",2013,66722
+"Launceston",2014,66576
+"Launceston",2015,66492
+"Launceston",2016,66518
+"Launceston",2017,67537
+"Launceston",2018,68716
+"Launceston",2019,69888
+"Launceston",2020,71019
+"Launceston",2021,71788
+"Launceston",2022,71889
+"Launceston",2023,71788
+"Tablelands",2013,24827
+"Tablelands",2014,25060
+"Tablelands",2015,25111
+"Tablelands",2016,25217
+"Tablelands",2017,25521
+"Tablelands",2018,25849
+"Tablelands",2019,26071
+"Tablelands",2020,26309
+"Tablelands",2021,26488
+"Tablelands",2022,26806
+"Tablelands",2023,27259
+"Morawa",2013,872
+"Morawa",2014,835
+"Morawa",2015,800
+"Morawa",2016,765
+"Morawa",2017,733
+"Morawa",2018,701
+"Morawa",2019,680
+"Morawa",2020,668
+"Morawa",2021,669
+"Morawa",2022,669
+"Morawa",2023,679
+"Cardinia",2013,84591
+"Cardinia",2014,88070
+"Cardinia",2015,92298
+"Cardinia",2016,97573
+"Cardinia",2017,102258
+"Cardinia",2018,106945
+"Cardinia",2019,112002
+"Cardinia",2020,116505
+"Cardinia",2021,119573
+"Cardinia",2022,123181
+"Cardinia",2023,126960
+"Etheridge",2013,864
+"Etheridge",2014,840
+"Etheridge",2015,818
+"Etheridge",2016,807
+"Etheridge",2017,792
+"Etheridge",2018,773
+"Etheridge",2019,747
+"Etheridge",2020,731
+"Etheridge",2021,724
+"Etheridge",2022,720
+"Etheridge",2023,726
+"Balranald",2013,2381
+"Balranald",2014,2376
+"Balranald",2015,2364
+"Balranald",2016,2330
+"Balranald",2017,2338
+"Balranald",2018,2308
+"Balranald",2019,2287
+"Balranald",2020,2257
+"Balranald",2021,2208
+"Balranald",2022,2210
+"Balranald",2023,2202
+"Kempsey",2013,29284
+"Kempsey",2014,29351
+"Kempsey",2015,29379
+"Kempsey",2016,29431
+"Kempsey",2017,29770
+"Kempsey",2018,30080
+"Kempsey",2019,30347
+"Kempsey",2020,30602
+"Kempsey",2021,30828
+"Kempsey",2022,31178
+"Kempsey",2023,31453
+"Gilgandra",2013,4428
+"Gilgandra",2014,4382
+"Gilgandra",2015,4342
+"Gilgandra",2016,4298
+"Gilgandra",2017,4304
+"Gilgandra",2018,4300
+"Gilgandra",2019,4323
+"Gilgandra",2020,4327
+"Gilgandra",2021,4318
+"Gilgandra",2022,4298
+"Gilgandra",2023,4309
+"Wagga Wagga",2013,62416
+"Wagga Wagga",2014,62776
+"Wagga Wagga",2015,63327
+"Wagga Wagga",2016,63906
+"Wagga Wagga",2017,64768
+"Wagga Wagga",2018,65618
+"Wagga Wagga",2019,66411
+"Wagga Wagga",2020,67277
+"Wagga Wagga",2021,67891
+"Wagga Wagga",2022,68338
+"Wagga Wagga",2023,68716
+"Orroroo Carrieton",2013,895
+"Orroroo Carrieton",2014,900
+"Orroroo Carrieton",2015,911
+"Orroroo Carrieton",2016,912
+"Orroroo Carrieton",2017,898
+"Orroroo Carrieton",2018,895
+"Orroroo Carrieton",2019,898
+"Orroroo Carrieton",2020,893
+"Orroroo Carrieton",2021,891
+"Orroroo Carrieton",2022,890
+"Orroroo Carrieton",2023,889
+"Singleton",2013,23557
+"Singleton",2014,23597
+"Singleton",2015,23586
+"Singleton",2016,23576
+"Singleton",2017,23806
+"Singleton",2018,24036
+"Singleton",2019,24309
+"Singleton",2020,24503
+"Singleton",2021,24725
+"Singleton",2022,25093
+"Singleton",2023,25332
+"Norwood Payneham and St Peters",2013,36347
+"Norwood Payneham and St Peters",2014,36361
+"Norwood Payneham and St Peters",2015,36369
+"Norwood Payneham and St Peters",2016,36396
+"Norwood Payneham and St Peters",2017,36678
+"Norwood Payneham and St Peters",2018,36996
+"Norwood Payneham and St Peters",2019,37477
+"Norwood Payneham and St Peters",2020,37958
+"Norwood Payneham and St Peters",2021,37823
+"Norwood Payneham and St Peters",2022,38019
+"Norwood Payneham and St Peters",2023,39312
+"Douglas",2013,11585
+"Douglas",2014,11757
+"Douglas",2015,11877
+"Douglas",2016,12070
+"Douglas",2017,12206
+"Douglas",2018,12204
+"Douglas",2019,12312
+"Douglas",2020,12371
+"Douglas",2021,12441
+"Douglas",2022,12662
+"Douglas",2023,12828
+"Barunga West",2013,2495
+"Barunga West",2014,2521
+"Barunga West",2015,2542
+"Barunga West",2016,2592
+"Barunga West",2017,2600
+"Barunga West",2018,2594
+"Barunga West",2019,2624
+"Barunga West",2020,2631
+"Barunga West",2021,2675
+"Barunga West",2022,2672
+"Barunga West",2023,2680
+"Cocos Islands",2013,547
+"Cocos Islands",2014,556
+"Cocos Islands",2015,555
+"Cocos Islands",2016,546
+"Cocos Islands",2017,552
+"Cocos Islands",2018,553
+"Cocos Islands",2019,591
+"Cocos Islands",2020,608
+"Cocos Islands",2021,603
+"Cocos Islands",2022,616
+"Cocos Islands",2023,631
+"Moora",2013,2527
+"Moora",2014,2504
+"Moora",2015,2505
+"Moora",2016,2477
+"Moora",2017,2447
+"Moora",2018,2409
+"Moora",2019,2374
+"Moora",2020,2380
+"Moora",2021,2382
+"Moora",2022,2378
+"Moora",2023,2392
+"Victoria Park",2013,36260
+"Victoria Park",2014,36570
+"Victoria Park",2015,36714
+"Victoria Park",2016,36647
+"Victoria Park",2017,36578
+"Victoria Park",2018,36741
+"Victoria Park",2019,37348
+"Victoria Park",2020,38260
+"Victoria Park",2021,38296
+"Victoria Park",2022,38756
+"Victoria Park",2023,40782
+"Yarra",2013,83962
+"Yarra",2014,87228
+"Yarra",2015,89923
+"Yarra",2016,92894
+"Yarra",2017,94503
+"Yarra",2018,95504
+"Yarra",2019,96544
+"Yarra",2020,96662
+"Yarra",2021,91521
+"Yarra",2022,92392
+"Yarra",2023,97448
+"Cambridge",2013,27856
+"Cambridge",2014,27940
+"Cambridge",2015,27988
+"Cambridge",2016,27991
+"Cambridge",2017,28474
+"Cambridge",2018,28764
+"Cambridge",2019,29167
+"Cambridge",2020,29743
+"Cambridge",2021,29822
+"Cambridge",2022,30160
+"Cambridge",2023,31133
+"Hay",2013,3016
+"Hay",2014,3005
+"Hay",2015,2994
+"Hay",2016,2984
+"Hay",2017,2978
+"Hay",2018,2958
+"Hay",2019,2933
+"Hay",2020,2910
+"Hay",2021,2885
+"Hay",2022,2834
+"Hay",2023,2830
+"Nambucca Valley",2013,19428
+"Nambucca Valley",2014,19501
+"Nambucca Valley",2015,19541
+"Nambucca Valley",2016,19580
+"Nambucca Valley",2017,19787
+"Nambucca Valley",2018,19960
+"Nambucca Valley",2019,20150
+"Nambucca Valley",2020,20290
+"Nambucca Valley",2021,20382
+"Nambucca Valley",2022,20607
+"Nambucca Valley",2023,20774
+"Goyder",2013,4254
+"Goyder",2014,4256
+"Goyder",2015,4251
+"Goyder",2016,4240
+"Goyder",2017,4225
+"Goyder",2018,4179
+"Goyder",2019,4156
+"Goyder",2020,4136
+"Goyder",2021,4138
+"Goyder",2022,4143
+"Goyder",2023,4132
+"Wagait",2013,459
+"Wagait",2014,467
+"Wagait",2015,479
+"Wagait",2016,492
+"Wagait",2017,486
+"Wagait",2018,480
+"Wagait",2019,474
+"Wagait",2020,471
+"Wagait",2021,464
+"Wagait",2022,463
+"Wagait",2023,464
+"Canterbury-Bankstown",2013,345692
+"Canterbury-Bankstown",2014,350922
+"Canterbury-Bankstown",2015,356328
+"Canterbury-Bankstown",2016,361862
+"Canterbury-Bankstown",2017,367534
+"Canterbury-Bankstown",2018,371891
+"Canterbury-Bankstown",2019,375333
+"Canterbury-Bankstown",2020,376638
+"Canterbury-Bankstown",2021,372459
+"Canterbury-Bankstown",2022,372119
+"Canterbury-Bankstown",2023,379829
+"Barcoo",2013,333
+"Barcoo",2014,317
+"Barcoo",2015,296
+"Barcoo",2016,272
+"Barcoo",2017,278
+"Barcoo",2018,288
+"Barcoo",2019,297
+"Barcoo",2020,302
+"Barcoo",2021,312
+"Barcoo",2022,315
+"Barcoo",2023,317
+"Rockhampton",2013,81745
+"Rockhampton",2014,82136
+"Rockhampton",2015,82026
+"Rockhampton",2016,81322
+"Rockhampton",2017,81322
+"Rockhampton",2018,81406
+"Rockhampton",2019,81842
+"Rockhampton",2020,82352
+"Rockhampton",2021,82882
+"Rockhampton",2022,83596
+"Rockhampton",2023,84517
+"North Sydney",2013,68666
+"North Sydney",2014,69754
+"North Sydney",2015,70860
+"North Sydney",2016,71809
+"North Sydney",2017,72304
+"North Sydney",2018,72354
+"North Sydney",2019,72155
+"North Sydney",2020,71430
+"North Sydney",2021,69471
+"North Sydney",2022,69373
+"North Sydney",2023,72014
+"Snowy Valleys",2013,14720
+"Snowy Valleys",2014,14690
+"Snowy Valleys",2015,14640
+"Snowy Valleys",2016,14611
+"Snowy Valleys",2017,14693
+"Snowy Valleys",2018,14751
+"Snowy Valleys",2019,14817
+"Snowy Valleys",2020,14889
+"Snowy Valleys",2021,14900
+"Snowy Valleys",2022,14936
+"Snowy Valleys",2023,14935
+"Hunters Hill",2013,14242
+"Hunters Hill",2014,14428
+"Hunters Hill",2015,14540
+"Hunters Hill",2016,14656
+"Hunters Hill",2017,14621
+"Hunters Hill",2018,14563
+"Hunters Hill",2019,14427
+"Hunters Hill",2020,14269
+"Hunters Hill",2021,13596
+"Hunters Hill",2022,13924
+"Hunters Hill",2023,14036
+"Upper Hunter Shire",2013,14514
+"Upper Hunter Shire",2014,14508
+"Upper Hunter Shire",2015,14412
+"Upper Hunter Shire",2016,14344
+"Upper Hunter Shire",2017,14318
+"Upper Hunter Shire",2018,14298
+"Upper Hunter Shire",2019,14291
+"Upper Hunter Shire",2020,14296
+"Upper Hunter Shire",2021,14258
+"Upper Hunter Shire",2022,14291
+"Upper Hunter Shire",2023,14338
+"Diamantina",2013,299
+"Diamantina",2014,303
+"Diamantina",2015,301
+"Diamantina",2016,296
+"Diamantina",2017,284
+"Diamantina",2018,286
+"Diamantina",2019,282
+"Diamantina",2020,273
+"Diamantina",2021,270
+"Diamantina",2022,270
+"Diamantina",2023,272
+"Port Lincoln",2013,14531
+"Port Lincoln",2014,14595
+"Port Lincoln",2015,14585
+"Port Lincoln",2016,14523
+"Port Lincoln",2017,14595
+"Port Lincoln",2018,14652
+"Port Lincoln",2019,14733
+"Port Lincoln",2020,14773
+"Port Lincoln",2021,14879
+"Port Lincoln",2022,14953
+"Port Lincoln",2023,15018
+"MacDonnell",2013,6911
+"MacDonnell",2014,6875
+"MacDonnell",2015,6859
+"MacDonnell",2016,6753
+"MacDonnell",2017,6685
+"MacDonnell",2018,6648
+"MacDonnell",2019,6636
+"MacDonnell",2020,6558
+"MacDonnell",2021,6574
+"MacDonnell",2022,6627
+"MacDonnell",2023,6706
+"Kingston (Vic.)",2013,152336
+"Kingston (Vic.)",2014,154210
+"Kingston (Vic.)",2015,156244
+"Kingston (Vic.)",2016,158941
+"Kingston (Vic.)",2017,160140
+"Kingston (Vic.)",2018,161685
+"Kingston (Vic.)",2019,163178
+"Kingston (Vic.)",2020,163196
+"Kingston (Vic.)",2021,159554
+"Kingston (Vic.)",2022,160107
+"Kingston (Vic.)",2023,163724
+"Karratha",2013,24432
+"Karratha",2014,23985
+"Karratha",2015,23103
+"Karratha",2016,22211
+"Karratha",2017,22288
+"Karratha",2018,22509
+"Karratha",2019,22844
+"Karratha",2020,23245
+"Karratha",2021,23412
+"Karratha",2022,23809
+"Karratha",2023,24237
+"Greater Dandenong",2013,148502
+"Greater Dandenong",2014,152135
+"Greater Dandenong",2015,156061
+"Greater Dandenong",2016,160222
+"Greater Dandenong",2017,162924
+"Greater Dandenong",2018,164895
+"Greater Dandenong",2019,166296
+"Greater Dandenong",2020,165648
+"Greater Dandenong",2021,160100
+"Greater Dandenong",2022,159294
+"Greater Dandenong",2023,163792
+"Bundaberg",2013,93850
+"Bundaberg",2014,94025
+"Bundaberg",2015,94028
+"Bundaberg",2016,94256
+"Bundaberg",2017,95354
+"Bundaberg",2018,96599
+"Bundaberg",2019,97801
+"Bundaberg",2020,98883
+"Bundaberg",2021,100095
+"Bundaberg",2022,102070
+"Bundaberg",2023,104166
+"Unincorporated ACT",2013,383257
+"Unincorporated ACT",2014,388799
+"Unincorporated ACT",2015,395813
+"Unincorporated ACT",2016,403104
+"Unincorporated ACT",2017,415046
+"Unincorporated ACT",2018,426081
+"Unincorporated ACT",2019,435730
+"Unincorporated ACT",2020,444903
+"Unincorporated ACT",2021,452508
+"Unincorporated ACT",2022,456915
+"Unincorporated ACT",2023,466566
+"Carpentaria",2013,2146
+"Carpentaria",2014,2112
+"Carpentaria",2015,2092
+"Carpentaria",2016,2051
+"Carpentaria",2017,2034
+"Carpentaria",2018,2050
+"Carpentaria",2019,2089
+"Carpentaria",2020,2118
+"Carpentaria",2021,2158
+"Carpentaria",2022,2170
+"Carpentaria",2023,2212
+"Onkaparinga",2013,166244
+"Onkaparinga",2014,167376
+"Onkaparinga",2015,168433
+"Onkaparinga",2016,169372
+"Onkaparinga",2017,170482
+"Onkaparinga",2018,171631
+"Onkaparinga",2019,173141
+"Onkaparinga",2020,174948
+"Onkaparinga",2021,176595
+"Onkaparinga",2022,178526
+"Onkaparinga",2023,180865
+"Kent",2013,547
+"Kent",2014,556
+"Kent",2015,559
+"Kent",2016,568
+"Kent",2017,554
+"Kent",2018,538
+"Kent",2019,523
+"Kent",2020,511
+"Kent",2021,506
+"Kent",2022,510
+"Kent",2023,524
+"Gunnedah",2013,12481
+"Gunnedah",2014,12468
+"Gunnedah",2015,12447
+"Gunnedah",2016,12491
+"Gunnedah",2017,12662
+"Gunnedah",2018,12799
+"Gunnedah",2019,12921
+"Gunnedah",2020,13024
+"Gunnedah",2021,13088
+"Gunnedah",2022,13143
+"Gunnedah",2023,13280
+"Yilgarn",2013,1539
+"Yilgarn",2014,1426
+"Yilgarn",2015,1314
+"Yilgarn",2016,1213
+"Yilgarn",2017,1209
+"Yilgarn",2018,1204
+"Yilgarn",2019,1206
+"Yilgarn",2020,1208
+"Yilgarn",2021,1205
+"Yilgarn",2022,1198
+"Yilgarn",2023,1198
+"Dubbo Regional",2013,49757
+"Dubbo Regional",2014,50322
+"Dubbo Regional",2015,50847
+"Dubbo Regional",2016,51404
+"Dubbo Regional",2017,52490
+"Dubbo Regional",2018,53575
+"Dubbo Regional",2019,54358
+"Dubbo Regional",2020,55010
+"Dubbo Regional",2021,55528
+"Dubbo Regional",2022,55893
+"Dubbo Regional",2023,56558
+"Tenterfield",2013,6834
+"Tenterfield",2014,6769
+"Tenterfield",2015,6713
+"Tenterfield",2016,6697
+"Tenterfield",2017,6728
+"Tenterfield",2018,6767
+"Tenterfield",2019,6794
+"Tenterfield",2020,6779
+"Tenterfield",2021,6800
+"Tenterfield",2022,6878
+"Tenterfield",2023,6973
+"Moyne",2013,16431
+"Moyne",2014,16512
+"Moyne",2015,16591
+"Moyne",2016,16737
+"Moyne",2017,16779
+"Moyne",2018,16897
+"Moyne",2019,16997
+"Moyne",2020,17091
+"Moyne",2021,17296
+"Moyne",2022,17478
+"Moyne",2023,17610
+"Stirling",2013,218043
+"Stirling",2014,219372
+"Stirling",2015,220152
+"Stirling",2016,220073
+"Stirling",2017,221986
+"Stirling",2018,224316
+"Stirling",2019,227540
+"Stirling",2020,232404
+"Stirling",2021,234322
+"Stirling",2022,236262
+"Stirling",2023,243871
+"Gannawarra",2013,10526
+"Gannawarra",2014,10534
+"Gannawarra",2015,10536
+"Gannawarra",2016,10567
+"Gannawarra",2017,10602
+"Gannawarra",2018,10601
+"Gannawarra",2019,10562
+"Gannawarra",2020,10575
+"Gannawarra",2021,10615
+"Gannawarra",2022,10534
+"Gannawarra",2023,10420
+"Mukinbudin",2013,545
+"Mukinbudin",2014,549
+"Mukinbudin",2015,551
+"Mukinbudin",2016,553
+"Mukinbudin",2017,558
+"Mukinbudin",2018,563
+"Mukinbudin",2019,575
+"Mukinbudin",2020,580
+"Mukinbudin",2021,593
+"Mukinbudin",2022,587
+"Mukinbudin",2023,600
+"Ballarat",2013,98344
+"Ballarat",2014,99914
+"Ballarat",2015,101479
+"Ballarat",2016,103500
+"Ballarat",2017,105551
+"Ballarat",2018,107608
+"Ballarat",2019,109773
+"Ballarat",2020,111645
+"Ballarat",2021,113504
+"Ballarat",2022,116011
+"Ballarat",2023,118137
+"Canada Bay",2013,85568
+"Canada Bay",2014,88565
+"Canada Bay",2015,90467
+"Canada Bay",2016,92534
+"Canada Bay",2017,92872
+"Canada Bay",2018,92765
+"Canada Bay",2019,92609
+"Canada Bay",2020,91833
+"Canada Bay",2021,89685
+"Canada Bay",2022,89236
+"Canada Bay",2023,91385
+"Woorabinda",2013,986
+"Woorabinda",2014,990
+"Woorabinda",2015,989
+"Woorabinda",2016,999
+"Woorabinda",2017,997
+"Woorabinda",2018,999
+"Woorabinda",2019,1005
+"Woorabinda",2020,1020
+"Woorabinda",2021,1040
+"Woorabinda",2022,1059
+"Woorabinda",2023,1081
+"Campbelltown (SA)",2013,50476
+"Campbelltown (SA)",2014,50717
+"Campbelltown (SA)",2015,50937
+"Campbelltown (SA)",2016,51080
+"Campbelltown (SA)",2017,51669
+"Campbelltown (SA)",2018,52393
+"Campbelltown (SA)",2019,53599
+"Campbelltown (SA)",2020,54884
+"Campbelltown (SA)",2021,55456
+"Campbelltown (SA)",2022,56028
+"Campbelltown (SA)",2023,57160
+"Whittlesea",2013,179272
+"Whittlesea",2014,187899
+"Whittlesea",2015,196847
+"Whittlesea",2016,207058
+"Whittlesea",2017,214426
+"Whittlesea",2018,220601
+"Whittlesea",2019,226072
+"Whittlesea",2020,231040
+"Whittlesea",2021,231831
+"Whittlesea",2022,237143
+"Whittlesea",2023,245029
+"Renmark Paringa",2013,9588
+"Renmark Paringa",2014,9656
+"Renmark Paringa",2015,9722
+"Renmark Paringa",2016,9780
+"Renmark Paringa",2017,9866
+"Renmark Paringa",2018,9897
+"Renmark Paringa",2019,9954
+"Renmark Paringa",2020,9988
+"Renmark Paringa",2021,10007
+"Renmark Paringa",2022,10036
+"Renmark Paringa",2023,10107
+"Bassendean",2013,15828
+"Bassendean",2014,16003
+"Bassendean",2015,15842
+"Bassendean",2016,15613
+"Bassendean",2017,15721
+"Bassendean",2018,15895
+"Bassendean",2019,16089
+"Bassendean",2020,16326
+"Bassendean",2021,16500
+"Bassendean",2022,16612
+"Bassendean",2023,16914
+"Cottesloe",2013,8409
+"Cottesloe",2014,8370
+"Cottesloe",2015,8267
+"Cottesloe",2016,8109
+"Cottesloe",2017,8144
+"Cottesloe",2018,8170
+"Cottesloe",2019,8225
+"Cottesloe",2020,8345
+"Cottesloe",2021,8245
+"Cottesloe",2022,8322
+"Cottesloe",2023,8695
+"Manningham",2013,118357
+"Manningham",2014,119437
+"Manningham",2015,120785
+"Manningham",2016,122570
+"Manningham",2017,124126
+"Manningham",2018,125091
+"Manningham",2019,126873
+"Manningham",2020,127987
+"Manningham",2021,125821
+"Manningham",2022,126570
+"Manningham",2023,129514
+"Yarra Ranges",2013,150902
+"Yarra Ranges",2014,151968
+"Yarra Ranges",2015,153391
+"Yarra Ranges",2016,155226
+"Yarra Ranges",2017,156696
+"Yarra Ranges",2018,157819
+"Yarra Ranges",2019,158745
+"Yarra Ranges",2020,158876
+"Yarra Ranges",2021,157421
+"Yarra Ranges",2022,157467
+"Yarra Ranges",2023,158694
+"Streaky Bay",2013,2194
+"Streaky Bay",2014,2180
+"Streaky Bay",2015,2164
+"Streaky Bay",2016,2168
+"Streaky Bay",2017,2173
+"Streaky Bay",2018,2183
+"Streaky Bay",2019,2196
+"Streaky Bay",2020,2219
+"Streaky Bay",2021,2241
+"Streaky Bay",2022,2257
+"Streaky Bay",2023,2278
+"Fremantle",2013,30156
+"Fremantle",2014,30361
+"Fremantle",2015,30405
+"Fremantle",2016,30310
+"Fremantle",2017,30842
+"Fremantle",2018,31287
+"Fremantle",2019,31782
+"Fremantle",2020,32439
+"Fremantle",2021,33112
+"Fremantle",2022,33788
+"Fremantle",2023,35157
+"Shellharbour",2013,67701
+"Shellharbour",2014,68658
+"Shellharbour",2015,69474
+"Shellharbour",2016,70391
+"Shellharbour",2017,71303
+"Shellharbour",2018,72318
+"Shellharbour",2019,73370
+"Shellharbour",2020,74941
+"Shellharbour",2021,76492
+"Shellharbour",2022,78330
+"Shellharbour",2023,79738
+"Gosnells",2013,119381
+"Gosnells",2014,120756
+"Gosnells",2015,121720
+"Gosnells",2016,122011
+"Gosnells",2017,123703
+"Gosnells",2018,125087
+"Gosnells",2019,127017
+"Gosnells",2020,129685
+"Gosnells",2021,131366
+"Gosnells",2022,133064
+"Gosnells",2023,137355
+"Weipa",2013,3811
+"Weipa",2014,3863
+"Weipa",2015,3964
+"Weipa",2016,4040
+"Weipa",2017,4057
+"Weipa",2018,4082
+"Weipa",2019,4112
+"Weipa",2020,4143
+"Weipa",2021,4177
+"Weipa",2022,4214
+"Weipa",2023,4251
+"Boddington",2013,2225
+"Boddington",2014,2132
+"Boddington",2015,2031
+"Boddington",2016,1882
+"Boddington",2017,1846
+"Boddington",2018,1819
+"Boddington",2019,1784
+"Boddington",2020,1751
+"Boddington",2021,1760
+"Boddington",2022,1758
+"Boddington",2023,1786
+"Wollondilly",2013,46399
+"Wollondilly",2014,47445
+"Wollondilly",2015,48562
+"Wollondilly",2016,49854
+"Wollondilly",2017,50912
+"Wollondilly",2018,51972
+"Wollondilly",2019,52826
+"Wollondilly",2020,53618
+"Wollondilly",2021,54196
+"Wollondilly",2022,55801
+"Wollondilly",2023,57616
+"Collie",2013,9464
+"Collie",2014,9369
+"Collie",2015,9132
+"Collie",2016,8856
+"Collie",2017,8882
+"Collie",2018,8918
+"Collie",2019,8939
+"Collie",2020,8956
+"Collie",2021,9086
+"Collie",2022,9153
+"Collie",2023,9295
+"Walgett",2013,6595
+"Walgett",2014,6512
+"Walgett",2015,6419
+"Walgett",2016,6317
+"Walgett",2017,6167
+"Walgett",2018,6004
+"Walgett",2019,5869
+"Walgett",2020,5701
+"Walgett",2021,5588
+"Walgett",2022,5515
+"Walgett",2023,5519
+"Cunderdin",2013,1392
+"Cunderdin",2014,1411
+"Cunderdin",2015,1433
+"Cunderdin",2016,1469
+"Cunderdin",2017,1444
+"Cunderdin",2018,1413
+"Cunderdin",2019,1384
+"Cunderdin",2020,1358
+"Cunderdin",2021,1341
+"Cunderdin",2022,1345
+"Cunderdin",2023,1322
+"West Daly",2013,3568
+"West Daly",2014,3587
+"West Daly",2015,3598
+"West Daly",2016,3601
+"West Daly",2017,3536
+"West Daly",2018,3476
+"West Daly",2019,3427
+"West Daly",2020,3422
+"West Daly",2021,3422
+"West Daly",2022,3434
+"West Daly",2023,3426
+"Coorong",2013,5602
+"Coorong",2014,5572
+"Coorong",2015,5545
+"Coorong",2016,5525
+"Coorong",2017,5525
+"Coorong",2018,5531
+"Coorong",2019,5542
+"Coorong",2020,5565
+"Coorong",2021,5599
+"Coorong",2022,5574
+"Coorong",2023,5612
+"Narrogin",2013,5324
+"Narrogin",2014,5339
+"Narrogin",2015,5333
+"Narrogin",2016,5235
+"Narrogin",2017,5204
+"Narrogin",2018,5058
+"Narrogin",2019,5019
+"Narrogin",2020,4987
+"Narrogin",2021,4937
+"Narrogin",2022,4959
+"Narrogin",2023,4983
+"Northam",2013,11472
+"Northam",2014,11570
+"Northam",2015,11420
+"Northam",2016,11238
+"Northam",2017,11372
+"Northam",2018,11475
+"Northam",2019,11483
+"Northam",2020,11594
+"Northam",2021,11804
+"Northam",2022,11938
+"Northam",2023,12193
+"Unincorporated NSW",2013,1127
+"Unincorporated NSW",2014,1134
+"Unincorporated NSW",2015,1106
+"Unincorporated NSW",2016,1112
+"Unincorporated NSW",2017,1109
+"Unincorporated NSW",2018,1115
+"Unincorporated NSW",2019,1086
+"Unincorporated NSW",2020,1055
+"Unincorporated NSW",2021,1020
+"Unincorporated NSW",2022,1000
+"Unincorporated NSW",2023,1013
+"Maitland",2013,73870
+"Maitland",2014,75695
+"Maitland",2015,77374
+"Maitland",2016,79063
+"Maitland",2017,81058
+"Maitland",2018,83260
+"Maitland",2019,85313
+"Maitland",2020,87920
+"Maitland",2021,90612
+"Maitland",2022,93614
+"Maitland",2023,95957
+"Flinders (Qld)",2013,1754
+"Flinders (Qld)",2014,1710
+"Flinders (Qld)",2015,1643
+"Flinders (Qld)",2016,1582
+"Flinders (Qld)",2017,1520
+"Flinders (Qld)",2018,1498
+"Flinders (Qld)",2019,1506
+"Flinders (Qld)",2020,1509
+"Flinders (Qld)",2021,1521
+"Flinders (Qld)",2022,1534
+"Flinders (Qld)",2023,1544
+"Benalla",2013,13878
+"Benalla",2014,13898
+"Benalla",2015,13923
+"Benalla",2016,13982
+"Benalla",2017,14049
+"Benalla",2018,14158
+"Benalla",2019,14237
+"Benalla",2020,14382
+"Benalla",2021,14436
+"Benalla",2022,14463
+"Benalla",2023,14529
+"Port Phillip",2013,102156
+"Port Phillip",2014,104451
+"Port Phillip",2015,106381
+"Port Phillip",2016,108627
+"Port Phillip",2017,109523
+"Port Phillip",2018,110733
+"Port Phillip",2019,111782
+"Port Phillip",2020,110574
+"Port Phillip",2021,103438
+"Port Phillip",2022,104096
+"Port Phillip",2023,109515
+"Scenic Rim",2013,38732
+"Scenic Rim",2014,39882
+"Scenic Rim",2015,40307
+"Scenic Rim",2016,40984
+"Scenic Rim",2017,41643
+"Scenic Rim",2018,42371
+"Scenic Rim",2019,42856
+"Scenic Rim",2020,43255
+"Scenic Rim",2021,43592
+"Scenic Rim",2022,44331
+"Scenic Rim",2023,45248
+"Adelaide Plains",2013,8646
+"Adelaide Plains",2014,8744
+"Adelaide Plains",2015,8819
+"Adelaide Plains",2016,8912
+"Adelaide Plains",2017,9040
+"Adelaide Plains",2018,9191
+"Adelaide Plains",2019,9338
+"Adelaide Plains",2020,9677
+"Adelaide Plains",2021,9975
+"Adelaide Plains",2022,10454
+"Adelaide Plains",2023,10932
+"Mount Remarkable",2013,2913
+"Mount Remarkable",2014,2918
+"Mount Remarkable",2015,2927
+"Mount Remarkable",2016,2920
+"Mount Remarkable",2017,2908
+"Mount Remarkable",2018,2897
+"Mount Remarkable",2019,2898
+"Mount Remarkable",2020,2910
+"Mount Remarkable",2021,2920
+"Mount Remarkable",2022,2911
+"Mount Remarkable",2023,2897
+"Sunshine Coast",2013,281969
+"Sunshine Coast",2014,288652
+"Sunshine Coast",2015,295317
+"Sunshine Coast",2016,302841
+"Sunshine Coast",2017,311426
+"Sunshine Coast",2018,320606
+"Sunshine Coast",2019,329946
+"Sunshine Coast",2020,338389
+"Sunshine Coast",2021,346634
+"Sunshine Coast",2022,355904
+"Sunshine Coast",2023,365942
+"Quilpie",2013,944
+"Quilpie",2014,915
+"Quilpie",2015,868
+"Quilpie",2016,825
+"Quilpie",2017,805
+"Quilpie",2018,772
+"Quilpie",2019,742
+"Quilpie",2020,721
+"Quilpie",2021,702
+"Quilpie",2022,703
+"Quilpie",2023,709
+"Mapoon",2013,293
+"Mapoon",2014,302
+"Mapoon",2015,304
+"Mapoon",2016,318
+"Mapoon",2017,344
+"Mapoon",2018,369
+"Mapoon",2019,393
+"Mapoon",2020,418
+"Mapoon",2021,442
+"Mapoon",2022,454
+"Mapoon",2023,465
+"Gwydir",2013,5218
+"Gwydir",2014,5250
+"Gwydir",2015,5302
+"Gwydir",2016,5326
+"Gwydir",2017,5244
+"Gwydir",2018,5191
+"Gwydir",2019,5124
+"Gwydir",2020,5019
+"Gwydir",2021,4912
+"Gwydir",2022,4923
+"Gwydir",2023,4940
+"Bayside (Vic.)",2013,98252
+"Bayside (Vic.)",2014,99797
+"Bayside (Vic.)",2015,101268
+"Bayside (Vic.)",2016,102912
+"Bayside (Vic.)",2017,103665
+"Bayside (Vic.)",2018,104623
+"Bayside (Vic.)",2019,105128
+"Bayside (Vic.)",2020,105018
+"Bayside (Vic.)",2021,102328
+"Bayside (Vic.)",2022,102241
+"Bayside (Vic.)",2023,104272
+"Maroondah",2013,109781
+"Maroondah",2014,111421
+"Maroondah",2015,113023
+"Maroondah",2016,114800
+"Maroondah",2017,116223
+"Maroondah",2018,117125
+"Maroondah",2019,117965
+"Maroondah",2020,118295
+"Maroondah",2021,116075
+"Maroondah",2022,115759
+"Maroondah",2023,117434
+"Mornington",2013,1206
+"Mornington",2014,1202
+"Mornington",2015,1202
+"Mornington",2016,1197
+"Mornington",2017,1171
+"Mornington",2018,1151
+"Mornington",2019,1127
+"Mornington",2020,1093
+"Mornington",2021,1060
+"Mornington",2022,1065
+"Mornington",2023,1079
+"Barossa",2013,23138
+"Barossa",2014,23468
+"Barossa",2015,23829
+"Barossa",2016,24200
+"Barossa",2017,24466
+"Barossa",2018,24815
+"Barossa",2019,25050
+"Barossa",2020,25325
+"Barossa",2021,25565
+"Barossa",2022,25866
+"Barossa",2023,26268
+"Perenjori",2013,830
+"Perenjori",2014,762
+"Perenjori",2015,696
+"Perenjori",2016,630
+"Perenjori",2017,634
+"Perenjori",2018,629
+"Perenjori",2019,629
+"Perenjori",2020,632
+"Perenjori",2021,652
+"Perenjori",2022,652
+"Perenjori",2023,649
+"West Arthur",2013,884
+"West Arthur",2014,869
+"West Arthur",2015,855
+"West Arthur",2016,824
+"West Arthur",2017,806
+"West Arthur",2018,799
+"West Arthur",2019,783
+"West Arthur",2020,786
+"West Arthur",2021,795
+"West Arthur",2022,797
+"West Arthur",2023,787
+"Blackall Tambo",2013,2214
+"Blackall Tambo",2014,2152
+"Blackall Tambo",2015,2035
+"Blackall Tambo",2016,1925
+"Blackall Tambo",2017,1895
+"Blackall Tambo",2018,1901
+"Blackall Tambo",2019,1916
+"Blackall Tambo",2020,1919
+"Blackall Tambo",2021,1918
+"Blackall Tambo",2022,1934
+"Blackall Tambo",2023,1953
+"Tiwi Islands",2013,3001
+"Tiwi Islands",2014,2902
+"Tiwi Islands",2015,2848
+"Tiwi Islands",2016,2777
+"Tiwi Islands",2017,2755
+"Tiwi Islands",2018,2744
+"Tiwi Islands",2019,2742
+"Tiwi Islands",2020,2743
+"Tiwi Islands",2021,2735
+"Tiwi Islands",2022,2743
+"Tiwi Islands",2023,2747
+"Darebin",2013,147272
+"Darebin",2014,149511
+"Darebin",2015,151974
+"Darebin",2016,155126
+"Darebin",2017,156525
+"Darebin",2018,157103
+"Darebin",2019,157298
+"Darebin",2020,157056
+"Darebin",2021,150296
+"Darebin",2022,150605
+"Darebin",2023,155683
+"East Fremantle",2013,7740
+"East Fremantle",2014,7769
+"East Fremantle",2015,7731
+"East Fremantle",2016,7680
+"East Fremantle",2017,7799
+"East Fremantle",2018,7869
+"East Fremantle",2019,7933
+"East Fremantle",2020,8035
+"East Fremantle",2021,8064
+"East Fremantle",2022,8071
+"East Fremantle",2023,8222
+"Leonora",2013,2419
+"Leonora",2014,2122
+"Leonora",2015,1812
+"Leonora",2016,1491
+"Leonora",2017,1536
+"Leonora",2018,1585
+"Leonora",2019,1610
+"Leonora",2020,1661
+"Leonora",2021,1716
+"Leonora",2022,1723
+"Leonora",2023,1732
+"Tammin",2013,415
+"Tammin",2014,414
+"Tammin",2015,412
+"Tammin",2016,407
+"Tammin",2017,408
+"Tammin",2018,407
+"Tammin",2019,402
+"Tammin",2020,399
+"Tammin",2021,401
+"Tammin",2022,403
+"Tammin",2023,404
+"Bogan",2013,2926
+"Bogan",2014,2894
+"Bogan",2015,2846
+"Bogan",2016,2764
+"Bogan",2017,2708
+"Bogan",2018,2648
+"Bogan",2019,2602
+"Bogan",2020,2514
+"Bogan",2021,2480
+"Bogan",2022,2454
+"Bogan",2023,2420
+"Flinders Ranges",2013,1717
+"Flinders Ranges",2014,1710
+"Flinders Ranges",2015,1703
+"Flinders Ranges",2016,1693
+"Flinders Ranges",2017,1681
+"Flinders Ranges",2018,1683
+"Flinders Ranges",2019,1681
+"Flinders Ranges",2020,1673
+"Flinders Ranges",2021,1686
+"Flinders Ranges",2022,1682
+"Flinders Ranges",2023,1673
+"Huon Valley",2013,16111
+"Huon Valley",2014,16243
+"Huon Valley",2015,16361
+"Huon Valley",2016,16563
+"Huon Valley",2017,16937
+"Huon Valley",2018,17380
+"Huon Valley",2019,17818
+"Huon Valley",2020,18289
+"Huon Valley",2021,18797
+"Huon Valley",2022,19215
+"Huon Valley",2023,19454
+"Strathbogie",2013,9867
+"Strathbogie",2014,10018
+"Strathbogie",2015,10175
+"Strathbogie",2016,10357
+"Strathbogie",2017,10532
+"Strathbogie",2018,10734
+"Strathbogie",2019,10907
+"Strathbogie",2020,11158
+"Strathbogie",2021,11368
+"Strathbogie",2022,11515
+"Strathbogie",2023,11578
+"Broome",2013,17185
+"Broome",2014,17100
+"Broome",2015,17060
+"Broome",2016,16959
+"Broome",2017,17216
+"Broome",2018,17432
+"Broome",2019,17652
+"Broome",2020,17976
+"Broome",2021,18204
+"Broome",2022,18368
+"Broome",2023,18611
+"Mosman",2013,29641
+"Mosman",2014,29846
+"Mosman",2015,30045
+"Mosman",2016,30260
+"Mosman",2017,30299
+"Mosman",2018,30269
+"Mosman",2019,30020
+"Mosman",2020,29543
+"Mosman",2021,28466
+"Mosman",2022,28132
+"Mosman",2023,29071
+"Snowy Monaro Regional",2013,20433
+"Snowy Monaro Regional",2014,20454
+"Snowy Monaro Regional",2015,20473
+"Snowy Monaro Regional",2016,20558
+"Snowy Monaro Regional",2017,20792
+"Snowy Monaro Regional",2018,20972
+"Snowy Monaro Regional",2019,21192
+"Snowy Monaro Regional",2020,21437
+"Snowy Monaro Regional",2021,21667
+"Snowy Monaro Regional",2022,21823
+"Snowy Monaro Regional",2023,22132
+"Fraser Coast",2013,100290
+"Fraser Coast",2014,101332
+"Fraser Coast",2015,102129
+"Fraser Coast",2016,102962
+"Fraser Coast",2017,104509
+"Fraser Coast",2018,106379
+"Fraser Coast",2019,108146
+"Fraser Coast",2020,109938
+"Fraser Coast",2021,112070
+"Fraser Coast",2022,115069
+"Fraser Coast",2023,117940
+"Dandaragan",2013,3308
+"Dandaragan",2014,3330
+"Dandaragan",2015,3298
+"Dandaragan",2016,3262
+"Dandaragan",2017,3302
+"Dandaragan",2018,3294
+"Dandaragan",2019,3327
+"Dandaragan",2020,3395
+"Dandaragan",2021,3473
+"Dandaragan",2022,3577
+"Dandaragan",2023,3748
+"Wagin",2013,1925
+"Wagin",2014,1921
+"Wagin",2015,1915
+"Wagin",2016,1884
+"Wagin",2017,1855
+"Wagin",2018,1828
+"Wagin",2019,1790
+"Wagin",2020,1781
+"Wagin",2021,1802
+"Wagin",2022,1809
+"Wagin",2023,1816
+"Byron",2013,31756
+"Byron",2014,32263
+"Byron",2015,32803
+"Byron",2016,33399
+"Byron",2017,33944
+"Byron",2018,34512
+"Byron",2019,35054
+"Byron",2020,35715
+"Byron",2021,36106
+"Byron",2022,36514
+"Byron",2023,37126
+"Christmas Island",2013,2041
+"Christmas Island",2014,1979
+"Christmas Island",2015,1929
+"Christmas Island",2016,1903
+"Christmas Island",2017,1876
+"Christmas Island",2018,1848
+"Christmas Island",2019,1803
+"Christmas Island",2020,1758
+"Christmas Island",2021,1717
+"Christmas Island",2022,1786
+"Christmas Island",2023,1823
+"Northern Midlands",2013,12765
+"Northern Midlands",2014,12819
+"Northern Midlands",2015,12873
+"Northern Midlands",2016,12972
+"Northern Midlands",2017,13132
+"Northern Midlands",2018,13362
+"Northern Midlands",2019,13492
+"Northern Midlands",2020,13661
+"Northern Midlands",2021,14022
+"Northern Midlands",2022,14137
+"Northern Midlands",2023,14279
+"Tatiara",2013,6789
+"Tatiara",2014,6811
+"Tatiara",2015,6821
+"Tatiara",2016,6817
+"Tatiara",2017,6832
+"Tatiara",2018,6894
+"Tatiara",2019,6966
+"Tatiara",2020,7016
+"Tatiara",2021,7070
+"Tatiara",2022,7037
+"Tatiara",2023,7066
+"Sandstone",2013,112
+"Sandstone",2014,106
+"Sandstone",2015,100
+"Sandstone",2016,93
+"Sandstone",2017,93
+"Sandstone",2018,97
+"Sandstone",2019,102
+"Sandstone",2020,109
+"Sandstone",2021,117
+"Sandstone",2022,119
+"Sandstone",2023,116
+"Wentworth",2013,6848
+"Wentworth",2014,6877
+"Wentworth",2015,6890
+"Wentworth",2016,6932
+"Wentworth",2017,7052
+"Wentworth",2018,7185
+"Wentworth",2019,7284
+"Wentworth",2020,7389
+"Wentworth",2021,7490
+"Wentworth",2022,7596
+"Wentworth",2023,7688
+"Central Desert",2013,4363
+"Central Desert",2014,4316
+"Central Desert",2015,4259
+"Central Desert",2016,4165
+"Central Desert",2017,4151
+"Central Desert",2018,4138
+"Central Desert",2019,4147
+"Central Desert",2020,4129
+"Central Desert",2021,4118
+"Central Desert",2022,4105
+"Central Desert",2023,4126
+"Coonamble",2013,4168
+"Coonamble",2014,4134
+"Coonamble",2015,4091
+"Coonamble",2016,4051
+"Coonamble",2017,4023
+"Coonamble",2018,3976
+"Coonamble",2019,3923
+"Coonamble",2020,3871
+"Coonamble",2021,3833
+"Coonamble",2022,3825
+"Coonamble",2023,3861
+"Torres Strait Island",2013,4614
+"Torres Strait Island",2014,4690
+"Torres Strait Island",2015,4731
+"Torres Strait Island",2016,4775
+"Torres Strait Island",2017,4688
+"Torres Strait Island",2018,4551
+"Torres Strait Island",2019,4434
+"Torres Strait Island",2020,4355
+"Torres Strait Island",2021,4294
+"Torres Strait Island",2022,4285
+"Torres Strait Island",2023,4286
+"Federation",2013,12508
+"Federation",2014,12499
+"Federation",2015,12470
+"Federation",2016,12445
+"Federation",2017,12509
+"Federation",2018,12559
+"Federation",2019,12627
+"Federation",2020,12726
+"Federation",2021,12822
+"Federation",2022,12852
+"Federation",2023,12939
+"Kowanyama",2013,1042
+"Kowanyama",2014,1014
+"Kowanyama",2015,996
+"Kowanyama",2016,983
+"Kowanyama",2017,990
+"Kowanyama",2018,1014
+"Kowanyama",2019,1045
+"Kowanyama",2020,1076
+"Kowanyama",2021,1107
+"Kowanyama",2022,1136
+"Kowanyama",2023,1147
+"Harvey",2013,25657
+"Harvey",2014,26186
+"Harvey",2015,26656
+"Harvey",2016,26890
+"Harvey",2017,27358
+"Harvey",2018,28086
+"Harvey",2019,28540
+"Harvey",2020,29076
+"Harvey",2021,29625
+"Harvey",2022,30165
+"Harvey",2023,30790
+"Melville",2013,104319
+"Melville",2014,104073
+"Melville",2015,103522
+"Melville",2016,102342
+"Melville",2017,102569
+"Melville",2018,103153
+"Melville",2019,104340
+"Melville",2020,106124
+"Melville",2021,106823
+"Melville",2022,107433
+"Melville",2023,110426
+"Warren",2013,2836
+"Warren",2014,2809
+"Warren",2015,2783
+"Warren",2016,2797
+"Warren",2017,2742
+"Warren",2018,2714
+"Warren",2019,2662
+"Warren",2020,2634
+"Warren",2021,2584
+"Warren",2022,2578
+"Warren",2023,2583
+"Balonne",2013,4776
+"Balonne",2014,4726
+"Balonne",2015,4610
+"Balonne",2016,4461
+"Balonne",2017,4394
+"Balonne",2018,4372
+"Balonne",2019,4389
+"Balonne",2020,4392
+"Balonne",2021,4378
+"Balonne",2022,4352
+"Balonne",2023,4345
+"Franklin Harbour",2013,1295
+"Franklin Harbour",2014,1307
+"Franklin Harbour",2015,1331
+"Franklin Harbour",2016,1334
+"Franklin Harbour",2017,1324
+"Franklin Harbour",2018,1311
+"Franklin Harbour",2019,1302
+"Franklin Harbour",2020,1305
+"Franklin Harbour",2021,1322
+"Franklin Harbour",2022,1327
+"Franklin Harbour",2023,1332
+"Armadale",2013,72662
+"Armadale",2014,75559
+"Armadale",2015,78848
+"Armadale",2016,82021
+"Armadale",2017,84875
+"Armadale",2018,88068
+"Armadale",2019,91543
+"Armadale",2020,94970
+"Armadale",2021,97644
+"Armadale",2022,100849
+"Armadale",2023,105094
+"Murweh",2013,4685
+"Murweh",2014,4639
+"Murweh",2015,4527
+"Murweh",2016,4386
+"Murweh",2017,4279
+"Murweh",2018,4263
+"Murweh",2019,4211
+"Murweh",2020,4106
+"Murweh",2021,4009
+"Murweh",2022,3960
+"Murweh",2023,3966
+"Pingelly",2013,1205
+"Pingelly",2014,1187
+"Pingelly",2015,1202
+"Pingelly",2016,1183
+"Pingelly",2017,1154
+"Pingelly",2018,1121
+"Pingelly",2019,1100
+"Pingelly",2020,1086
+"Pingelly",2021,1072
+"Pingelly",2022,1068
+"Pingelly",2023,1084
+"Karoonda East Murray",2013,1088
+"Karoonda East Murray",2014,1103
+"Karoonda East Murray",2015,1118
+"Karoonda East Murray",2016,1121
+"Karoonda East Murray",2017,1098
+"Karoonda East Murray",2018,1083
+"Karoonda East Murray",2019,1068
+"Karoonda East Murray",2020,1056
+"Karoonda East Murray",2021,1024
+"Karoonda East Murray",2022,1027
+"Karoonda East Murray",2023,1016
+"Hobsons Bay",2013,89188
+"Hobsons Bay",2014,90417
+"Hobsons Bay",2015,91674
+"Hobsons Bay",2016,93445
+"Hobsons Bay",2017,94543
+"Hobsons Bay",2018,95150
+"Hobsons Bay",2019,95818
+"Hobsons Bay",2020,95193
+"Hobsons Bay",2021,92267
+"Hobsons Bay",2022,91864
+"Hobsons Bay",2023,93738
+"Roper Gulf",2013,7207
+"Roper Gulf",2014,7272
+"Roper Gulf",2015,7335
+"Roper Gulf",2016,7329
+"Roper Gulf",2017,7297
+"Roper Gulf",2018,7311
+"Roper Gulf",2019,7357
+"Roper Gulf",2020,7391
+"Roper Gulf",2021,7435
+"Roper Gulf",2022,7475
+"Roper Gulf",2023,7491
+"Horsham",2013,19694
+"Horsham",2014,19748
+"Horsham",2015,19792
+"Horsham",2016,19884
+"Horsham",2017,19977
+"Horsham",2018,20064
+"Horsham",2019,20200
+"Horsham",2020,20385
+"Horsham",2021,20376
+"Horsham",2022,20348
+"Horsham",2023,20315
+"Wickepin",2013,764
+"Wickepin",2014,744
+"Wickepin",2015,737
+"Wickepin",2016,740
+"Wickepin",2017,732
+"Wickepin",2018,725
+"Wickepin",2019,714
+"Wickepin",2020,719
+"Wickepin",2021,712
+"Wickepin",2022,706
+"Wickepin",2023,701
+"Waverley",2013,70052
+"Waverley",2014,70742
+"Waverley",2015,71336
+"Waverley",2016,72013
+"Waverley",2017,72507
+"Waverley",2018,72609
+"Waverley",2019,72485
+"Waverley",2020,71880
+"Waverley",2021,69397
+"Waverley",2022,69357
+"Waverley",2023,71414
+"Murray River",2013,11515
+"Murray River",2014,11642
+"Murray River",2015,11755
+"Murray River",2016,11872
+"Murray River",2017,12027
+"Murray River",2018,12227
+"Murray River",2019,12355
+"Murray River",2020,12572
+"Murray River",2021,12785
+"Murray River",2022,13014
+"Murray River",2023,13326
+"Greater Geelong",2013,223357
+"Greater Geelong",2014,227744
+"Greater Geelong",2015,232926
+"Greater Geelong",2016,239529
+"Greater Geelong",2017,246384
+"Greater Geelong",2018,253175
+"Greater Geelong",2019,260134
+"Greater Geelong",2020,266036
+"Greater Geelong",2021,270932
+"Greater Geelong",2022,276601
+"Greater Geelong",2023,282809
+"Dalwallinu",2013,1375
+"Dalwallinu",2014,1405
+"Dalwallinu",2015,1435
+"Dalwallinu",2016,1454
+"Dalwallinu",2017,1441
+"Dalwallinu",2018,1439
+"Dalwallinu",2019,1428
+"Dalwallinu",2020,1426
+"Dalwallinu",2021,1436
+"Dalwallinu",2022,1429
+"Dalwallinu",2023,1446
+"Narembeen",2013,826
+"Narembeen",2014,818
+"Narembeen",2015,820
+"Narembeen",2016,815
+"Narembeen",2017,822
+"Narembeen",2018,826
+"Narembeen",2019,831
+"Narembeen",2020,829
+"Narembeen",2021,820
+"Narembeen",2022,822
+"Narembeen",2023,833
+"Parramatta",2013,214537
+"Parramatta",2014,221107
+"Parramatta",2015,227649
+"Parramatta",2016,234444
+"Parramatta",2017,243158
+"Parramatta",2018,250835
+"Parramatta",2019,257472
+"Parramatta",2020,260413
+"Parramatta",2021,258527
+"Parramatta",2022,260472
+"Parramatta",2023,269145
+"Aurukun",2013,1350
+"Aurukun",2014,1332
+"Aurukun",2015,1321
+"Aurukun",2016,1323
+"Aurukun",2017,1301
+"Aurukun",2018,1296
+"Aurukun",2019,1288
+"Aurukun",2020,1196
+"Aurukun",2021,1130
+"Aurukun",2022,1124
+"Aurukun",2023,1154
+"Central Darling",2013,1979
+"Central Darling",2014,1934
+"Central Darling",2015,1923
+"Central Darling",2016,1881
+"Central Darling",2017,1845
+"Central Darling",2018,1809
+"Central Darling",2019,1799
+"Central Darling",2020,1774
+"Central Darling",2021,1758
+"Central Darling",2022,1749
+"Central Darling",2023,1757
+"Parkes",2013,15022
+"Parkes",2014,14991
+"Parkes",2015,14954
+"Parkes",2016,14924
+"Parkes",2017,14893
+"Parkes",2018,14836
+"Parkes",2019,14774
+"Parkes",2020,14646
+"Parkes",2021,14451
+"Parkes",2022,14346
+"Parkes",2023,14256
+"Kimba",2013,1103
+"Kimba",2014,1097
+"Kimba",2015,1089
+"Kimba",2016,1083
+"Kimba",2017,1079
+"Kimba",2018,1072
+"Kimba",2019,1063
+"Kimba",2020,1056
+"Kimba",2021,1053
+"Kimba",2022,1059
+"Kimba",2023,1059
+"Kondinin",2013,985
+"Kondinin",2014,918
+"Kondinin",2015,929
+"Kondinin",2016,894
+"Kondinin",2017,881
+"Kondinin",2018,872
+"Kondinin",2019,869
+"Kondinin",2020,876
+"Kondinin",2021,872
+"Kondinin",2022,866
+"Kondinin",2023,858
+"Ryde",2013,113547
+"Ryde",2014,115843
+"Ryde",2015,118499
+"Ryde",2016,121270
+"Ryde",2017,124095
+"Ryde",2018,126364
+"Ryde",2019,129738
+"Ryde",2020,130999
+"Ryde",2021,129813
+"Ryde",2022,131168
+"Ryde",2023,135716
+"Mackay",2013,118878
+"Mackay",2014,118916
+"Mackay",2015,118292
+"Mackay",2016,117218
+"Mackay",2017,117513
+"Mackay",2018,118352
+"Mackay",2019,119529
+"Mackay",2020,121395
+"Mackay",2021,123148
+"Mackay",2022,124950
+"Mackay",2023,126907
+"Broomehill-Tambellup",2013,1194
+"Broomehill-Tambellup",2014,1191
+"Broomehill-Tambellup",2015,1180
+"Broomehill-Tambellup",2016,1164
+"Broomehill-Tambellup",2017,1153
+"Broomehill-Tambellup",2018,1133
+"Broomehill-Tambellup",2019,1112
+"Broomehill-Tambellup",2020,1098
+"Broomehill-Tambellup",2021,1089
+"Broomehill-Tambellup",2022,1087
+"Broomehill-Tambellup",2023,1095
+"Surf Coast",2013,28228
+"Surf Coast",2014,28874
+"Surf Coast",2015,29625
+"Surf Coast",2016,30465
+"Surf Coast",2017,31555
+"Surf Coast",2018,32750
+"Surf Coast",2019,34213
+"Surf Coast",2020,35827
+"Surf Coast",2021,37648
+"Surf Coast",2022,38672
+"Surf Coast",2023,39292
+"Lower Eyre Peninsula",2013,5300
+"Lower Eyre Peninsula",2014,5426
+"Lower Eyre Peninsula",2015,5540
+"Lower Eyre Peninsula",2016,5661
+"Lower Eyre Peninsula",2017,5731
+"Lower Eyre Peninsula",2018,5812
+"Lower Eyre Peninsula",2019,5875
+"Lower Eyre Peninsula",2020,5947
+"Lower Eyre Peninsula",2021,6058
+"Lower Eyre Peninsula",2022,6097
+"Lower Eyre Peninsula",2023,6154
+"Menzies",2013,486
+"Menzies",2014,499
+"Menzies",2015,510
+"Menzies",2016,518
+"Menzies",2017,523
+"Menzies",2018,534
+"Menzies",2019,541
+"Menzies",2020,553
+"Menzies",2021,569
+"Menzies",2022,571
+"Menzies",2023,575
+"Ngaanyatjarraku",2013,1689
+"Ngaanyatjarraku",2014,1705
+"Ngaanyatjarraku",2015,1713
+"Ngaanyatjarraku",2016,1708
+"Ngaanyatjarraku",2017,1649
+"Ngaanyatjarraku",2018,1598
+"Ngaanyatjarraku",2019,1538
+"Ngaanyatjarraku",2020,1502
+"Ngaanyatjarraku",2021,1476
+"Ngaanyatjarraku",2022,1478
+"Ngaanyatjarraku",2023,1479
+"Flinders (Tas.)",2013,845
+"Flinders (Tas.)",2014,871
+"Flinders (Tas.)",2015,900
+"Flinders (Tas.)",2016,939
+"Flinders (Tas.)",2017,939
+"Flinders (Tas.)",2018,952
+"Flinders (Tas.)",2019,951
+"Flinders (Tas.)",2020,937
+"Flinders (Tas.)",2021,938
+"Flinders (Tas.)",2022,931
+"Flinders (Tas.)",2023,933
+"Moonee Valley",2013,115464
+"Moonee Valley",2014,117763
+"Moonee Valley",2015,120231
+"Moonee Valley",2016,122871
+"Moonee Valley",2017,124321
+"Moonee Valley",2018,125487
+"Moonee Valley",2019,126406
+"Moonee Valley",2020,126786
+"Moonee Valley",2021,122950
+"Moonee Valley",2022,123119
+"Moonee Valley",2023,126486
+"Mount Isa",2013,21822
+"Mount Isa",2014,21261
+"Mount Isa",2015,20586
+"Mount Isa",2016,19606
+"Mount Isa",2017,19363
+"Mount Isa",2018,19241
+"Mount Isa",2019,19159
+"Mount Isa",2020,19315
+"Mount Isa",2021,19217
+"Mount Isa",2022,19046
+"Mount Isa",2023,18945
+"Wandering",2013,451
+"Wandering",2014,453
+"Wandering",2015,457
+"Wandering",2016,458
+"Wandering",2017,464
+"Wandering",2018,478
+"Wandering",2019,496
+"Wandering",2020,520
+"Wandering",2021,551
+"Wandering",2022,548
+"Wandering",2023,545
+"Break O'Day",2013,6353
+"Break O'Day",2014,6312
+"Break O'Day",2015,6254
+"Break O'Day",2016,6198
+"Break O'Day",2017,6264
+"Break O'Day",2018,6381
+"Break O'Day",2019,6516
+"Break O'Day",2020,6659
+"Break O'Day",2021,6933
+"Break O'Day",2022,7010
+"Break O'Day",2023,7075
+"Bellingen",2013,12920
+"Bellingen",2014,12929
+"Bellingen",2015,12936
+"Bellingen",2016,12951
+"Bellingen",2017,12976
+"Bellingen",2018,13006
+"Bellingen",2019,13046
+"Bellingen",2020,13152
+"Bellingen",2021,13203
+"Bellingen",2022,13261
+"Bellingen",2023,13231
+"Colac Otway",2013,21035
+"Colac Otway",2014,21131
+"Colac Otway",2015,21230
+"Colac Otway",2016,21362
+"Colac Otway",2017,21595
+"Colac Otway",2018,21823
+"Colac Otway",2019,22037
+"Colac Otway",2020,22274
+"Colac Otway",2021,22309
+"Colac Otway",2022,22198
+"Colac Otway",2023,22273
+"Pormpuraaw",2013,737
+"Pormpuraaw",2014,747
+"Pormpuraaw",2015,764
+"Pormpuraaw",2016,785
+"Pormpuraaw",2017,774
+"Pormpuraaw",2018,743
+"Pormpuraaw",2019,708
+"Pormpuraaw",2020,672
+"Pormpuraaw",2021,632
+"Pormpuraaw",2022,637
+"Pormpuraaw",2023,644
+"Ceduna",2013,3574
+"Ceduna",2014,3577
+"Ceduna",2015,3574
+"Ceduna",2016,3566
+"Ceduna",2017,3577
+"Ceduna",2018,3583
+"Ceduna",2019,3600
+"Ceduna",2020,3616
+"Ceduna",2021,3651
+"Ceduna",2022,3650
+"Ceduna",2023,3717
+"Whyalla",2013,22659
+"Whyalla",2014,22703
+"Whyalla",2015,22670
+"Whyalla",2016,22511
+"Whyalla",2017,22254
+"Whyalla",2018,22102
+"Whyalla",2019,22073
+"Whyalla",2020,22036
+"Whyalla",2021,21954
+"Whyalla",2022,21887
+"Whyalla",2023,21902
+"Townsville",2013,186519
+"Townsville",2014,188777
+"Townsville",2015,190011
+"Townsville",2016,191348
+"Townsville",2017,192475
+"Townsville",2018,193105
+"Townsville",2019,193687
+"Townsville",2020,194679
+"Townsville",2021,195457
+"Townsville",2022,198134
+"Townsville",2023,201433
+"Belyuen",2013,199
+"Belyuen",2014,188
+"Belyuen",2015,182
+"Belyuen",2016,175
+"Belyuen",2017,172
+"Belyuen",2018,169
+"Belyuen",2019,168
+"Belyuen",2020,167
+"Belyuen",2021,165
+"Belyuen",2022,165
+"Belyuen",2023,166
+"Lachlan",2013,6681
+"Lachlan",2014,6624
+"Lachlan",2015,6541
+"Lachlan",2016,6444
+"Lachlan",2017,6403
+"Lachlan",2018,6341
+"Lachlan",2019,6273
+"Lachlan",2020,6223
+"Lachlan",2021,6153
+"Lachlan",2022,6138
+"Lachlan",2023,6147
+"Brisbane",2013,1131996
+"Brisbane",2014,1149107
+"Brisbane",2015,1165437
+"Brisbane",2016,1184752
+"Brisbane",2017,1206960
+"Brisbane",2018,1226938
+"Brisbane",2019,1247133
+"Brisbane",2020,1263500
+"Brisbane",2021,1262968
+"Brisbane",2022,1283432
+"Brisbane",2023,1323162
+"West Torrens",2013,58153
+"West Torrens",2014,58627
+"West Torrens",2015,59075
+"West Torrens",2016,59408
+"West Torrens",2017,59809
+"West Torrens",2018,60542
+"West Torrens",2019,61562
+"West Torrens",2020,62573
+"West Torrens",2021,62425
+"West Torrens",2022,63115
+"West Torrens",2023,64519
+"Ashburton",2013,12025
+"Ashburton",2014,12515
+"Ashburton",2015,13002
+"Ashburton",2016,13311
+"Ashburton",2017,12208
+"Ashburton",2018,11144
+"Ashburton",2019,10018
+"Ashburton",2020,8927
+"Ashburton",2021,7781
+"Ashburton",2022,7843
+"Ashburton",2023,8076
+"Croydon",2013,308
+"Croydon",2014,303
+"Croydon",2015,297
+"Croydon",2016,296
+"Croydon",2017,288
+"Croydon",2018,280
+"Croydon",2019,272
+"Croydon",2020,269
+"Croydon",2021,269
+"Croydon",2022,268
+"Croydon",2023,270
+"Dundas",2013,1069
+"Dundas",2014,979
+"Dundas",2015,894
+"Dundas",2016,788
+"Dundas",2017,759
+"Dundas",2018,728
+"Dundas",2019,706
+"Dundas",2020,698
+"Dundas",2021,699
+"Dundas",2022,695
+"Dundas",2023,701
+"Cranbrook",2013,1129
+"Cranbrook",2014,1131
+"Cranbrook",2015,1119
+"Cranbrook",2016,1107
+"Cranbrook",2017,1110
+"Cranbrook",2018,1110
+"Cranbrook",2019,1115
+"Cranbrook",2020,1122
+"Cranbrook",2021,1134
+"Cranbrook",2022,1141
+"Cranbrook",2023,1149
+"Kiama",2013,21262
+"Kiama",2014,21612
+"Kiama",2015,21890
+"Kiama",2016,22110
+"Kiama",2017,22299
+"Kiama",2018,22479
+"Kiama",2019,22711
+"Kiama",2020,22873
+"Kiama",2021,22970
+"Kiama",2022,22964
+"Kiama",2023,23002
+"Eurobodalla",2013,37270
+"Eurobodalla",2014,37483
+"Eurobodalla",2015,37733
+"Eurobodalla",2016,37919
+"Eurobodalla",2017,38372
+"Eurobodalla",2018,38816
+"Eurobodalla",2019,39290
+"Eurobodalla",2020,39917
+"Eurobodalla",2021,40464
+"Eurobodalla",2022,40752
+"Eurobodalla",2023,40912
+"Beverley",2013,1692
+"Beverley",2014,1707
+"Beverley",2015,1732
+"Beverley",2016,1748
+"Beverley",2017,1740
+"Beverley",2018,1741
+"Beverley",2019,1746
+"Beverley",2020,1738
+"Beverley",2021,1735
+"Beverley",2022,1738
+"Beverley",2023,1768
+"Northampton",2013,3432
+"Northampton",2014,3389
+"Northampton",2015,3357
+"Northampton",2016,3335
+"Northampton",2017,3305
+"Northampton",2018,3277
+"Northampton",2019,3263
+"Northampton",2020,3279
+"Northampton",2021,3332
+"Northampton",2022,3343
+"Northampton",2023,3369
+"Bulloo",2013,396
+"Bulloo",2014,388
+"Bulloo",2015,372
+"Bulloo",2016,356
+"Bulloo",2017,347
+"Bulloo",2018,343
+"Bulloo",2019,340
+"Bulloo",2020,340
+"Bulloo",2021,342
+"Bulloo",2022,343
+"Bulloo",2023,346
+"Trayning",2013,366
+"Trayning",2014,364
+"Trayning",2015,358
+"Trayning",2016,354
+"Trayning",2017,344
+"Trayning",2018,335
+"Trayning",2019,330
+"Trayning",2020,317
+"Trayning",2021,307
+"Trayning",2022,304
+"Trayning",2023,303
+"Glen Eira",2013,141260
+"Glen Eira",2014,143694
+"Glen Eira",2015,145924
+"Glen Eira",2016,148583
+"Glen Eira",2017,150702
+"Glen Eira",2018,152389
+"Glen Eira",2019,153936
+"Glen Eira",2020,154656
+"Glen Eira",2021,150638
+"Glen Eira",2022,151824
+"Glen Eira",2023,156837
+"Mansfield",2013,8276
+"Mansfield",2014,8395
+"Mansfield",2015,8530
+"Mansfield",2016,8674
+"Mansfield",2017,8897
+"Mansfield",2018,9153
+"Mansfield",2019,9417
+"Mansfield",2020,9792
+"Mansfield",2021,10121
+"Mansfield",2022,10338
+"Mansfield",2023,10546
+"Inner West",2013,184297
+"Inner West",2014,186495
+"Inner West",2015,188711
+"Inner West",2016,191194
+"Inner West",2017,192275
+"Inner West",2018,192661
+"Inner West",2019,191965
+"Inner West",2020,190035
+"Inner West",2021,183839
+"Inner West",2022,183153
+"Inner West",2023,188325
+"Yorke Peninsula",2013,11241
+"Yorke Peninsula",2014,11254
+"Yorke Peninsula",2015,11267
+"Yorke Peninsula",2016,11291
+"Yorke Peninsula",2017,11375
+"Yorke Peninsula",2018,11475
+"Yorke Peninsula",2019,11581
+"Yorke Peninsula",2020,11681
+"Yorke Peninsula",2021,11830
+"Yorke Peninsula",2022,11916
+"Yorke Peninsula",2023,12040
+"Shark Bay",2013,936
+"Shark Bay",2014,948
+"Shark Bay",2015,965
+"Shark Bay",2016,963
+"Shark Bay",2017,962
+"Shark Bay",2018,986
+"Shark Bay",2019,1000
+"Shark Bay",2020,1041
+"Shark Bay",2021,1069
+"Shark Bay",2022,1082
+"Shark Bay",2023,1129
+"Wyalkatchem",2013,541
+"Wyalkatchem",2014,535
+"Wyalkatchem",2015,533
+"Wyalkatchem",2016,522
+"Wyalkatchem",2017,515
+"Wyalkatchem",2018,501
+"Wyalkatchem",2019,492
+"Wyalkatchem",2020,492
+"Wyalkatchem",2021,484
+"Wyalkatchem",2022,485
+"Wyalkatchem",2023,491
+"Katherine",2013,10761
+"Katherine",2014,10744
+"Katherine",2015,10671
+"Katherine",2016,10541
+"Katherine",2017,10624
+"Katherine",2018,10672
+"Katherine",2019,10721
+"Katherine",2020,10716
+"Katherine",2021,10679
+"Katherine",2022,10834
+"Katherine",2023,10829
+"Loxton Waikerie",2013,11571
+"Loxton Waikerie",2014,11671
+"Loxton Waikerie",2015,11716
+"Loxton Waikerie",2016,11730
+"Loxton Waikerie",2017,11731
+"Loxton Waikerie",2018,11775
+"Loxton Waikerie",2019,11830
+"Loxton Waikerie",2020,11861
+"Loxton Waikerie",2021,11921
+"Loxton Waikerie",2022,11923
+"Loxton Waikerie",2023,11897
+"Lockhart",2013,3096
+"Lockhart",2014,3117
+"Lockhart",2015,3121
+"Lockhart",2016,3173
+"Lockhart",2017,3208
+"Lockhart",2018,3218
+"Lockhart",2019,3266
+"Lockhart",2020,3308
+"Lockhart",2021,3328
+"Lockhart",2022,3370
+"Lockhart",2023,3396
+"Macedon Ranges",2013,44595
+"Macedon Ranges",2014,45471
+"Macedon Ranges",2015,46373
+"Macedon Ranges",2016,47480
+"Macedon Ranges",2017,48415
+"Macedon Ranges",2018,49302
+"Macedon Ranges",2019,50162
+"Macedon Ranges",2020,50894
+"Macedon Ranges",2021,51599
+"Macedon Ranges",2022,52202
+"Macedon Ranges",2023,52920
+"Yalgoo",2013,426
+"Yalgoo",2014,405
+"Yalgoo",2015,378
+"Yalgoo",2016,350
+"Yalgoo",2017,358
+"Yalgoo",2018,361
+"Yalgoo",2019,361
+"Yalgoo",2020,358
+"Yalgoo",2021,364
+"Yalgoo",2022,365
+"Yalgoo",2023,357
+"Burdekin",2013,17754
+"Burdekin",2014,17695
+"Burdekin",2015,17566
+"Burdekin",2016,17326
+"Burdekin",2017,17224
+"Burdekin",2018,17086
+"Burdekin",2019,17003
+"Burdekin",2020,16934
+"Burdekin",2021,16836
+"Burdekin",2022,16868
+"Burdekin",2023,17020
+"Mount Marshall",2013,523
+"Mount Marshall",2014,528
+"Mount Marshall",2015,531
+"Mount Marshall",2016,533
+"Mount Marshall",2017,520
+"Mount Marshall",2018,504
+"Mount Marshall",2019,494
+"Mount Marshall",2020,479
+"Mount Marshall",2021,467
+"Mount Marshall",2022,463
+"Mount Marshall",2023,461
+"Peppermint Grove",2013,1694
+"Peppermint Grove",2014,1707
+"Peppermint Grove",2015,1709
+"Peppermint Grove",2016,1708
+"Peppermint Grove",2017,1692
+"Peppermint Grove",2018,1675
+"Peppermint Grove",2019,1661
+"Peppermint Grove",2020,1661
+"Peppermint Grove",2021,1638
+"Peppermint Grove",2022,1638
+"Peppermint Grove",2023,1736
+"The Hills Shire",2013,152429
+"The Hills Shire",2014,155366
+"The Hills Shire",2015,158941
+"The Hills Shire",2016,162975
+"The Hills Shire",2017,168400
+"The Hills Shire",2018,173067
+"The Hills Shire",2019,180102
+"The Hills Shire",2020,186622
+"The Hills Shire",2021,192660
+"The Hills Shire",2022,199269
+"The Hills Shire",2023,207959
+"Marion",2013,87769
+"Marion",2014,88652
+"Marion",2015,89521
+"Marion",2016,90508
+"Marion",2017,91491
+"Marion",2018,92455
+"Marion",2019,93817
+"Marion",2020,95256
+"Marion",2021,95610
+"Marion",2022,96667
+"Marion",2023,98493
+"Boyup Brook",2013,1667
+"Boyup Brook",2014,1687
+"Boyup Brook",2015,1681
+"Boyup Brook",2016,1722
+"Boyup Brook",2017,1737
+"Boyup Brook",2018,1784
+"Boyup Brook",2019,1808
+"Boyup Brook",2020,1833
+"Boyup Brook",2021,1874
+"Boyup Brook",2022,1938
+"Boyup Brook",2023,1948
+"Cessnock",2013,54303
+"Cessnock",2014,55103
+"Cessnock",2015,55888
+"Cessnock",2016,56720
+"Cessnock",2017,57921
+"Cessnock",2018,59649
+"Cessnock",2019,60823
+"Cessnock",2020,62431
+"Cessnock",2021,64120
+"Cessnock",2022,65875
+"Cessnock",2023,67591
+"Waratah-Wynyard",2013,14083
+"Waratah-Wynyard",2014,14014
+"Waratah-Wynyard",2015,13903
+"Waratah-Wynyard",2016,13813
+"Waratah-Wynyard",2017,13884
+"Waratah-Wynyard",2018,14033
+"Waratah-Wynyard",2019,14178
+"Waratah-Wynyard",2020,14341
+"Waratah-Wynyard",2021,14629
+"Waratah-Wynyard",2022,14688
+"Waratah-Wynyard",2023,14767
+"Sydney",2013,196318
+"Sydney",2014,204516
+"Sydney",2015,214037
+"Sydney",2016,222717
+"Sydney",2017,227997
+"Sydney",2018,229284
+"Sydney",2019,229596
+"Sydney",2020,227250
+"Sydney",2021,214703
+"Sydney",2022,218275
+"Sydney",2023,231086
+"Frankston",2013,134351
+"Frankston",2014,136181
+"Frankston",2015,137790
+"Frankston",2016,139502
+"Frankston",2017,140601
+"Frankston",2018,141531
+"Frankston",2019,141970
+"Frankston",2020,142191
+"Frankston",2021,140824
+"Frankston",2022,141161
+"Frankston",2023,142826
+"Somerset",2013,23619
+"Somerset",2014,24459
+"Somerset",2015,24681
+"Somerset",2016,25153
+"Somerset",2017,25286
+"Somerset",2018,25326
+"Somerset",2019,25355
+"Somerset",2020,25322
+"Somerset",2021,25388
+"Somerset",2022,25711
+"Somerset",2023,26251
+"Coorow",2013,1099
+"Coorow",2014,1086
+"Coorow",2015,1077
+"Coorow",2016,1058
+"Coorow",2017,1065
+"Coorow",2018,1059
+"Coorow",2019,1066
+"Coorow",2020,1076
+"Coorow",2021,1091
+"Coorow",2022,1092
+"Coorow",2023,1107
+"Alice Springs",2013,28124
+"Alice Springs",2014,27486
+"Alice Springs",2015,26843
+"Alice Springs",2016,26518
+"Alice Springs",2017,26889
+"Alice Springs",2018,27223
+"Alice Springs",2019,27600
+"Alice Springs",2020,28029
+"Alice Springs",2021,28483
+"Alice Springs",2022,28859
+"Alice Springs",2023,29213
+"Richmond",2013,839
+"Richmond",2014,838
+"Richmond",2015,820
+"Richmond",2016,806
+"Richmond",2017,791
+"Richmond",2018,785
+"Richmond",2019,777
+"Richmond",2020,769
+"Richmond",2021,769
+"Richmond",2022,777
+"Richmond",2023,781
+"Williams",2013,977
+"Williams",2014,993
+"Williams",2015,1005
+"Williams",2016,1000
+"Williams",2017,1026
+"Williams",2018,1033
+"Williams",2019,1025
+"Williams",2020,1035
+"Williams",2021,1050
+"Williams",2022,1053
+"Williams",2023,1060
+"Hawkesbury",2013,65145
+"Hawkesbury",2014,65503
+"Hawkesbury",2015,65890
+"Hawkesbury",2016,66346
+"Hawkesbury",2017,66708
+"Hawkesbury",2018,66989
+"Hawkesbury",2019,67244
+"Hawkesbury",2020,67578
+"Hawkesbury",2021,67605
+"Hawkesbury",2022,67862
+"Hawkesbury",2023,68156
+"Temora",2013,6055
+"Temora",2014,6098
+"Temora",2015,6165
+"Temora",2016,6210
+"Temora",2017,6162
+"Temora",2018,6138
+"Temora",2019,6116
+"Temora",2020,6077
+"Temora",2021,6013
+"Temora",2022,5995
+"Temora",2023,6029
+"Whitehorse",2013,162081
+"Whitehorse",2014,164320
+"Whitehorse",2015,166679
+"Whitehorse",2016,169641
+"Whitehorse",2017,172376
+"Whitehorse",2018,174431
+"Whitehorse",2019,175862
+"Whitehorse",2020,176794
+"Whitehorse",2021,171077
+"Whitehorse",2022,172607
+"Whitehorse",2023,178639
+"Cairns",2013,156764
+"Cairns",2014,158574
+"Cairns",2015,159944
+"Cairns",2016,161573
+"Cairns",2017,163806
+"Cairns",2018,165716
+"Cairns",2019,167149
+"Cairns",2020,168710
+"Cairns",2021,169250
+"Cairns",2022,171985
+"Cairns",2023,175398
+"Mundaring",2013,39644
+"Mundaring",2014,39651
+"Mundaring",2015,39563
+"Mundaring",2016,39217
+"Mundaring",2017,39161
+"Mundaring",2018,39494
+"Mundaring",2019,39877
+"Mundaring",2020,40360
+"Mundaring",2021,40539
+"Mundaring",2022,40517
+"Mundaring",2023,41421
+"Vincent",2013,35442
+"Vincent",2014,35631
+"Vincent",2015,35663
+"Vincent",2016,35674
+"Vincent",2017,35856
+"Vincent",2018,36282
+"Vincent",2019,36892
+"Vincent",2020,37717
+"Vincent",2021,37833
+"Vincent",2022,38504
+"Vincent",2023,40125
+"George Town",2013,6838
+"George Town",2014,6854
+"George Town",2015,6857
+"George Town",2016,6873
+"George Town",2017,6914
+"George Town",2018,6958
+"George Town",2019,7020
+"George Town",2020,7186
+"George Town",2021,7206
+"George Town",2022,7267
+"George Town",2023,7330
+"West Tamar",2013,22851
+"West Tamar",2014,22921
+"West Tamar",2015,23007
+"West Tamar",2016,23092
+"West Tamar",2017,23600
+"West Tamar",2018,24091
+"West Tamar",2019,24602
+"West Tamar",2020,25123
+"West Tamar",2021,25717
+"West Tamar",2022,25931
+"West Tamar",2023,26039
+"Clare and Gilbert Valleys",2013,9068
+"Clare and Gilbert Valleys",2014,9138
+"Clare and Gilbert Valleys",2015,9204
+"Clare and Gilbert Valleys",2016,9244
+"Clare and Gilbert Valleys",2017,9261
+"Clare and Gilbert Valleys",2018,9300
+"Clare and Gilbert Valleys",2019,9336
+"Clare and Gilbert Valleys",2020,9379
+"Clare and Gilbert Valleys",2021,9363
+"Clare and Gilbert Valleys",2022,9381
+"Clare and Gilbert Valleys",2023,9405
+"Lithgow",2013,21118
+"Lithgow",2014,21283
+"Lithgow",2015,21400
+"Lithgow",2016,21484
+"Lithgow",2017,21419
+"Lithgow",2018,21344
+"Lithgow",2019,21216
+"Lithgow",2020,21063
+"Lithgow",2021,20855
+"Lithgow",2022,20811
+"Lithgow",2023,20724
+"Strathfield",2013,38918
+"Strathfield",2014,40301
+"Strathfield",2015,41276
+"Strathfield",2016,42415
+"Strathfield",2017,43679
+"Strathfield",2018,44663
+"Strathfield",2019,45895
+"Strathfield",2020,46417
+"Strathfield",2021,45963
+"Strathfield",2022,46250
+"Strathfield",2023,47824
+"Knox",2013,156347
+"Knox",2014,157434
+"Knox",2015,158700
+"Knox",2016,160353
+"Knox",2017,161525
+"Knox",2018,162459
+"Knox",2019,163308
+"Knox",2020,163242
+"Knox",2021,160481
+"Knox",2022,159549
+"Knox",2023,161766
+"Wudinna",2013,1272
+"Wudinna",2014,1276
+"Wudinna",2015,1279
+"Wudinna",2016,1279
+"Wudinna",2017,1261
+"Wudinna",2018,1231
+"Wudinna",2019,1205
+"Wudinna",2020,1185
+"Wudinna",2021,1163
+"Wudinna",2022,1162
+"Wudinna",2023,1161
+"Bourke",2013,2903
+"Bourke",2014,2870
+"Bourke",2015,2801
+"Bourke",2016,2762
+"Bourke",2017,2695
+"Bourke",2018,2600
+"Bourke",2019,2534
+"Bourke",2020,2483
+"Bourke",2021,2416
+"Bourke",2022,2348
+"Bourke",2023,2365
+"Goomalling",2013,1038
+"Goomalling",2014,1044
+"Goomalling",2015,1050
+"Goomalling",2016,1045
+"Goomalling",2017,1033
+"Goomalling",2018,1018
+"Goomalling",2019,1006
+"Goomalling",2020,997
+"Goomalling",2021,983
+"Goomalling",2022,984
+"Goomalling",2023,987
+"Longreach",2013,4104
+"Longreach",2014,4027
+"Longreach",2015,3812
+"Longreach",2016,3727
+"Longreach",2017,3661
+"Longreach",2018,3653
+"Longreach",2019,3654
+"Longreach",2020,3651
+"Longreach",2021,3691
+"Longreach",2022,3721
+"Longreach",2023,3737
+"Brookton",2013,998
+"Brookton",2014,1018
+"Brookton",2015,1010
+"Brookton",2016,1002
+"Brookton",2017,988
+"Brookton",2018,969
+"Brookton",2019,959
+"Brookton",2020,970
+"Brookton",2021,961
+"Brookton",2022,954
+"Brookton",2023,955
+"Cue",2013,272
+"Cue",2014,251
+"Cue",2015,226
+"Cue",2016,199
+"Cue",2017,194
+"Cue",2018,181
+"Cue",2019,194
+"Cue",2020,207
+"Cue",2021,228
+"Cue",2022,230
+"Cue",2023,231
+"Wollongong",2013,204707
+"Wollongong",2014,206415
+"Wollongong",2015,208313
+"Wollongong",2016,210394
+"Wollongong",2017,212188
+"Wollongong",2018,213480
+"Wollongong",2019,214552
+"Wollongong",2020,215063
+"Wollongong",2021,214700
+"Wollongong",2022,216444
+"Wollongong",2023,219141
+"Randwick",2013,142459
+"Randwick",2014,144814
+"Randwick",2015,146908
+"Randwick",2016,148922
+"Randwick",2017,149099
+"Randwick",2018,147552
+"Randwick",2019,145287
+"Randwick",2020,142499
+"Randwick",2021,135219
+"Randwick",2022,135750
+"Randwick",2023,141840
+"Monash",2013,183255
+"Monash",2014,186150
+"Monash",2015,189174
+"Monash",2016,192625
+"Monash",2017,195666
+"Monash",2018,198010
+"Monash",2019,199762
+"Monash",2020,200791
+"Monash",2021,192893
+"Monash",2022,195081
+"Monash",2023,203560
+"Stonnington",2013,103487
+"Stonnington",2014,105894
+"Stonnington",2015,108028
+"Stonnington",2016,111003
+"Stonnington",2017,112134
+"Stonnington",2018,113340
+"Stonnington",2019,113800
+"Stonnington",2020,112610
+"Stonnington",2021,106190
+"Stonnington",2022,106524
+"Stonnington",2023,111335
+"Dowerin",2013,707
+"Dowerin",2014,706
+"Dowerin",2015,706
+"Dowerin",2016,699
+"Dowerin",2017,711
+"Dowerin",2018,708
+"Dowerin",2019,714
+"Dowerin",2020,726
+"Dowerin",2021,733
+"Dowerin",2022,733
+"Dowerin",2023,738
+"Wongan-Ballidu",2013,1474
+"Wongan-Ballidu",2014,1433
+"Wongan-Ballidu",2015,1393
+"Wongan-Ballidu",2016,1354
+"Wongan-Ballidu",2017,1356
+"Wongan-Ballidu",2018,1331
+"Wongan-Ballidu",2019,1327
+"Wongan-Ballidu",2020,1341
+"Wongan-Ballidu",2021,1336
+"Wongan-Ballidu",2022,1340
+"Wongan-Ballidu",2023,1336
+"Mid Murray",2013,8448
+"Mid Murray",2014,8599
+"Mid Murray",2015,8718
+"Mid Murray",2016,8845
+"Mid Murray",2017,8987
+"Mid Murray",2018,9090
+"Mid Murray",2019,9182
+"Mid Murray",2020,9268
+"Mid Murray",2021,9355
+"Mid Murray",2022,9415
+"Mid Murray",2023,9496
+"Kulin",2013,831
+"Kulin",2014,804
+"Kulin",2015,787
+"Kulin",2016,783
+"Kulin",2017,779
+"Kulin",2018,781
+"Kulin",2019,781
+"Kulin",2020,792
+"Kulin",2021,789
+"Kulin",2022,783
+"Kulin",2023,794
+"Blue Mountains",2013,78705
+"Blue Mountains",2014,78867
+"Blue Mountains",2015,78889
+"Blue Mountains",2016,78835
+"Blue Mountains",2017,78989
+"Blue Mountains",2018,79107
+"Blue Mountains",2019,79077
+"Blue Mountains",2020,79031
+"Blue Mountains",2021,78372
+"Blue Mountains",2022,77913
+"Blue Mountains",2023,78446
+"Pyrenees",2013,6938
+"Pyrenees",2014,7047
+"Pyrenees",2015,7179
+"Pyrenees",2016,7316
+"Pyrenees",2017,7325
+"Pyrenees",2018,7327
+"Pyrenees",2019,7449
+"Pyrenees",2020,7544
+"Pyrenees",2021,7619
+"Pyrenees",2022,7653
+"Pyrenees",2023,7786
+"Roxby Downs",2013,4609
+"Roxby Downs",2014,4418
+"Roxby Downs",2015,4327
+"Roxby Downs",2016,4052
+"Roxby Downs",2017,4048
+"Roxby Downs",2018,4100
+"Roxby Downs",2019,4103
+"Roxby Downs",2020,4137
+"Roxby Downs",2021,4109
+"Roxby Downs",2022,4103
+"Roxby Downs",2023,4113
+"Brighton",2013,16046
+"Brighton",2014,16221
+"Brighton",2015,16448
+"Brighton",2016,16669
+"Brighton",2017,17060
+"Brighton",2018,17501
+"Brighton",2019,17995
+"Brighton",2020,18501
+"Brighton",2021,19261
+"Brighton",2022,19688
+"Brighton",2023,19998
+"Berrigan",2013,8436
+"Berrigan",2014,8519
+"Berrigan",2015,8568
+"Berrigan",2016,8609
+"Berrigan",2017,8638
+"Berrigan",2018,8645
+"Berrigan",2019,8649
+"Berrigan",2020,8653
+"Berrigan",2021,8615
+"Berrigan",2022,8652
+"Berrigan",2023,8643
+"Cumberland",2013,212450
+"Cumberland",2014,216864
+"Cumberland",2015,221152
+"Cumberland",2016,225691
+"Cumberland",2017,231490
+"Cumberland",2018,235878
+"Cumberland",2019,240090
+"Cumberland",2020,240841
+"Cumberland",2021,237083
+"Cumberland",2022,237481
+"Cumberland",2023,245323
+"Redland",2013,147328
+"Redland",2014,148833
+"Redland",2015,150107
+"Redland",2016,152216
+"Redland",2017,154656
+"Redland",2018,156885
+"Redland",2019,158937
+"Redland",2020,160418
+"Redland",2021,161709
+"Redland",2022,163729
+"Redland",2023,166809
+"Corangamite",2013,16410
+"Corangamite",2014,16340
+"Corangamite",2015,16274
+"Corangamite",2016,16243
+"Corangamite",2017,16279
+"Corangamite",2018,16231
+"Corangamite",2019,16171
+"Corangamite",2020,16108
+"Corangamite",2021,16030
+"Corangamite",2022,15999
+"Corangamite",2023,15948
+"Joondalup",2013,164414
+"Joondalup",2014,163894
+"Joondalup",2015,162904
+"Joondalup",2016,160918
+"Joondalup",2017,161057
+"Joondalup",2018,161479
+"Joondalup",2019,162308
+"Joondalup",2020,164044
+"Joondalup",2021,165050
+"Joondalup",2022,165649
+"Joondalup",2023,169657
+"Banyule",2013,124314
+"Banyule",2014,125107
+"Banyule",2015,126088
+"Banyule",2016,127447
+"Banyule",2017,128660
+"Banyule",2018,129645
+"Banyule",2019,130607
+"Banyule",2020,130294
+"Banyule",2021,127370
+"Banyule",2022,127427
+"Banyule",2023,129602
+"Cloncurry",2013,3327
+"Cloncurry",2014,3270
+"Cloncurry",2015,3179
+"Cloncurry",2016,3125
+"Cloncurry",2017,3260
+"Cloncurry",2018,3351
+"Cloncurry",2019,3442
+"Cloncurry",2020,3528
+"Cloncurry",2021,3704
+"Cloncurry",2022,3788
+"Cloncurry",2023,3851
+"Burwood",2013,36145
+"Burwood",2014,37200
+"Burwood",2015,37822
+"Burwood",2016,38536
+"Burwood",2017,39275
+"Burwood",2018,39773
+"Burwood",2019,40333
+"Burwood",2020,40670
+"Burwood",2021,40440
+"Burwood",2022,40850
+"Burwood",2023,42498
+"Queenscliffe",2013,3002
+"Queenscliffe",2014,2970
+"Queenscliffe",2015,2933
+"Queenscliffe",2016,2929
+"Queenscliffe",2017,2923
+"Queenscliffe",2018,2954
+"Queenscliffe",2019,2973
+"Queenscliffe",2020,3095
+"Queenscliffe",2021,3236
+"Queenscliffe",2022,3221
+"Queenscliffe",2023,3238
+"Goondiwindi",2013,10952
+"Goondiwindi",2014,10902
+"Goondiwindi",2015,10835
+"Goondiwindi",2016,10813
+"Goondiwindi",2017,10747
+"Goondiwindi",2018,10648
+"Goondiwindi",2019,10603
+"Goondiwindi",2020,10516
+"Goondiwindi",2021,10400
+"Goondiwindi",2022,10408
+"Goondiwindi",2023,10452
+"Mitchell",2013,37788
+"Mitchell",2014,39084
+"Mitchell",2015,40264
+"Mitchell",2016,41795
+"Mitchell",2017,43045
+"Mitchell",2018,44556
+"Mitchell",2019,46373
+"Mitchell",2020,48073
+"Mitchell",2021,49712
+"Mitchell",2022,51682
+"Mitchell",2023,53723
+"Mandurah",2013,79292
+"Mandurah",2014,80927
+"Mandurah",2015,82202
+"Mandurah",2016,83322
+"Mandurah",2017,84912
+"Mandurah",2018,86708
+"Mandurah",2019,88698
+"Mandurah",2020,91112
+"Mandurah",2021,93412
+"Mandurah",2022,95622
+"Mandurah",2023,99272
+"Lockhart River",2013,626
+"Lockhart River",2014,671
+"Lockhart River",2015,697
+"Lockhart River",2016,746
+"Lockhart River",2017,727
+"Lockhart River",2018,708
+"Lockhart River",2019,693
+"Lockhart River",2020,673
+"Lockhart River",2021,653
+"Lockhart River",2022,656
+"Lockhart River",2023,673
+"Donnybrook-Balingup",2013,5803
+"Donnybrook-Balingup",2014,5903
+"Donnybrook-Balingup",2015,5949
+"Donnybrook-Balingup",2016,5956
+"Donnybrook-Balingup",2017,6015
+"Donnybrook-Balingup",2018,6072
+"Donnybrook-Balingup",2019,6131
+"Donnybrook-Balingup",2020,6205
+"Donnybrook-Balingup",2021,6312
+"Donnybrook-Balingup",2022,6401
+"Donnybrook-Balingup",2023,6438
+"Manjimup",2013,9482
+"Manjimup",2014,9448
+"Manjimup",2015,9402
+"Manjimup",2016,9341
+"Manjimup",2017,9302
+"Manjimup",2018,9253
+"Manjimup",2019,9258
+"Manjimup",2020,9317
+"Manjimup",2021,9351
+"Manjimup",2022,9412
+"Manjimup",2023,9438
+"Alpine",2013,12283
+"Alpine",2014,12355
+"Alpine",2015,12429
+"Alpine",2016,12578
+"Alpine",2017,12687
+"Alpine",2018,12822
+"Alpine",2019,12904
+"Alpine",2020,13054
+"Alpine",2021,13166
+"Alpine",2022,13191
+"Alpine",2023,13182
+"Anangu Pitjantjatjara Yankunytjatjara",2013,2622
+"Anangu Pitjantjatjara Yankunytjatjara",2014,2605
+"Anangu Pitjantjatjara Yankunytjatjara",2015,2568
+"Anangu Pitjantjatjara Yankunytjatjara",2016,2498
+"Anangu Pitjantjatjara Yankunytjatjara",2017,2476
+"Anangu Pitjantjatjara Yankunytjatjara",2018,2491
+"Anangu Pitjantjatjara Yankunytjatjara",2019,2506
+"Anangu Pitjantjatjara Yankunytjatjara",2020,2515
+"Anangu Pitjantjatjara Yankunytjatjara",2021,2554
+"Anangu Pitjantjatjara Yankunytjatjara",2022,2598
+"Anangu Pitjantjatjara Yankunytjatjara",2023,2632
+"Exmouth",2013,2655
+"Exmouth",2014,2717
+"Exmouth",2015,2749
+"Exmouth",2016,2788
+"Exmouth",2017,2871
+"Exmouth",2018,2949
+"Exmouth",2019,3036
+"Exmouth",2020,3151
+"Exmouth",2021,3202
+"Exmouth",2022,3315
+"Exmouth",2023,3466
+"Alexandrina",2013,25203
+"Alexandrina",2014,25705
+"Alexandrina",2015,26203
+"Alexandrina",2016,26562
+"Alexandrina",2017,26919
+"Alexandrina",2018,27322
+"Alexandrina",2019,27820
+"Alexandrina",2020,28400
+"Alexandrina",2021,29257
+"Alexandrina",2022,29746
+"Alexandrina",2023,30323
+"Boroondara",2013,170485
+"Boroondara",2014,172660
+"Boroondara",2015,174753
+"Boroondara",2016,177276
+"Boroondara",2017,178650
+"Boroondara",2018,179386
+"Boroondara",2019,179663
+"Boroondara",2020,177875
+"Boroondara",2021,169789
+"Boroondara",2022,169632
+"Boroondara",2023,174537
+"Chittering",2013,5112
+"Chittering",2014,5361
+"Chittering",2015,5500
+"Chittering",2016,5536
+"Chittering",2017,5602
+"Chittering",2018,5705
+"Chittering",2019,5846
+"Chittering",2020,5952
+"Chittering",2021,6099
+"Chittering",2022,6298
+"Chittering",2023,6516
+"York",2013,3619
+"York",2014,3609
+"York",2015,3599
+"York",2016,3605
+"York",2017,3591
+"York",2018,3573
+"York",2019,3551
+"York",2020,3567
+"York",2021,3553
+"York",2022,3567
+"York",2023,3602
+"Mid-Coast",2013,89940
+"Mid-Coast",2014,90468
+"Mid-Coast",2015,91038
+"Mid-Coast",2016,91801
+"Mid-Coast",2017,92901
+"Mid-Coast",2018,93900
+"Mid-Coast",2019,94826
+"Mid-Coast",2020,95731
+"Mid-Coast",2021,96475
+"Mid-Coast",2022,97227
+"Mid-Coast",2023,97909
+"Broken Hill",2013,18802
+"Broken Hill",2014,18627
+"Broken Hill",2015,18360
+"Broken Hill",2016,18114
+"Broken Hill",2017,17994
+"Broken Hill",2018,17914
+"Broken Hill",2019,17801
+"Broken Hill",2020,17718
+"Broken Hill",2021,17662
+"Broken Hill",2022,17567
+"Broken Hill",2023,17624
+"Unincorporated Vic",2013,808
+"Unincorporated Vic",2014,835
+"Unincorporated Vic",2015,862
+"Unincorporated Vic",2016,892
+"Unincorporated Vic",2017,901
+"Unincorporated Vic",2018,911
+"Unincorporated Vic",2019,918
+"Unincorporated Vic",2020,934
+"Unincorporated Vic",2021,946
+"Unincorporated Vic",2022,961
+"Unincorporated Vic",2023,953
+"Logan",2013,300545
+"Logan",2014,305147
+"Logan",2015,309342
+"Logan",2016,314511
+"Logan",2017,321102
+"Logan",2018,327769
+"Logan",2019,335955
+"Logan",2020,343821
+"Logan",2021,350673
+"Logan",2022,363059
+"Logan",2023,377773
+"Toowoomba",2013,159916
+"Toowoomba",2014,161523
+"Toowoomba",2015,162775
+"Toowoomba",2016,164168
+"Toowoomba",2017,166901
+"Toowoomba",2018,169319
+"Toowoomba",2019,171566
+"Toowoomba",2020,173562
+"Toowoomba",2021,175255
+"Toowoomba",2022,178387
+"Toowoomba",2023,181821
+"Coober Pedy",2013,1811
+"Coober Pedy",2014,1825
+"Coober Pedy",2015,1822
+"Coober Pedy",2016,1818
+"Coober Pedy",2017,1806
+"Coober Pedy",2018,1777
+"Coober Pedy",2019,1740
+"Coober Pedy",2020,1689
+"Coober Pedy",2021,1622
+"Coober Pedy",2022,1573
+"Coober Pedy",2023,1550
+"Brewarrina",2013,1830
+"Brewarrina",2014,1786
+"Brewarrina",2015,1762
+"Brewarrina",2016,1710
+"Brewarrina",2017,1683
+"Brewarrina",2018,1637
+"Brewarrina",2019,1591
+"Brewarrina",2020,1525
+"Brewarrina",2021,1487
+"Brewarrina",2022,1431
+"Brewarrina",2023,1411
+"Blayney",2013,7303
+"Blayney",2014,7322
+"Blayney",2015,7322
+"Blayney",2016,7343
+"Blayney",2017,7375
+"Blayney",2018,7406
+"Blayney",2019,7450
+"Blayney",2020,7484
+"Blayney",2021,7511
+"Blayney",2022,7590
+"Blayney",2023,7644
+"Kangaroo Island",2013,4630
+"Kangaroo Island",2014,4694
+"Kangaroo Island",2015,4761
+"Kangaroo Island",2016,4836
+"Kangaroo Island",2017,4849
+"Kangaroo Island",2018,4886
+"Kangaroo Island",2019,4909
+"Kangaroo Island",2020,4925
+"Kangaroo Island",2021,4999
+"Kangaroo Island",2022,5088
+"Kangaroo Island",2023,5125
+"Moree Plains",2013,13925
+"Moree Plains",2014,13853
+"Moree Plains",2015,13735
+"Moree Plains",2016,13627
+"Moree Plains",2017,13497
+"Moree Plains",2018,13355
+"Moree Plains",2019,13215
+"Moree Plains",2020,13047
+"Moree Plains",2021,12964
+"Moree Plains",2022,12868
+"Moree Plains",2023,12873
+"Hepburn",2013,15022
+"Hepburn",2014,15184
+"Hepburn",2015,15334
+"Hepburn",2016,15525
+"Hepburn",2017,15708
+"Hepburn",2018,15902
+"Hepburn",2019,16105
+"Hepburn",2020,16339
+"Hepburn",2021,16485
+"Hepburn",2022,16573
+"Hepburn",2023,16670
+"Chapman Valley",2013,1349
+"Chapman Valley",2014,1379
+"Chapman Valley",2015,1413
+"Chapman Valley",2016,1441
+"Chapman Valley",2017,1462
+"Chapman Valley",2018,1485
+"Chapman Valley",2019,1523
+"Chapman Valley",2020,1568
+"Chapman Valley",2021,1613
+"Chapman Valley",2022,1636
+"Chapman Valley",2023,1663
+"Meekatharra",2013,1426
+"Meekatharra",2014,1335
+"Meekatharra",2015,1224
+"Meekatharra",2016,1110
+"Meekatharra",2017,1118
+"Meekatharra",2018,1128
+"Meekatharra",2019,1167
+"Meekatharra",2020,1213
+"Meekatharra",2021,1287
+"Meekatharra",2022,1295
+"Meekatharra",2023,1294
+"Glamorgan-Spring Bay",2013,4425
+"Glamorgan-Spring Bay",2014,4430
+"Glamorgan-Spring Bay",2015,4433
+"Glamorgan-Spring Bay",2016,4451
+"Glamorgan-Spring Bay",2017,4538
+"Glamorgan-Spring Bay",2018,4653
+"Glamorgan-Spring Bay",2019,4791
+"Glamorgan-Spring Bay",2020,4972
+"Glamorgan-Spring Bay",2021,5113
+"Glamorgan-Spring Bay",2022,5188
+"Glamorgan-Spring Bay",2023,5237
+"Gympie",2013,48491
+"Gympie",2014,49089
+"Gympie",2015,49540
+"Gympie",2016,50327
+"Gympie",2017,51110
+"Gympie",2018,51665
+"Gympie",2019,52489
+"Gympie",2020,53021
+"Gympie",2021,53851
+"Gympie",2022,55108
+"Gympie",2023,56166
+"Mildura",2013,53156
+"Mildura",2014,53737
+"Mildura",2015,54156
+"Mildura",2016,54658
+"Mildura",2017,55433
+"Mildura",2018,56154
+"Mildura",2019,56764
+"Mildura",2020,57335
+"Mildura",2021,56966
+"Mildura",2022,57250
+"Mildura",2023,57554
+"Lake Grace",2013,1374
+"Lake Grace",2014,1329
+"Lake Grace",2015,1306
+"Lake Grace",2016,1300
+"Lake Grace",2017,1296
+"Lake Grace",2018,1290
+"Lake Grace",2019,1289
+"Lake Grace",2020,1305
+"Lake Grace",2021,1299
+"Lake Grace",2022,1290
+"Lake Grace",2023,1301
+"Hobart",2013,50839
+"Hobart",2014,51232
+"Hobart",2015,51591
+"Hobart",2016,52018
+"Hobart",2017,53231
+"Hobart",2018,54286
+"Hobart",2019,55482
+"Hobart",2020,56208
+"Hobart",2021,55947
+"Hobart",2022,56018
+"Hobart",2023,55964
+"Port Macquarie-Hastings",2013,77043
+"Port Macquarie-Hastings",2014,78048
+"Port Macquarie-Hastings",2015,78997
+"Port Macquarie-Hastings",2016,80073
+"Port Macquarie-Hastings",2017,81386
+"Port Macquarie-Hastings",2018,82780
+"Port Macquarie-Hastings",2019,84167
+"Port Macquarie-Hastings",2020,85499
+"Port Macquarie-Hastings",2021,86638
+"Port Macquarie-Hastings",2022,88305
+"Port Macquarie-Hastings",2023,89596
+"Queanbeyan-Palerang Regional",2013,55920
+"Queanbeyan-Palerang Regional",2014,56537
+"Queanbeyan-Palerang Regional",2015,57130
+"Queanbeyan-Palerang Regional",2016,57790
+"Queanbeyan-Palerang Regional",2017,59000
+"Queanbeyan-Palerang Regional",2018,60212
+"Queanbeyan-Palerang Regional",2019,61423
+"Queanbeyan-Palerang Regional",2020,62506
+"Queanbeyan-Palerang Regional",2021,63404
+"Queanbeyan-Palerang Regional",2022,64236
+"Queanbeyan-Palerang Regional",2023,65369
+"Laverton",2013,1428
+"Laverton",2014,1367
+"Laverton",2015,1299
+"Laverton",2016,1222
+"Laverton",2017,1262
+"Laverton",2018,1302
+"Laverton",2019,1331
+"Laverton",2020,1377
+"Laverton",2021,1432
+"Laverton",2022,1434
+"Laverton",2023,1439
+"Burnie",2013,19755
+"Burnie",2014,19565
+"Burnie",2015,19408
+"Burnie",2016,19228
+"Burnie",2017,19354
+"Burnie",2018,19601
+"Burnie",2019,19899
+"Burnie",2020,20171
+"Burnie",2021,20408
+"Burnie",2022,20470
+"Burnie",2023,20463
+"Kwinana",2013,34707
+"Kwinana",2014,36444
+"Kwinana",2015,38153
+"Kwinana",2016,40058
+"Kwinana",2017,41672
+"Kwinana",2018,43172
+"Kwinana",2019,44700
+"Kwinana",2020,46243
+"Kwinana",2021,47660
+"Kwinana",2022,49542
+"Kwinana",2023,52103
+"Ararat",2013,11490
+"Ararat",2014,11560
+"Ararat",2015,11644
+"Ararat",2016,11745
+"Ararat",2017,11796
+"Ararat",2018,11805
+"Ararat",2019,11838
+"Ararat",2020,11918
+"Ararat",2021,11827
+"Ararat",2022,11758
+"Ararat",2023,11683
+"Brimbank",2013,196169
+"Brimbank",2014,198468
+"Brimbank",2015,200860
+"Brimbank",2016,204190
+"Brimbank",2017,206116
+"Brimbank",2018,206977
+"Brimbank",2019,206771
+"Brimbank",2020,204213
+"Brimbank",2021,196631
+"Brimbank",2022,193392
+"Brimbank",2023,196046
+"Charters Towers",2013,12391
+"Charters Towers",2014,12367
+"Charters Towers",2015,12235
+"Charters Towers",2016,12087
+"Charters Towers",2017,12021
+"Charters Towers",2018,11954
+"Charters Towers",2019,11890
+"Charters Towers",2020,11923
+"Charters Towers",2021,11920
+"Charters Towers",2022,11979
+"Charters Towers",2023,12013
+"Cleve",2013,1806
+"Cleve",2014,1809
+"Cleve",2015,1803
+"Cleve",2016,1816
+"Cleve",2017,1817
+"Cleve",2018,1805
+"Cleve",2019,1794
+"Cleve",2020,1777
+"Cleve",2021,1775
+"Cleve",2022,1764
+"Cleve",2023,1757
+"Wangaratta",2013,27650
+"Wangaratta",2014,27862
+"Wangaratta",2015,28143
+"Wangaratta",2016,28592
+"Wangaratta",2017,28951
+"Wangaratta",2018,29269
+"Wangaratta",2019,29439
+"Wangaratta",2020,29517
+"Wangaratta",2021,29751
+"Wangaratta",2022,29915
+"Wangaratta",2023,30002
+"West Coast",2013,4573
+"West Coast",2014,4392
+"West Coast",2015,4299
+"West Coast",2016,4210
+"West Coast",2017,4206
+"West Coast",2018,4255
+"West Coast",2019,4292
+"West Coast",2020,4311
+"West Coast",2021,4366
+"West Coast",2022,4351
+"West Coast",2023,4359
+"Wingecarribee",2013,46964
+"Wingecarribee",2014,47470
+"Wingecarribee",2015,48150
+"Wingecarribee",2016,48998
+"Wingecarribee",2017,49790
+"Wingecarribee",2018,50562
+"Wingecarribee",2019,51302
+"Wingecarribee",2020,52018
+"Wingecarribee",2021,52489
+"Wingecarribee",2022,52795
+"Wingecarribee",2023,53109
+"Warrnambool",2013,33423
+"Warrnambool",2014,33729
+"Warrnambool",2015,34005
+"Warrnambool",2016,34242
+"Warrnambool",2017,34520
+"Warrnambool",2018,34823
+"Warrnambool",2019,35104
+"Warrnambool",2020,35418
+"Warrnambool",2021,35433
+"Warrnambool",2022,35576
+"Warrnambool",2023,35907
+"Cobar",2013,4740
+"Cobar",2014,4727
+"Cobar",2015,4703
+"Cobar",2016,4687
+"Cobar",2017,4605
+"Cobar",2018,4528
+"Cobar",2019,4401
+"Cobar",2020,4213
+"Cobar",2021,4098
+"Cobar",2022,4046
+"Cobar",2023,4078
+"Southern Mallee",2013,2088
+"Southern Mallee",2014,2073
+"Southern Mallee",2015,2058
+"Southern Mallee",2016,2063
+"Southern Mallee",2017,2055
+"Southern Mallee",2018,2051
+"Southern Mallee",2019,2047
+"Southern Mallee",2020,2040
+"Southern Mallee",2021,2026
+"Southern Mallee",2022,2010
+"Southern Mallee",2023,2012
+"Victoria Plains",2013,932
+"Victoria Plains",2014,934
+"Victoria Plains",2015,931
+"Victoria Plains",2016,924
+"Victoria Plains",2017,914
+"Victoria Plains",2018,894
+"Victoria Plains",2019,864
+"Victoria Plains",2020,847
+"Victoria Plains",2021,832
+"Victoria Plains",2022,824
+"Victoria Plains",2023,824
+"Mount Alexander",2013,18247
+"Mount Alexander",2014,18501
+"Mount Alexander",2015,18794
+"Mount Alexander",2016,19097
+"Mount Alexander",2017,19297
+"Mount Alexander",2018,19500
+"Mount Alexander",2019,19696
+"Mount Alexander",2020,19939
+"Mount Alexander",2021,20114
+"Mount Alexander",2022,20324
+"Mount Alexander",2023,20576
+"Yarriambiack",2013,7032
+"Yarriambiack",2014,6924
+"Yarriambiack",2015,6826
+"Yarriambiack",2016,6743
+"Yarriambiack",2017,6708
+"Yarriambiack",2018,6698
+"Yarriambiack",2019,6675
+"Yarriambiack",2020,6641
+"Yarriambiack",2021,6510
+"Yarriambiack",2022,6437
+"Yarriambiack",2023,6389
+"Greater Geraldton",2013,39838
+"Greater Geraldton",2014,40114
+"Greater Geraldton",2015,39958
+"Greater Geraldton",2016,39567
+"Greater Geraldton",2017,39692
+"Greater Geraldton",2018,39976
+"Greater Geraldton",2019,40173
+"Greater Geraldton",2020,40641
+"Greater Geraldton",2021,41182
+"Greater Geraldton",2022,41515
+"Greater Geraldton",2023,41914
+"Junee",2013,6213
+"Junee",2014,6283
+"Junee",2015,6336
+"Junee",2016,6414
+"Junee",2017,6441
+"Junee",2018,6446
+"Junee",2019,6452
+"Junee",2020,6463
+"Junee",2021,6454
+"Junee",2022,6465
+"Junee",2023,6520
+"Lockyer Valley",2013,37682
+"Lockyer Valley",2014,38363
+"Lockyer Valley",2015,38861
+"Lockyer Valley",2016,39499
+"Lockyer Valley",2017,40003
+"Lockyer Valley",2018,40539
+"Lockyer Valley",2019,41020
+"Lockyer Valley",2020,41366
+"Lockyer Valley",2021,41750
+"Lockyer Valley",2022,42628
+"Lockyer Valley",2023,43847
+"North Burnett",2013,10487
+"North Burnett",2014,10547
+"North Burnett",2015,10607
+"North Burnett",2016,10646
+"North Burnett",2017,10556
+"North Burnett",2018,10406
+"North Burnett",2019,10268
+"North Burnett",2020,10206
+"North Burnett",2021,10142
+"North Burnett",2022,10216
+"North Burnett",2023,10352
+"Bridgetown-Greenbushes",2013,4647
+"Bridgetown-Greenbushes",2014,4687
+"Bridgetown-Greenbushes",2015,4727
+"Bridgetown-Greenbushes",2016,4697
+"Bridgetown-Greenbushes",2017,4815
+"Bridgetown-Greenbushes",2018,4938
+"Bridgetown-Greenbushes",2019,5063
+"Bridgetown-Greenbushes",2020,5188
+"Bridgetown-Greenbushes",2021,5376
+"Bridgetown-Greenbushes",2022,5527
+"Bridgetown-Greenbushes",2023,5669
+"Unincorporated SA",2013,4199
+"Unincorporated SA",2014,4027
+"Unincorporated SA",2015,3849
+"Unincorporated SA",2016,3639
+"Unincorporated SA",2017,3476
+"Unincorporated SA",2018,3418
+"Unincorporated SA",2019,3340
+"Unincorporated SA",2020,3229
+"Unincorporated SA",2021,3100
+"Unincorporated SA",2022,3024
+"Unincorporated SA",2023,3015
+"Leeton",2013,11413
+"Leeton",2014,11408
+"Leeton",2015,11411
+"Leeton",2016,11407
+"Leeton",2017,11438
+"Leeton",2018,11459
+"Leeton",2019,11489
+"Leeton",2020,11500
+"Leeton",2021,11480
+"Leeton",2022,11454
+"Leeton",2023,11431
+"Maribyrnong",2013,79782
+"Maribyrnong",2014,82463
+"Maribyrnong",2015,84783
+"Maribyrnong",2016,86942
+"Maribyrnong",2017,88120
+"Maribyrnong",2018,88871
+"Maribyrnong",2019,89460
+"Maribyrnong",2020,89418
+"Maribyrnong",2021,86385
+"Maribyrnong",2022,87605
+"Maribyrnong",2023,91762
+"Murray",2013,16087
+"Murray",2014,16542
+"Murray",2015,16909
+"Murray",2016,17126
+"Murray",2017,17371
+"Murray",2018,17648
+"Murray",2019,17950
+"Murray",2020,18274
+"Murray",2021,18639
+"Murray",2022,19116
+"Murray",2023,19823
+"Glenorchy",2013,45745
+"Glenorchy",2014,46044
+"Glenorchy",2015,46307
+"Glenorchy",2016,46722
+"Glenorchy",2017,47921
+"Glenorchy",2018,49082
+"Glenorchy",2019,50068
+"Glenorchy",2020,50652
+"Glenorchy",2021,51159
+"Glenorchy",2022,51012
+"Glenorchy",2023,50808
+"Mid-Western Regional",2013,23742
+"Mid-Western Regional",2014,24059
+"Mid-Western Regional",2015,24374
+"Mid-Western Regional",2016,24546
+"Mid-Western Regional",2017,24889
+"Mid-Western Regional",2018,25181
+"Mid-Western Regional",2019,25416
+"Mid-Western Regional",2020,25589
+"Mid-Western Regional",2021,25714
+"Mid-Western Regional",2022,25795
+"Mid-Western Regional",2023,25921
+"Woodanilling",2013,430
+"Woodanilling",2014,429
+"Woodanilling",2015,423
+"Woodanilling",2016,415
+"Woodanilling",2017,433
+"Woodanilling",2018,443
+"Woodanilling",2019,453
+"Woodanilling",2020,461
+"Woodanilling",2021,469
+"Woodanilling",2022,470
+"Woodanilling",2023,479
+"Salisbury",2013,135880
+"Salisbury",2014,137257
+"Salisbury",2015,138695
+"Salisbury",2016,140346
+"Salisbury",2017,142061
+"Salisbury",2018,143765
+"Salisbury",2019,145467
+"Salisbury",2020,147359
+"Salisbury",2021,147521
+"Salisbury",2022,147940
+"Salisbury",2023,149214
+"Upper Gascoyne",2013,270
+"Upper Gascoyne",2014,275
+"Upper Gascoyne",2015,278
+"Upper Gascoyne",2016,282
+"Upper Gascoyne",2017,255
+"Upper Gascoyne",2018,234
+"Upper Gascoyne",2019,219
+"Upper Gascoyne",2020,201
+"Upper Gascoyne",2021,180
+"Upper Gascoyne",2022,188
+"Upper Gascoyne",2023,201
+"Bland",2013,6028
+"Bland",2014,6034
+"Bland",2015,6027
+"Bland",2016,6024
+"Bland",2017,5936
+"Bland",2018,5849
+"Bland",2019,5755
+"Bland",2020,5649
+"Bland",2021,5544
+"Bland",2022,5493
+"Bland",2023,5464
+"Cuballing",2013,901
+"Cuballing",2014,902
+"Cuballing",2015,900
+"Cuballing",2016,882
+"Cuballing",2017,893
+"Cuballing",2018,888
+"Cuballing",2019,890
+"Cuballing",2020,906
+"Cuballing",2021,927
+"Cuballing",2022,929
+"Cuballing",2023,951
+"Cherbourg",2013,1292
+"Cherbourg",2014,1300
+"Cherbourg",2015,1304
+"Cherbourg",2016,1293
+"Cherbourg",2017,1283
+"Cherbourg",2018,1257
+"Cherbourg",2019,1244
+"Cherbourg",2020,1220
+"Cherbourg",2021,1211
+"Cherbourg",2022,1228
+"Cherbourg",2023,1264
+"Murchison",2013,146
+"Murchison",2014,150
+"Murchison",2015,155
+"Murchison",2016,158
+"Murchison",2017,152
+"Murchison",2018,140
+"Murchison",2019,129
+"Murchison",2020,117
+"Murchison",2021,108
+"Murchison",2022,108
+"Murchison",2023,106
+"Central Coast (Tas.)",2013,22122
+"Central Coast (Tas.)",2014,21989
+"Central Coast (Tas.)",2015,21847
+"Central Coast (Tas.)",2016,21736
+"Central Coast (Tas.)",2017,22002
+"Central Coast (Tas.)",2018,22284
+"Central Coast (Tas.)",2019,22532
+"Central Coast (Tas.)",2020,22894
+"Central Coast (Tas.)",2021,23258
+"Central Coast (Tas.)",2022,23342
+"Central Coast (Tas.)",2023,23331
+"Port Stephens",2013,68750
+"Port Stephens",2014,69537
+"Port Stephens",2015,70257
+"Port Stephens",2016,71115
+"Port Stephens",2017,71829
+"Port Stephens",2018,72609
+"Port Stephens",2019,73509
+"Port Stephens",2020,74450
+"Port Stephens",2021,75328
+"Port Stephens",2022,76669
+"Port Stephens",2023,77748
+"Dungog",2013,8791
+"Dungog",2014,8918
+"Dungog",2015,9008
+"Dungog",2016,9101
+"Dungog",2017,9154
+"Dungog",2018,9259
+"Dungog",2019,9329
+"Dungog",2020,9450
+"Dungog",2021,9532
+"Dungog",2022,9721
+"Dungog",2023,9767
