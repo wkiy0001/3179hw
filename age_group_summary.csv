@@ -1,0 +1,3169 @@
+"Year","REGION..Region","AGE..Age","SEX..Sex","Total"
+2013,"Australian Capital Territory","0-4","Female",50880
+2013,"Australian Capital Territory","0-4","Male",54501
+2013,"Australian Capital Territory","10-14","Female",41837
+2013,"Australian Capital Territory","10-14","Male",43086
+2013,"Australian Capital Territory","15-19","Female",47898
+2013,"Australian Capital Territory","15-19","Male",50259
+2013,"Australian Capital Territory","20-24","Female",65352
+2013,"Australian Capital Territory","20-24","Male",67268
+2013,"Australian Capital Territory","25-29","Female",68366
+2013,"Australian Capital Territory","25-29","Male",68963
+2013,"Australian Capital Territory","30-34","Female",64147
+2013,"Australian Capital Territory","30-34","Male",63591
+2013,"Australian Capital Territory","35-39","Female",55679
+2013,"Australian Capital Territory","35-39","Male",56961
+2013,"Australian Capital Territory","40-44","Female",56676
+2013,"Australian Capital Territory","40-44","Male",55719
+2013,"Australian Capital Territory","45-49","Female",50632
+2013,"Australian Capital Territory","45-49","Male",48807
+2013,"Australian Capital Territory","5-9","Female",44918
+2013,"Australian Capital Territory","5-9","Male",48157
+2013,"Australian Capital Territory","50-54","Female",49908
+2013,"Australian Capital Territory","50-54","Male",48068
+2013,"Australian Capital Territory","55-59","Female",43827
+2013,"Australian Capital Territory","55-59","Male",41409
+2013,"Australian Capital Territory","60-64","Female",38713
+2013,"Australian Capital Territory","60-64","Male",36234
+2013,"Australian Capital Territory","65-69","Female",31653
+2013,"Australian Capital Territory","65-69","Male",29853
+2013,"Australian Capital Territory","70-74","Female",21297
+2013,"Australian Capital Territory","70-74","Male",19587
+2013,"Australian Capital Territory","80-84","Female",11920
+2013,"Australian Capital Territory","80-84","Male",9142
+2013,"Australian Capital Territory","85 and over","Female",13755
+2013,"Australian Capital Territory","85 and over","Male",7611
+2013,"Australian Capital Territory","A75: 75-79","Female",15985
+2013,"Australian Capital Territory","A75: 75-79","Male",13688
+2013,"New South Wales","0-4","Female",950630
+2013,"New South Wales","0-4","Male",1004996
+2013,"New South Wales","10-14","Female",865821
+2013,"New South Wales","10-14","Male",915922
+2013,"New South Wales","15-19","Female",901337
+2013,"New South Wales","15-19","Male",950168
+2013,"New South Wales","20-24","Female",998827
+2013,"New South Wales","20-24","Male",1040241
+2013,"New South Wales","25-29","Female",1071470
+2013,"New South Wales","25-29","Male",1075211
+2013,"New South Wales","30-34","Female",1057870
+2013,"New South Wales","30-34","Male",1053891
+2013,"New South Wales","35-39","Female",998939
+2013,"New South Wales","35-39","Male",989410
+2013,"New South Wales","40-44","Female",1061551
+2013,"New South Wales","40-44","Male",1028593
+2013,"New South Wales","45-49","Female",978706
+2013,"New South Wales","45-49","Male",952998
+2013,"New South Wales","5-9","Female",906326
+2013,"New South Wales","5-9","Male",961308
+2013,"New South Wales","50-54","Female",1008605
+2013,"New South Wales","50-54","Male",986169
+2013,"New South Wales","55-59","Female",916174
+2013,"New South Wales","55-59","Male",890345
+2013,"New South Wales","60-64","Female",814982
+2013,"New South Wales","60-64","Male",796969
+2013,"New South Wales","65-69","Female",715908
+2013,"New South Wales","65-69","Male",709314
+2013,"New South Wales","70-74","Female",534141
+2013,"New South Wales","70-74","Male",510243
+2013,"New South Wales","80-84","Female",345677
+2013,"New South Wales","80-84","Male",267141
+2013,"New South Wales","85 and over","Female",395455
+2013,"New South Wales","85 and over","Male",215871
+2013,"New South Wales","A75: 75-79","Female",426079
+2013,"New South Wales","A75: 75-79","Male",375543
+2013,"Northern Territory","0-4","Female",37342
+2013,"Northern Territory","0-4","Male",39472
+2013,"Northern Territory","10-14","Female",32190
+2013,"Northern Territory","10-14","Male",34100
+2013,"Northern Territory","15-19","Female",29504
+2013,"Northern Territory","15-19","Male",33665
+2013,"Northern Territory","20-24","Female",37103
+2013,"Northern Territory","20-24","Male",43143
+2013,"Northern Territory","25-29","Female",45356
+2013,"Northern Territory","25-29","Male",50324
+2013,"Northern Territory","30-34","Female",41260
+2013,"Northern Territory","30-34","Male",45031
+2013,"Northern Territory","35-39","Female",35770
+2013,"Northern Territory","35-39","Male",38382
+2013,"Northern Territory","40-44","Female",35229
+2013,"Northern Territory","40-44","Male",38133
+2013,"Northern Territory","45-49","Female",31266
+2013,"Northern Territory","45-49","Male",33695
+2013,"Northern Territory","5-9","Female",34191
+2013,"Northern Territory","5-9","Male",36388
+2013,"Northern Territory","50-54","Female",29851
+2013,"Northern Territory","50-54","Male",32460
+2013,"Northern Territory","55-59","Female",25167
+2013,"Northern Territory","55-59","Male",27423
+2013,"Northern Territory","60-64","Female",18565
+2013,"Northern Territory","60-64","Male",22223
+2013,"Northern Territory","65-69","Female",11939
+2013,"Northern Territory","65-69","Male",15264
+2013,"Northern Territory","70-74","Female",7043
+2013,"Northern Territory","70-74","Male",8783
+2013,"Northern Territory","80-84","Female",2458
+2013,"Northern Territory","80-84","Male",2320
+2013,"Northern Territory","85 and over","Female",1833
+2013,"Northern Territory","85 and over","Male",1235
+2013,"Northern Territory","A75: 75-79","Female",3978
+2013,"Northern Territory","A75: 75-79","Male",4348
+2013,"Queensland","0-4","Female",617545
+2013,"Queensland","0-4","Male",650430
+2013,"Queensland","10-14","Female",579136
+2013,"Queensland","10-14","Male",610850
+2013,"Queensland","15-19","Female",602473
+2013,"Queensland","15-19","Male",628787
+2013,"Queensland","20-24","Female",659975
+2013,"Queensland","20-24","Male",675095
+2013,"Queensland","25-29","Female",674881
+2013,"Queensland","25-29","Male",682879
+2013,"Queensland","30-34","Female",644898
+2013,"Queensland","30-34","Male",647088
+2013,"Queensland","35-39","Female",626093
+2013,"Queensland","35-39","Male",616494
+2013,"Queensland","40-44","Female",684587
+2013,"Queensland","40-44","Male",667048
+2013,"Queensland","45-49","Female",627512
+2013,"Queensland","45-49","Male",610947
+2013,"Queensland","5-9","Female",604107
+2013,"Queensland","5-9","Male",640206
+2013,"Queensland","50-54","Female",630680
+2013,"Queensland","50-54","Male",614348
+2013,"Queensland","55-59","Female",558035
+2013,"Queensland","55-59","Male",544454
+2013,"Queensland","60-64","Female",500139
+2013,"Queensland","60-64","Male",498823
+2013,"Queensland","65-69","Female",433024
+2013,"Queensland","65-69","Male",437977
+2013,"Queensland","70-74","Female",309838
+2013,"Queensland","70-74","Male",306487
+2013,"Queensland","80-84","Female",176936
+2013,"Queensland","80-84","Male",140085
+2013,"Queensland","85 and over","Female",195406
+2013,"Queensland","85 and over","Male",109926
+2013,"Queensland","A75: 75-79","Female",226857
+2013,"Queensland","A75: 75-79","Male",209431
+2013,"South Australia","0-4","Female",196740
+2013,"South Australia","0-4","Male",207813
+2013,"South Australia","10-14","Female",190090
+2013,"South Australia","10-14","Male",199230
+2013,"South Australia","15-19","Female",204297
+2013,"South Australia","15-19","Male",215450
+2013,"South Australia","20-24","Female",224226
+2013,"South Australia","20-24","Male",237130
+2013,"South Australia","25-29","Female",226011
+2013,"South Australia","25-29","Male",232515
+2013,"South Australia","30-34","Female",214787
+2013,"South Australia","30-34","Male",217521
+2013,"South Australia","35-39","Female",204863
+2013,"South Australia","35-39","Male",207674
+2013,"South Australia","40-44","Female",232198
+2013,"South Australia","40-44","Male",230382
+2013,"South Australia","45-49","Female",226821
+2013,"South Australia","45-49","Male",224148
+2013,"South Australia","5-9","Female",192719
+2013,"South Australia","5-9","Male",201445
+2013,"South Australia","50-54","Female",235063
+2013,"South Australia","50-54","Male",229459
+2013,"South Australia","55-59","Female",217750
+2013,"South Australia","55-59","Male",209981
+2013,"South Australia","60-64","Female",201558
+2013,"South Australia","60-64","Male",193247
+2013,"South Australia","65-69","Female",178390
+2013,"South Australia","65-69","Male",169917
+2013,"South Australia","70-74","Female",131929
+2013,"South Australia","70-74","Male",121940
+2013,"South Australia","80-84","Female",88346
+2013,"South Australia","80-84","Male",67545
+2013,"South Australia","85 and over","Female",106254
+2013,"South Australia","85 and over","Male",57525
+2013,"South Australia","A75: 75-79","Female",105962
+2013,"South Australia","A75: 75-79","Male",91983
+2013,"Tasmania","0-4","Female",60422
+2013,"Tasmania","0-4","Male",64726
+2013,"Tasmania","10-14","Female",61206
+2013,"Tasmania","10-14","Male",65141
+2013,"Tasmania","15-19","Female",63375
+2013,"Tasmania","15-19","Male",68777
+2013,"Tasmania","20-24","Female",60581
+2013,"Tasmania","20-24","Male",65212
+2013,"Tasmania","25-29","Female",60860
+2013,"Tasmania","25-29","Male",60773
+2013,"Tasmania","30-34","Female",59597
+2013,"Tasmania","30-34","Male",58037
+2013,"Tasmania","35-39","Female",59505
+2013,"Tasmania","35-39","Male",58013
+2013,"Tasmania","40-44","Female",70978
+2013,"Tasmania","40-44","Male",67874
+2013,"Tasmania","45-49","Female",69657
+2013,"Tasmania","45-49","Male",66495
+2013,"Tasmania","5-9","Female",60929
+2013,"Tasmania","5-9","Male",65569
+2013,"Tasmania","50-54","Female",76681
+2013,"Tasmania","50-54","Male",74162
+2013,"Tasmania","55-59","Female",72275
+2013,"Tasmania","55-59","Male",70591
+2013,"Tasmania","60-64","Female",66994
+2013,"Tasmania","60-64","Male",66720
+2013,"Tasmania","65-69","Female",58778
+2013,"Tasmania","65-69","Male",59189
+2013,"Tasmania","70-74","Female",42675
+2013,"Tasmania","70-74","Male",42568
+2013,"Tasmania","80-84","Female",25754
+2013,"Tasmania","80-84","Male",20311
+2013,"Tasmania","85 and over","Female",27625
+2013,"Tasmania","85 and over","Male",15432
+2013,"Tasmania","A75: 75-79","Female",32916
+2013,"Tasmania","A75: 75-79","Male",29598
+2013,"Victoria","0-4","Female",727772
+2013,"Victoria","0-4","Male",768752
+2013,"Victoria","10-14","Female",654844
+2013,"Victoria","10-14","Male",686597
+2013,"Victoria","15-19","Female",706111
+2013,"Victoria","15-19","Male",742357
+2013,"Victoria","20-24","Female",829257
+2013,"Victoria","20-24","Male",857307
+2013,"Victoria","25-29","Female",893304
+2013,"Victoria","25-29","Male",901596
+2013,"Victoria","30-34","Female",854061
+2013,"Victoria","30-34","Male",853606
+2013,"Victoria","35-39","Female",793165
+2013,"Victoria","35-39","Male",787264
+2013,"Victoria","40-44","Female",852933
+2013,"Victoria","40-44","Male",819664
+2013,"Victoria","45-49","Female",781781
+2013,"Victoria","45-49","Male",753504
+2013,"Victoria","5-9","Female",688303
+2013,"Victoria","5-9","Male",726964
+2013,"Victoria","50-54","Female",771088
+2013,"Victoria","50-54","Male",746439
+2013,"Victoria","55-59","Female",698180
+2013,"Victoria","55-59","Male",669715
+2013,"Victoria","60-64","Female",622975
+2013,"Victoria","60-64","Male",594946
+2013,"Victoria","65-69","Female",541706
+2013,"Victoria","65-69","Male",520642
+2013,"Victoria","70-74","Female",402926
+2013,"Victoria","70-74","Male",378855
+2013,"Victoria","80-84","Female",262958
+2013,"Victoria","80-84","Male",200759
+2013,"Victoria","85 and over","Female",294400
+2013,"Victoria","85 and over","Male",164235
+2013,"Victoria","A75: 75-79","Female",323894
+2013,"Victoria","A75: 75-79","Male",281808
+2013,"Western Australia","0-4","Female",327983
+2013,"Western Australia","0-4","Male",344057
+2013,"Western Australia","10-14","Female",296695
+2013,"Western Australia","10-14","Male",307267
+2013,"Western Australia","15-19","Female",304781
+2013,"Western Australia","15-19","Male",322754
+2013,"Western Australia","20-24","Female",355649
+2013,"Western Australia","20-24","Male",376185
+2013,"Western Australia","25-29","Female",397473
+2013,"Western Australia","25-29","Male",427392
+2013,"Western Australia","30-34","Female",366293
+2013,"Western Australia","30-34","Male",390677
+2013,"Western Australia","35-39","Female",337636
+2013,"Western Australia","35-39","Male",349399
+2013,"Western Australia","40-44","Female",360783
+2013,"Western Australia","40-44","Male",371733
+2013,"Western Australia","45-49","Female",335249
+2013,"Western Australia","45-49","Male",341264
+2013,"Western Australia","5-9","Female",313370
+2013,"Western Australia","5-9","Male",327215
+2013,"Western Australia","50-54","Female",329349
+2013,"Western Australia","50-54","Male",330568
+2013,"Western Australia","55-59","Female",294056
+2013,"Western Australia","55-59","Male",291702
+2013,"Western Australia","60-64","Female",254918
+2013,"Western Australia","60-64","Male",254839
+2013,"Western Australia","65-69","Female",207673
+2013,"Western Australia","65-69","Male",211286
+2013,"Western Australia","70-74","Female",152042
+2013,"Western Australia","70-74","Male",146999
+2013,"Western Australia","80-84","Female",90480
+2013,"Western Australia","80-84","Male",69605
+2013,"Western Australia","85 and over","Female",97805
+2013,"Western Australia","85 and over","Male",54378
+2013,"Western Australia","A75: 75-79","Female",117416
+2013,"Western Australia","A75: 75-79","Male",103688
+2014,"Australian Capital Territory","0-4","Female",52162
+2014,"Australian Capital Territory","0-4","Male",55729
+2014,"Australian Capital Territory","10-14","Female",41731
+2014,"Australian Capital Territory","10-14","Male",43461
+2014,"Australian Capital Territory","15-19","Female",48552
+2014,"Australian Capital Territory","15-19","Male",50320
+2014,"Australian Capital Territory","20-24","Female",64513
+2014,"Australian Capital Territory","20-24","Male",66696
+2014,"Australian Capital Territory","25-29","Female",68558
+2014,"Australian Capital Territory","25-29","Male",67993
+2014,"Australian Capital Territory","30-34","Female",66365
+2014,"Australian Capital Territory","30-34","Male",65674
+2014,"Australian Capital Territory","35-39","Female",56508
+2014,"Australian Capital Territory","35-39","Male",57873
+2014,"Australian Capital Territory","40-44","Female",57036
+2014,"Australian Capital Territory","40-44","Male",56306
+2014,"Australian Capital Territory","45-49","Female",51118
+2014,"Australian Capital Territory","45-49","Male",49308
+2014,"Australian Capital Territory","5-9","Female",46465
+2014,"Australian Capital Territory","5-9","Male",49951
+2014,"Australian Capital Territory","50-54","Female",50055
+2014,"Australian Capital Territory","50-54","Male",48155
+2014,"Australian Capital Territory","55-59","Female",44956
+2014,"Australian Capital Territory","55-59","Male",41847
+2014,"Australian Capital Territory","60-64","Female",38980
+2014,"Australian Capital Territory","60-64","Male",36408
+2014,"Australian Capital Territory","65-69","Female",33249
+2014,"Australian Capital Territory","65-69","Male",31486
+2014,"Australian Capital Territory","70-74","Female",22644
+2014,"Australian Capital Territory","70-74","Male",20477
+2014,"Australian Capital Territory","80-84","Female",12146
+2014,"Australian Capital Territory","80-84","Male",9363
+2014,"Australian Capital Territory","85 and over","Female",14230
+2014,"Australian Capital Territory","85 and over","Male",8096
+2014,"Australian Capital Territory","A75: 75-79","Female",16710
+2014,"Australian Capital Territory","A75: 75-79","Male",14503
+2014,"New South Wales","0-4","Female",958285
+2014,"New South Wales","0-4","Male",1013257
+2014,"New South Wales","10-14","Female",868036
+2014,"New South Wales","10-14","Male",919737
+2014,"New South Wales","15-19","Female",902450
+2014,"New South Wales","15-19","Male",952522
+2014,"New South Wales","20-24","Female",1012751
+2014,"New South Wales","20-24","Male",1055105
+2014,"New South Wales","25-29","Female",1094847
+2014,"New South Wales","25-29","Male",1095188
+2014,"New South Wales","30-34","Female",1090921
+2014,"New South Wales","30-34","Male",1082783
+2014,"New South Wales","35-39","Female",1000940
+2014,"New South Wales","35-39","Male",992843
+2014,"New South Wales","40-44","Female",1066187
+2014,"New South Wales","40-44","Male",1036950
+2014,"New South Wales","45-49","Female",982432
+2014,"New South Wales","45-49","Male",948883
+2014,"New South Wales","5-9","Female",930137
+2014,"New South Wales","5-9","Male",983611
+2014,"New South Wales","50-54","Female",1015241
+2014,"New South Wales","50-54","Male",990009
+2014,"New South Wales","55-59","Female",934706
+2014,"New South Wales","55-59","Male",904836
+2014,"New South Wales","60-64","Female",831850
+2014,"New South Wales","60-64","Male",805709
+2014,"New South Wales","65-69","Female",738745
+2014,"New South Wales","65-69","Male",729553
+2014,"New South Wales","70-74","Female",556050
+2014,"New South Wales","70-74","Male",532395
+2014,"New South Wales","80-84","Female",342485
+2014,"New South Wales","80-84","Male",268422
+2014,"New South Wales","85 and over","Female",404764
+2014,"New South Wales","85 and over","Male",227075
+2014,"New South Wales","A75: 75-79","Female",437549
+2014,"New South Wales","A75: 75-79","Male",387381
+2014,"Northern Territory","0-4","Female",37386
+2014,"Northern Territory","0-4","Male",39420
+2014,"Northern Territory","10-14","Female",31615
+2014,"Northern Territory","10-14","Male",33541
+2014,"Northern Territory","15-19","Female",28840
+2014,"Northern Territory","15-19","Male",32427
+2014,"Northern Territory","20-24","Female",36804
+2014,"Northern Territory","20-24","Male",41480
+2014,"Northern Territory","25-29","Female",45563
+2014,"Northern Territory","25-29","Male",51324
+2014,"Northern Territory","30-34","Female",42822
+2014,"Northern Territory","30-34","Male",46143
+2014,"Northern Territory","35-39","Female",35935
+2014,"Northern Territory","35-39","Male",38476
+2014,"Northern Territory","40-44","Female",34816
+2014,"Northern Territory","40-44","Male",38348
+2014,"Northern Territory","45-49","Female",31893
+2014,"Northern Territory","45-49","Male",34023
+2014,"Northern Territory","5-9","Female",34536
+2014,"Northern Territory","5-9","Male",36530
+2014,"Northern Territory","50-54","Female",29975
+2014,"Northern Territory","50-54","Male",32722
+2014,"Northern Territory","55-59","Female",25468
+2014,"Northern Territory","55-59","Male",27544
+2014,"Northern Territory","60-64","Female",19289
+2014,"Northern Territory","60-64","Male",22358
+2014,"Northern Territory","65-69","Female",12471
+2014,"Northern Territory","65-69","Male",16035
+2014,"Northern Territory","70-74","Female",7623
+2014,"Northern Territory","70-74","Male",9291
+2014,"Northern Territory","80-84","Female",2550
+2014,"Northern Territory","80-84","Male",2302
+2014,"Northern Territory","85 and over","Female",1988
+2014,"Northern Territory","85 and over","Male",1350
+2014,"Northern Territory","A75: 75-79","Female",4142
+2014,"Northern Territory","A75: 75-79","Male",4608
+2014,"Queensland","0-4","Female",620368
+2014,"Queensland","0-4","Male",652605
+2014,"Queensland","10-14","Female",583457
+2014,"Queensland","10-14","Male",615879
+2014,"Queensland","15-19","Female",602412
+2014,"Queensland","15-19","Male",627501
+2014,"Queensland","20-24","Female",666047
+2014,"Queensland","20-24","Male",685947
+2014,"Queensland","25-29","Female",681884
+2014,"Queensland","25-29","Male",683790
+2014,"Queensland","30-34","Female",662904
+2014,"Queensland","30-34","Male",661028
+2014,"Queensland","35-39","Female",622915
+2014,"Queensland","35-39","Male",610763
+2014,"Queensland","40-44","Female",687449
+2014,"Queensland","40-44","Male",669418
+2014,"Queensland","45-49","Female",635065
+2014,"Queensland","45-49","Male",613064
+2014,"Queensland","5-9","Female",619269
+2014,"Queensland","5-9","Male",656395
+2014,"Queensland","50-54","Female",638557
+2014,"Queensland","50-54","Male",619941
+2014,"Queensland","55-59","Female",571880
+2014,"Queensland","55-59","Male",555553
+2014,"Queensland","60-64","Female",510748
+2014,"Queensland","60-64","Male",502254
+2014,"Queensland","65-69","Female",450501
+2014,"Queensland","65-69","Male",455072
+2014,"Queensland","70-74","Female",326940
+2014,"Queensland","70-74","Male",322498
+2014,"Queensland","80-84","Female",177209
+2014,"Queensland","80-84","Male",142432
+2014,"Queensland","85 and over","Female",201975
+2014,"Queensland","85 and over","Male",115493
+2014,"Queensland","A75: 75-79","Female",237107
+2014,"Queensland","A75: 75-79","Male",220396
+2014,"South Australia","0-4","Female",198586
+2014,"South Australia","0-4","Male",210004
+2014,"South Australia","10-14","Female",189148
+2014,"South Australia","10-14","Male",198881
+2014,"South Australia","15-19","Female",204685
+2014,"South Australia","15-19","Male",215588
+2014,"South Australia","20-24","Female",224738
+2014,"South Australia","20-24","Male",236693
+2014,"South Australia","25-29","Female",227678
+2014,"South Australia","25-29","Male",232633
+2014,"South Australia","30-34","Female",221653
+2014,"South Australia","30-34","Male",222953
+2014,"South Australia","35-39","Female",204886
+2014,"South Australia","35-39","Male",207666
+2014,"South Australia","40-44","Female",228673
+2014,"South Australia","40-44","Male",226921
+2014,"South Australia","45-49","Female",227120
+2014,"South Australia","45-49","Male",223474
+2014,"South Australia","5-9","Female",196719
+2014,"South Australia","5-9","Male",205628
+2014,"South Australia","50-54","Female",234884
+2014,"South Australia","50-54","Male",229893
+2014,"South Australia","55-59","Female",221354
+2014,"South Australia","55-59","Male",213182
+2014,"South Australia","60-64","Female",204395
+2014,"South Australia","60-64","Male",194301
+2014,"South Australia","65-69","Female",184714
+2014,"South Australia","65-69","Male",176828
+2014,"South Australia","70-74","Female",136715
+2014,"South Australia","70-74","Male",126521
+2014,"South Australia","80-84","Female",87218
+2014,"South Australia","80-84","Male",67740
+2014,"South Australia","85 and over","Female",108101
+2014,"South Australia","85 and over","Male",60222
+2014,"South Australia","A75: 75-79","Female",108793
+2014,"South Australia","A75: 75-79","Male",94541
+2014,"Tasmania","0-4","Female",59544
+2014,"Tasmania","0-4","Male",63420
+2014,"Tasmania","10-14","Female",59752
+2014,"Tasmania","10-14","Male",64045
+2014,"Tasmania","15-19","Female",63096
+2014,"Tasmania","15-19","Male",67682
+2014,"Tasmania","20-24","Female",60134
+2014,"Tasmania","20-24","Male",65439
+2014,"Tasmania","25-29","Female",60564
+2014,"Tasmania","25-29","Male",60733
+2014,"Tasmania","30-34","Female",60593
+2014,"Tasmania","30-34","Male",58454
+2014,"Tasmania","35-39","Female",58475
+2014,"Tasmania","35-39","Male",56945
+2014,"Tasmania","40-44","Female",69589
+2014,"Tasmania","40-44","Male",66108
+2014,"Tasmania","45-49","Female",69296
+2014,"Tasmania","45-49","Male",65495
+2014,"Tasmania","5-9","Female",62116
+2014,"Tasmania","5-9","Male",66608
+2014,"Tasmania","50-54","Female",76439
+2014,"Tasmania","50-54","Male",73714
+2014,"Tasmania","55-59","Female",73322
+2014,"Tasmania","55-59","Male",71711
+2014,"Tasmania","60-64","Female",68316
+2014,"Tasmania","60-64","Male",67005
+2014,"Tasmania","65-69","Female",61227
+2014,"Tasmania","65-69","Male",60827
+2014,"Tasmania","70-74","Female",44862
+2014,"Tasmania","70-74","Male",44558
+2014,"Tasmania","80-84","Female",25961
+2014,"Tasmania","80-84","Male",20695
+2014,"Tasmania","85 and over","Female",28171
+2014,"Tasmania","85 and over","Male",16016
+2014,"Tasmania","A75: 75-79","Female",33654
+2014,"Tasmania","A75: 75-79","Male",30674
+2014,"Victoria","0-4","Female",744467
+2014,"Victoria","0-4","Male",786302
+2014,"Victoria","10-14","Female",661953
+2014,"Victoria","10-14","Male",695379
+2014,"Victoria","15-19","Female",714078
+2014,"Victoria","15-19","Male",750690
+2014,"Victoria","20-24","Female",844625
+2014,"Victoria","20-24","Male",876748
+2014,"Victoria","25-29","Female",919603
+2014,"Victoria","25-29","Male",920299
+2014,"Victoria","30-34","Female",888619
+2014,"Victoria","30-34","Male",883710
+2014,"Victoria","35-39","Female",799609
+2014,"Victoria","35-39","Male",795202
+2014,"Victoria","40-44","Female",856335
+2014,"Victoria","40-44","Male",823281
+2014,"Victoria","45-49","Female",796690
+2014,"Victoria","45-49","Male",764548
+2014,"Victoria","5-9","Female",709888
+2014,"Victoria","5-9","Male",749835
+2014,"Victoria","50-54","Female",782296
+2014,"Victoria","50-54","Male",754122
+2014,"Victoria","55-59","Female",715440
+2014,"Victoria","55-59","Male",686024
+2014,"Victoria","60-64","Female",637773
+2014,"Victoria","60-64","Male",605206
+2014,"Victoria","65-69","Female",563093
+2014,"Victoria","65-69","Male",540896
+2014,"Victoria","70-74","Female",419928
+2014,"Victoria","70-74","Male",393894
+2014,"Victoria","80-84","Female",263531
+2014,"Victoria","80-84","Male",203242
+2014,"Victoria","85 and over","Female",303218
+2014,"Victoria","85 and over","Male",173588
+2014,"Victoria","A75: 75-79","Female",333245
+2014,"Victoria","A75: 75-79","Male",291782
+2014,"Western Australia","0-4","Female",333956
+2014,"Western Australia","0-4","Male",349065
+2014,"Western Australia","10-14","Female",296627
+2014,"Western Australia","10-14","Male",308341
+2014,"Western Australia","15-19","Female",304591
+2014,"Western Australia","15-19","Male",321967
+2014,"Western Australia","20-24","Female",349935
+2014,"Western Australia","20-24","Male",368922
+2014,"Western Australia","25-29","Female",404277
+2014,"Western Australia","25-29","Male",424606
+2014,"Western Australia","30-34","Female",380687
+2014,"Western Australia","30-34","Male",403605
+2014,"Western Australia","35-39","Female",341054
+2014,"Western Australia","35-39","Male",352249
+2014,"Western Australia","40-44","Female",359702
+2014,"Western Australia","40-44","Male",369136
+2014,"Western Australia","45-49","Female",338358
+2014,"Western Australia","45-49","Male",343026
+2014,"Western Australia","5-9","Female",321275
+2014,"Western Australia","5-9","Male",336017
+2014,"Western Australia","50-54","Female",331909
+2014,"Western Australia","50-54","Male",333238
+2014,"Western Australia","55-59","Female",299192
+2014,"Western Australia","55-59","Male",296002
+2014,"Western Australia","60-64","Female",260110
+2014,"Western Australia","60-64","Male",257321
+2014,"Western Australia","65-69","Female",217005
+2014,"Western Australia","65-69","Male",219284
+2014,"Western Australia","70-74","Female",157794
+2014,"Western Australia","70-74","Male",153354
+2014,"Western Australia","80-84","Female",91077
+2014,"Western Australia","80-84","Male",70744
+2014,"Western Australia","85 and over","Female",100679
+2014,"Western Australia","85 and over","Male",57361
+2014,"Western Australia","A75: 75-79","Female",121713
+2014,"Western Australia","A75: 75-79","Male",108646
+2015,"Australian Capital Territory","0-4","Female",52906
+2015,"Australian Capital Territory","0-4","Male",56962
+2015,"Australian Capital Territory","10-14","Female",42251
+2015,"Australian Capital Territory","10-14","Male",44453
+2015,"Australian Capital Territory","15-19","Female",49157
+2015,"Australian Capital Territory","15-19","Male",50290
+2015,"Australian Capital Territory","20-24","Female",63894
+2015,"Australian Capital Territory","20-24","Male",66029
+2015,"Australian Capital Territory","25-29","Female",68932
+2015,"Australian Capital Territory","25-29","Male",67934
+2015,"Australian Capital Territory","30-34","Female",68248
+2015,"Australian Capital Territory","30-34","Male",67387
+2015,"Australian Capital Territory","35-39","Female",58114
+2015,"Australian Capital Territory","35-39","Male",59115
+2015,"Australian Capital Territory","40-44","Female",57418
+2015,"Australian Capital Territory","40-44","Male",56877
+2015,"Australian Capital Territory","45-49","Female",52110
+2015,"Australian Capital Territory","45-49","Male",50649
+2015,"Australian Capital Territory","5-9","Female",48474
+2015,"Australian Capital Territory","5-9","Male",51878
+2015,"Australian Capital Territory","50-54","Female",49956
+2015,"Australian Capital Territory","50-54","Male",47892
+2015,"Australian Capital Territory","55-59","Female",45735
+2015,"Australian Capital Territory","55-59","Male",42670
+2015,"Australian Capital Territory","60-64","Female",39488
+2015,"Australian Capital Territory","60-64","Male",36490
+2015,"Australian Capital Territory","65-69","Female",34780
+2015,"Australian Capital Territory","65-69","Male",32947
+2015,"Australian Capital Territory","70-74","Female",24052
+2015,"Australian Capital Territory","70-74","Male",21592
+2015,"Australian Capital Territory","80-84","Female",12459
+2015,"Australian Capital Territory","80-84","Male",9722
+2015,"Australian Capital Territory","85 and over","Female",14657
+2015,"Australian Capital Territory","85 and over","Male",8567
+2015,"Australian Capital Territory","A75: 75-79","Female",17458
+2015,"Australian Capital Territory","A75: 75-79","Male",15175
+2015,"New South Wales","0-4","Female",964819
+2015,"New South Wales","0-4","Male",1020672
+2015,"New South Wales","10-14","Female",872551
+2015,"New South Wales","10-14","Male",925969
+2015,"New South Wales","15-19","Female",904628
+2015,"New South Wales","15-19","Male",953172
+2015,"New South Wales","20-24","Female",1026405
+2015,"New South Wales","20-24","Male",1070325
+2015,"New South Wales","25-29","Female",1123938
+2015,"New South Wales","25-29","Male",1122511
+2015,"New South Wales","30-34","Female",1121831
+2015,"New South Wales","30-34","Male",1110326
+2015,"New South Wales","35-39","Female",1013312
+2015,"New South Wales","35-39","Male",1007409
+2015,"New South Wales","40-44","Female",1059336
+2015,"New South Wales","40-44","Male",1036346
+2015,"New South Wales","45-49","Female",997992
+2015,"New South Wales","45-49","Male",956925
+2015,"New South Wales","5-9","Female",953813
+2015,"New South Wales","5-9","Male",1006296
+2015,"New South Wales","50-54","Female",1010002
+2015,"New South Wales","50-54","Male",983497
+2015,"New South Wales","55-59","Female",953632
+2015,"New South Wales","55-59","Male",919143
+2015,"New South Wales","60-64","Female",848426
+2015,"New South Wales","60-64","Male",814222
+2015,"New South Wales","65-69","Female",760718
+2015,"New South Wales","65-69","Male",748668
+2015,"New South Wales","70-74","Female",578311
+2015,"New South Wales","70-74","Male",554593
+2015,"New South Wales","80-84","Female",340690
+2015,"New South Wales","80-84","Male",270188
+2015,"New South Wales","85 and over","Female",412016
+2015,"New South Wales","85 and over","Male",237298
+2015,"New South Wales","A75: 75-79","Female",448710
+2015,"New South Wales","A75: 75-79","Male",399934
+2015,"Northern Territory","0-4","Female",37391
+2015,"Northern Territory","0-4","Male",39376
+2015,"Northern Territory","10-14","Female",31160
+2015,"Northern Territory","10-14","Male",33281
+2015,"Northern Territory","15-19","Female",28234
+2015,"Northern Territory","15-19","Male",31613
+2015,"Northern Territory","20-24","Female",35787
+2015,"Northern Territory","20-24","Male",40476
+2015,"Northern Territory","25-29","Female",46232
+2015,"Northern Territory","25-29","Male",51162
+2015,"Northern Territory","30-34","Female",44149
+2015,"Northern Territory","30-34","Male",47133
+2015,"Northern Territory","35-39","Female",36455
+2015,"Northern Territory","35-39","Male",38860
+2015,"Northern Territory","40-44","Female",34266
+2015,"Northern Territory","40-44","Male",37687
+2015,"Northern Territory","45-49","Female",32662
+2015,"Northern Territory","45-49","Male",34657
+2015,"Northern Territory","5-9","Female",34977
+2015,"Northern Territory","5-9","Male",37030
+2015,"Northern Territory","50-54","Female",29820
+2015,"Northern Territory","50-54","Male",32621
+2015,"Northern Territory","55-59","Female",25861
+2015,"Northern Territory","55-59","Male",27770
+2015,"Northern Territory","60-64","Female",19865
+2015,"Northern Territory","60-64","Male",22511
+2015,"Northern Territory","65-69","Female",13142
+2015,"Northern Territory","65-69","Male",16525
+2015,"Northern Territory","70-74","Female",7991
+2015,"Northern Territory","70-74","Male",9616
+2015,"Northern Territory","80-84","Female",2699
+2015,"Northern Territory","80-84","Male",2281
+2015,"Northern Territory","85 and over","Female",2093
+2015,"Northern Territory","85 and over","Male",1479
+2015,"Northern Territory","A75: 75-79","Female",4520
+2015,"Northern Territory","A75: 75-79","Male",5029
+2015,"Queensland","0-4","Female",618605
+2015,"Queensland","0-4","Male",649998
+2015,"Queensland","10-14","Female",589135
+2015,"Queensland","10-14","Male",621462
+2015,"Queensland","15-19","Female",600176
+2015,"Queensland","15-19","Male",624868
+2015,"Queensland","20-24","Female",671117
+2015,"Queensland","20-24","Male",689129
+2015,"Queensland","25-29","Female",688624
+2015,"Queensland","25-29","Male",687743
+2015,"Queensland","30-34","Female",678772
+2015,"Queensland","30-34","Male",669070
+2015,"Queensland","35-39","Female",626568
+2015,"Queensland","35-39","Male",611486
+2015,"Queensland","40-44","Female",681447
+2015,"Queensland","40-44","Male",663469
+2015,"Queensland","45-49","Female",649500
+2015,"Queensland","45-49","Male",622615
+2015,"Queensland","5-9","Female",632786
+2015,"Queensland","5-9","Male",669008
+2015,"Queensland","50-54","Female",640065
+2015,"Queensland","50-54","Male",618141
+2015,"Queensland","55-59","Female",586167
+2015,"Queensland","55-59","Male",567472
+2015,"Queensland","60-64","Female",519942
+2015,"Queensland","60-64","Male",506192
+2015,"Queensland","65-69","Female",467622
+2015,"Queensland","65-69","Male",469276
+2015,"Queensland","70-74","Female",345184
+2015,"Queensland","70-74","Male",340514
+2015,"Queensland","80-84","Female",178684
+2015,"Queensland","80-84","Male",145241
+2015,"Queensland","85 and over","Female",207601
+2015,"Queensland","85 and over","Male",121247
+2015,"Queensland","A75: 75-79","Female",247685
+2015,"Queensland","A75: 75-79","Male",231973
+2015,"South Australia","0-4","Female",199920
+2015,"South Australia","0-4","Male",210466
+2015,"South Australia","10-14","Female",189108
+2015,"South Australia","10-14","Male",198490
+2015,"South Australia","15-19","Female",203955
+2015,"South Australia","15-19","Male",214231
+2015,"South Australia","20-24","Female",225071
+2015,"South Australia","20-24","Male",237647
+2015,"South Australia","25-29","Female",230027
+2015,"South Australia","25-29","Male",233381
+2015,"South Australia","30-34","Female",227411
+2015,"South Australia","30-34","Male",227074
+2015,"South Australia","35-39","Female",206672
+2015,"South Australia","35-39","Male",208040
+2015,"South Australia","40-44","Female",223013
+2015,"South Australia","40-44","Male",222556
+2015,"South Australia","45-49","Female",228789
+2015,"South Australia","45-49","Male",224255
+2015,"South Australia","5-9","Female",200792
+2015,"South Australia","5-9","Male",209969
+2015,"South Australia","50-54","Female",233202
+2015,"South Australia","50-54","Male",228466
+2015,"South Australia","55-59","Female",225647
+2015,"South Australia","55-59","Male",216272
+2015,"South Australia","60-64","Female",206083
+2015,"South Australia","60-64","Male",195577
+2015,"South Australia","65-69","Female",190261
+2015,"South Australia","65-69","Male",182528
+2015,"South Australia","70-74","Female",142940
+2015,"South Australia","70-74","Male",132491
+2015,"South Australia","80-84","Female",86277
+2015,"South Australia","80-84","Male",67543
+2015,"South Australia","85 and over","Female",109456
+2015,"South Australia","85 and over","Male",62689
+2015,"South Australia","A75: 75-79","Female",111440
+2015,"South Australia","A75: 75-79","Male",97002
+2015,"Tasmania","0-4","Female",58706
+2015,"Tasmania","0-4","Male",62132
+2015,"Tasmania","10-14","Female",59233
+2015,"Tasmania","10-14","Male",63461
+2015,"Tasmania","15-19","Female",62067
+2015,"Tasmania","15-19","Male",66638
+2015,"Tasmania","20-24","Female",60463
+2015,"Tasmania","20-24","Male",65940
+2015,"Tasmania","25-29","Female",60194
+2015,"Tasmania","25-29","Male",61129
+2015,"Tasmania","30-34","Female",61298
+2015,"Tasmania","30-34","Male",58921
+2015,"Tasmania","35-39","Female",58259
+2015,"Tasmania","35-39","Male",56130
+2015,"Tasmania","40-44","Female",68025
+2015,"Tasmania","40-44","Male",64007
+2015,"Tasmania","45-49","Female",69681
+2015,"Tasmania","45-49","Male",65933
+2015,"Tasmania","5-9","Female",62390
+2015,"Tasmania","5-9","Male",67101
+2015,"Tasmania","50-54","Female",75039
+2015,"Tasmania","50-54","Male",71979
+2015,"Tasmania","55-59","Female",74942
+2015,"Tasmania","55-59","Male",72575
+2015,"Tasmania","60-64","Female",69195
+2015,"Tasmania","60-64","Male",67290
+2015,"Tasmania","65-69","Female",63528
+2015,"Tasmania","65-69","Male",62821
+2015,"Tasmania","70-74","Female",47176
+2015,"Tasmania","70-74","Male",46188
+2015,"Tasmania","80-84","Female",25892
+2015,"Tasmania","80-84","Male",20805
+2015,"Tasmania","85 and over","Female",28625
+2015,"Tasmania","85 and over","Male",16601
+2015,"Tasmania","A75: 75-79","Female",34935
+2015,"Tasmania","A75: 75-79","Male",32021
+2015,"Victoria","0-4","Female",759866
+2015,"Victoria","0-4","Male",803659
+2015,"Victoria","10-14","Female",670333
+2015,"Victoria","10-14","Male",707588
+2015,"Victoria","15-19","Female",722170
+2015,"Victoria","15-19","Male",754808
+2015,"Victoria","20-24","Female",862300
+2015,"Victoria","20-24","Male",897383
+2015,"Victoria","25-29","Female",945478
+2015,"Victoria","25-29","Male",942899
+2015,"Victoria","30-34","Female",924949
+2015,"Victoria","30-34","Male",913315
+2015,"Victoria","35-39","Female",816303
+2015,"Victoria","35-39","Male",813180
+2015,"Victoria","40-44","Female",852928
+2015,"Victoria","40-44","Male",823039
+2015,"Victoria","45-49","Female",818012
+2015,"Victoria","45-49","Male",780064
+2015,"Victoria","5-9","Female",733614
+2015,"Victoria","5-9","Male",774448
+2015,"Victoria","50-54","Female",787682
+2015,"Victoria","50-54","Male",757455
+2015,"Victoria","55-59","Female",733215
+2015,"Victoria","55-59","Male",701144
+2015,"Victoria","60-64","Female",652779
+2015,"Victoria","60-64","Male",616468
+2015,"Victoria","65-69","Female",585784
+2015,"Victoria","65-69","Male",559638
+2015,"Victoria","70-74","Female",437043
+2015,"Victoria","70-74","Male",411007
+2015,"Victoria","80-84","Female",263290
+2015,"Victoria","80-84","Male",205692
+2015,"Victoria","85 and over","Female",311690
+2015,"Victoria","85 and over","Male",182413
+2015,"Victoria","A75: 75-79","Female",343684
+2015,"Victoria","A75: 75-79","Male",302814
+2015,"Western Australia","0-4","Female",336429
+2015,"Western Australia","0-4","Male",352318
+2015,"Western Australia","10-14","Female",297144
+2015,"Western Australia","10-14","Male",310448
+2015,"Western Australia","15-19","Female",303298
+2015,"Western Australia","15-19","Male",319652
+2015,"Western Australia","20-24","Female",342903
+2015,"Western Australia","20-24","Male",363106
+2015,"Western Australia","25-29","Female",404072
+2015,"Western Australia","25-29","Male",418447
+2015,"Western Australia","30-34","Female",393126
+2015,"Western Australia","30-34","Male",411335
+2015,"Western Australia","35-39","Female",344885
+2015,"Western Australia","35-39","Male",355526
+2015,"Western Australia","40-44","Female",355591
+2015,"Western Australia","40-44","Male",363800
+2015,"Western Australia","45-49","Female",342652
+2015,"Western Australia","45-49","Male",346158
+2015,"Western Australia","5-9","Female",328413
+2015,"Western Australia","5-9","Male",343422
+2015,"Western Australia","50-54","Female",331393
+2015,"Western Australia","50-54","Male",332698
+2015,"Western Australia","55-59","Female",304057
+2015,"Western Australia","55-59","Male",300221
+2015,"Western Australia","60-64","Female",265950
+2015,"Western Australia","60-64","Male",259735
+2015,"Western Australia","65-69","Female",226770
+2015,"Western Australia","65-69","Male",227508
+2015,"Western Australia","70-74","Female",163245
+2015,"Western Australia","70-74","Male",159634
+2015,"Western Australia","80-84","Female",92166
+2015,"Western Australia","80-84","Male",72284
+2015,"Western Australia","85 and over","Female",103236
+2015,"Western Australia","85 and over","Male",60243
+2015,"Western Australia","A75: 75-79","Female",125983
+2015,"Western Australia","A75: 75-79","Male",112682
+2016,"Australian Capital Territory","0-4","Female",54131
+2016,"Australian Capital Territory","0-4","Male",58233
+2016,"Australian Capital Territory","10-14","Female",43417
+2016,"Australian Capital Territory","10-14","Male",45867
+2016,"Australian Capital Territory","15-19","Female",49395
+2016,"Australian Capital Territory","15-19","Male",50521
+2016,"Australian Capital Territory","20-24","Female",65133
+2016,"Australian Capital Territory","20-24","Male",67033
+2016,"Australian Capital Territory","25-29","Female",69289
+2016,"Australian Capital Territory","25-29","Male",68191
+2016,"Australian Capital Territory","30-34","Female",70085
+2016,"Australian Capital Territory","30-34","Male",68430
+2016,"Australian Capital Territory","35-39","Female",60855
+2016,"Australian Capital Territory","35-39","Male",61290
+2016,"Australian Capital Territory","40-44","Female",56957
+2016,"Australian Capital Territory","40-44","Male",56738
+2016,"Australian Capital Territory","45-49","Female",53608
+2016,"Australian Capital Territory","45-49","Male",52775
+2016,"Australian Capital Territory","5-9","Female",49763
+2016,"Australian Capital Territory","5-9","Male",53897
+2016,"Australian Capital Territory","50-54","Female",50015
+2016,"Australian Capital Territory","50-54","Male",47544
+2016,"Australian Capital Territory","55-59","Female",46336
+2016,"Australian Capital Territory","55-59","Male",43753
+2016,"Australian Capital Territory","60-64","Female",40160
+2016,"Australian Capital Territory","60-64","Male",36769
+2016,"Australian Capital Territory","65-69","Female",36013
+2016,"Australian Capital Territory","65-69","Male",33261
+2016,"Australian Capital Territory","70-74","Female",25700
+2016,"Australian Capital Territory","70-74","Male",23414
+2016,"Australian Capital Territory","80-84","Female",12905
+2016,"Australian Capital Territory","80-84","Male",10148
+2016,"Australian Capital Territory","85 and over","Female",14943
+2016,"Australian Capital Territory","85 and over","Male",9019
+2016,"Australian Capital Territory","A75: 75-79","Female",18341
+2016,"Australian Capital Territory","A75: 75-79","Male",15766
+2016,"New South Wales","0-4","Female",974211
+2016,"New South Wales","0-4","Male",1030208
+2016,"New South Wales","10-14","Female",884392
+2016,"New South Wales","10-14","Male",939145
+2016,"New South Wales","15-19","Female",907261
+2016,"New South Wales","15-19","Male",957891
+2016,"New South Wales","20-24","Female",1042286
+2016,"New South Wales","20-24","Male",1086036
+2016,"New South Wales","25-29","Female",1154068
+2016,"New South Wales","25-29","Male",1152609
+2016,"New South Wales","30-34","Female",1150935
+2016,"New South Wales","30-34","Male",1135723
+2016,"New South Wales","35-39","Female",1037171
+2016,"New South Wales","35-39","Male",1033095
+2016,"New South Wales","40-44","Female",1040496
+2016,"New South Wales","40-44","Male",1025132
+2016,"New South Wales","45-49","Female",1027375
+2016,"New South Wales","45-49","Male",979286
+2016,"New South Wales","5-9","Female",971857
+2016,"New South Wales","5-9","Male",1024386
+2016,"New South Wales","50-54","Female",998532
+2016,"New South Wales","50-54","Male",970674
+2016,"New South Wales","55-59","Female",973528
+2016,"New South Wales","55-59","Male",935382
+2016,"New South Wales","60-64","Female",865970
+2016,"New South Wales","60-64","Male",825957
+2016,"New South Wales","65-69","Female",778764
+2016,"New South Wales","65-69","Male",761850
+2016,"New South Wales","70-74","Female",604021
+2016,"New South Wales","70-74","Male",581991
+2016,"New South Wales","80-84","Female",343172
+2016,"New South Wales","80-84","Male",275319
+2016,"New South Wales","85 and over","Female",418071
+2016,"New South Wales","85 and over","Male",245860
+2016,"New South Wales","A75: 75-79","Female",459782
+2016,"New South Wales","A75: 75-79","Male",411374
+2016,"Northern Territory","0-4","Female",37786
+2016,"Northern Territory","0-4","Male",39391
+2016,"Northern Territory","10-14","Female",31153
+2016,"Northern Territory","10-14","Male",33139
+2016,"Northern Territory","15-19","Female",28129
+2016,"Northern Territory","15-19","Male",31689
+2016,"Northern Territory","20-24","Female",34486
+2016,"Northern Territory","20-24","Male",38749
+2016,"Northern Territory","25-29","Female",47019
+2016,"Northern Territory","25-29","Male",50098
+2016,"Northern Territory","30-34","Female",45498
+2016,"Northern Territory","30-34","Male",47685
+2016,"Northern Territory","35-39","Female",37274
+2016,"Northern Territory","35-39","Male",39712
+2016,"Northern Territory","40-44","Female",33741
+2016,"Northern Territory","40-44","Male",36793
+2016,"Northern Territory","45-49","Female",33284
+2016,"Northern Territory","45-49","Male",35665
+2016,"Northern Territory","5-9","Female",35423
+2016,"Northern Territory","5-9","Male",37702
+2016,"Northern Territory","50-54","Female",29955
+2016,"Northern Territory","50-54","Male",32461
+2016,"Northern Territory","55-59","Female",26382
+2016,"Northern Territory","55-59","Male",28058
+2016,"Northern Territory","60-64","Female",20321
+2016,"Northern Territory","60-64","Male",22953
+2016,"Northern Territory","65-69","Female",13875
+2016,"Northern Territory","65-69","Male",16804
+2016,"Northern Territory","70-74","Female",8289
+2016,"Northern Territory","70-74","Male",9920
+2016,"Northern Territory","80-84","Female",2783
+2016,"Northern Territory","80-84","Male",2366
+2016,"Northern Territory","85 and over","Female",2219
+2016,"Northern Territory","85 and over","Male",1579
+2016,"Northern Territory","A75: 75-79","Female",4907
+2016,"Northern Territory","A75: 75-79","Male",5525
+2016,"Queensland","0-4","Female",618492
+2016,"Queensland","0-4","Male",650034
+2016,"Queensland","10-14","Female",599013
+2016,"Queensland","10-14","Male",632427
+2016,"Queensland","15-19","Female",603045
+2016,"Queensland","15-19","Male",628903
+2016,"Queensland","20-24","Female",675422
+2016,"Queensland","20-24","Male",690239
+2016,"Queensland","25-29","Female",699470
+2016,"Queensland","25-29","Male",694150
+2016,"Queensland","30-34","Female",693090
+2016,"Queensland","30-34","Male",676165
+2016,"Queensland","35-39","Female",637998
+2016,"Queensland","35-39","Male",619865
+2016,"Queensland","40-44","Female",669627
+2016,"Queensland","40-44","Male",651957
+2016,"Queensland","45-49","Female",671930
+2016,"Queensland","45-49","Male",640814
+2016,"Queensland","5-9","Female",644401
+2016,"Queensland","5-9","Male",678317
+2016,"Queensland","50-54","Female",637926
+2016,"Queensland","50-54","Male",613010
+2016,"Queensland","55-59","Female",603002
+2016,"Queensland","55-59","Male",581553
+2016,"Queensland","60-64","Female",530734
+2016,"Queensland","60-64","Male",512341
+2016,"Queensland","65-69","Female",483452
+2016,"Queensland","65-69","Male",479942
+2016,"Queensland","70-74","Female",365558
+2016,"Queensland","70-74","Male",361299
+2016,"Queensland","80-84","Female",181593
+2016,"Queensland","80-84","Male",150549
+2016,"Queensland","85 and over","Female",213394
+2016,"Queensland","85 and over","Male",126812
+2016,"Queensland","A75: 75-79","Female",259754
+2016,"Queensland","A75: 75-79","Male",243654
+2016,"South Australia","0-4","Female",200738
+2016,"South Australia","0-4","Male",210858
+2016,"South Australia","10-14","Female",190457
+2016,"South Australia","10-14","Male",200198
+2016,"South Australia","15-19","Female",203095
+2016,"South Australia","15-19","Male",212718
+2016,"South Australia","20-24","Female",224929
+2016,"South Australia","20-24","Male",237590
+2016,"South Australia","25-29","Female",230550
+2016,"South Australia","25-29","Male",233091
+2016,"South Australia","30-34","Female",231164
+2016,"South Australia","30-34","Male",229640
+2016,"South Australia","35-39","Female",210041
+2016,"South Australia","35-39","Male",209508
+2016,"South Australia","40-44","Female",216199
+2016,"South Australia","40-44","Male",216990
+2016,"South Australia","45-49","Female",231801
+2016,"South Australia","45-49","Male",226329
+2016,"South Australia","5-9","Female",203790
+2016,"South Australia","5-9","Male",213059
+2016,"South Australia","50-54","Female",230410
+2016,"South Australia","50-54","Male",225054
+2016,"South Australia","55-59","Female",229193
+2016,"South Australia","55-59","Male",220322
+2016,"South Australia","60-64","Female",208597
+2016,"South Australia","60-64","Male",197377
+2016,"South Australia","65-69","Female",195174
+2016,"South Australia","65-69","Male",185883
+2016,"South Australia","70-74","Female",150827
+2016,"South Australia","70-74","Male",140106
+2016,"South Australia","80-84","Female",86229
+2016,"South Australia","80-84","Male",68686
+2016,"South Australia","85 and over","Female",110881
+2016,"South Australia","85 and over","Male",64514
+2016,"South Australia","A75: 75-79","Female",114429
+2016,"South Australia","A75: 75-79","Male",99605
+2016,"Tasmania","0-4","Female",58343
+2016,"Tasmania","0-4","Male",61858
+2016,"Tasmania","10-14","Female",59480
+2016,"Tasmania","10-14","Male",63726
+2016,"Tasmania","15-19","Female",61309
+2016,"Tasmania","15-19","Male",66114
+2016,"Tasmania","20-24","Female",60909
+2016,"Tasmania","20-24","Male",66440
+2016,"Tasmania","25-29","Female",61318
+2016,"Tasmania","25-29","Male",62036
+2016,"Tasmania","30-34","Female",61677
+2016,"Tasmania","30-34","Male",60026
+2016,"Tasmania","35-39","Female",59423
+2016,"Tasmania","35-39","Male",55966
+2016,"Tasmania","40-44","Female",65253
+2016,"Tasmania","40-44","Male",61902
+2016,"Tasmania","45-49","Female",71128
+2016,"Tasmania","45-49","Male",67229
+2016,"Tasmania","5-9","Female",62523
+2016,"Tasmania","5-9","Male",67301
+2016,"Tasmania","50-54","Female",72997
+2016,"Tasmania","50-54","Male",69570
+2016,"Tasmania","55-59","Female",76656
+2016,"Tasmania","55-59","Male",73368
+2016,"Tasmania","60-64","Female",70369
+2016,"Tasmania","60-64","Male",67972
+2016,"Tasmania","65-69","Female",65524
+2016,"Tasmania","65-69","Male",64475
+2016,"Tasmania","70-74","Female",49600
+2016,"Tasmania","70-74","Male",48311
+2016,"Tasmania","80-84","Female",25999
+2016,"Tasmania","80-84","Male",21085
+2016,"Tasmania","85 and over","Female",29075
+2016,"Tasmania","85 and over","Male",17307
+2016,"Tasmania","A75: 75-79","Female",36470
+2016,"Tasmania","A75: 75-79","Male",33223
+2016,"Victoria","0-4","Female",779991
+2016,"Victoria","0-4","Male",825535
+2016,"Victoria","10-14","Female",687099
+2016,"Victoria","10-14","Male",725811
+2016,"Victoria","15-19","Female",728346
+2016,"Victoria","15-19","Male",761496
+2016,"Victoria","20-24","Female",885538
+2016,"Victoria","20-24","Male",922749
+2016,"Victoria","25-29","Female",973750
+2016,"Victoria","25-29","Male",969923
+2016,"Victoria","30-34","Female",961745
+2016,"Victoria","30-34","Male",943657
+2016,"Victoria","35-39","Female",844374
+2016,"Victoria","35-39","Male",840588
+2016,"Victoria","40-44","Female",840968
+2016,"Victoria","40-44","Male",820592
+2016,"Victoria","45-49","Female",846890
+2016,"Victoria","45-49","Male",801878
+2016,"Victoria","5-9","Female",754395
+2016,"Victoria","5-9","Male",796811
+2016,"Victoria","50-54","Female",790175
+2016,"Victoria","50-54","Male",758141
+2016,"Victoria","55-59","Female",751992
+2016,"Victoria","55-59","Male",716268
+2016,"Victoria","60-64","Female",668970
+2016,"Victoria","60-64","Male",630088
+2016,"Victoria","65-69","Female",605193
+2016,"Victoria","65-69","Male",572815
+2016,"Victoria","70-74","Female",459239
+2016,"Victoria","70-74","Male",433588
+2016,"Victoria","80-84","Female",266933
+2016,"Victoria","80-84","Male",210969
+2016,"Victoria","85 and over","Female",319139
+2016,"Victoria","85 and over","Male",190496
+2016,"Victoria","A75: 75-79","Female",353896
+2016,"Victoria","A75: 75-79","Male",313394
+2016,"Western Australia","0-4","Female",337875
+2016,"Western Australia","0-4","Male",354972
+2016,"Western Australia","10-14","Female",301404
+2016,"Western Australia","10-14","Male",315212
+2016,"Western Australia","15-19","Female",301899
+2016,"Western Australia","15-19","Male",317788
+2016,"Western Australia","20-24","Female",336705
+2016,"Western Australia","20-24","Male",357346
+2016,"Western Australia","25-29","Female",397082
+2016,"Western Australia","25-29","Male",407399
+2016,"Western Australia","30-34","Female",402595
+2016,"Western Australia","30-34","Male",414095
+2016,"Western Australia","35-39","Female",351546
+2016,"Western Australia","35-39","Male",361241
+2016,"Western Australia","40-44","Female",347693
+2016,"Western Australia","40-44","Male",355060
+2016,"Western Australia","45-49","Female",349936
+2016,"Western Australia","45-49","Male",351528
+2016,"Western Australia","5-9","Female",332804
+2016,"Western Australia","5-9","Male",348372
+2016,"Western Australia","50-54","Female",329993
+2016,"Western Australia","50-54","Male",330812
+2016,"Western Australia","55-59","Female",309104
+2016,"Western Australia","55-59","Male",303876
+2016,"Western Australia","60-64","Female",272272
+2016,"Western Australia","60-64","Male",262817
+2016,"Western Australia","65-69","Female",235708
+2016,"Western Australia","65-69","Male",234952
+2016,"Western Australia","70-74","Female",170636
+2016,"Western Australia","70-74","Male",168062
+2016,"Western Australia","80-84","Female",94075
+2016,"Western Australia","80-84","Male",74522
+2016,"Western Australia","85 and over","Female",105266
+2016,"Western Australia","85 and over","Male",62621
+2016,"Western Australia","A75: 75-79","Female",130129
+2016,"Western Australia","A75: 75-79","Male",117185
+2017,"Australian Capital Territory","0-4","Female",54917
+2017,"Australian Capital Territory","0-4","Male",58822
+2017,"Australian Capital Territory","10-14","Female",44878
+2017,"Australian Capital Territory","10-14","Male",47880
+2017,"Australian Capital Territory","15-19","Female",50256
+2017,"Australian Capital Territory","15-19","Male",51176
+2017,"Australian Capital Territory","20-24","Female",68749
+2017,"Australian Capital Territory","20-24","Male",69667
+2017,"Australian Capital Territory","25-29","Female",71170
+2017,"Australian Capital Territory","25-29","Male",70240
+2017,"Australian Capital Territory","30-34","Female",71711
+2017,"Australian Capital Territory","30-34","Male",69822
+2017,"Australian Capital Territory","35-39","Female",64472
+2017,"Australian Capital Territory","35-39","Male",64161
+2017,"Australian Capital Territory","40-44","Female",57077
+2017,"Australian Capital Territory","40-44","Male",57439
+2017,"Australian Capital Territory","45-49","Female",55731
+2017,"Australian Capital Territory","45-49","Male",54835
+2017,"Australian Capital Territory","5-9","Female",52075
+2017,"Australian Capital Territory","5-9","Male",56003
+2017,"Australian Capital Territory","50-54","Female",49777
+2017,"Australian Capital Territory","50-54","Male",47572
+2017,"Australian Capital Territory","55-59","Female",47275
+2017,"Australian Capital Territory","55-59","Male",44765
+2017,"Australian Capital Territory","60-64","Female",40623
+2017,"Australian Capital Territory","60-64","Male",37093
+2017,"Australian Capital Territory","65-69","Female",36535
+2017,"Australian Capital Territory","65-69","Male",33104
+2017,"Australian Capital Territory","70-74","Female",28119
+2017,"Australian Capital Territory","70-74","Male",25596
+2017,"Australian Capital Territory","80-84","Female",13594
+2017,"Australian Capital Territory","80-84","Male",10656
+2017,"Australian Capital Territory","85 and over","Female",15287
+2017,"Australian Capital Territory","85 and over","Male",9308
+2017,"Australian Capital Territory","A75: 75-79","Female",19221
+2017,"Australian Capital Territory","A75: 75-79","Male",16647
+2017,"New South Wales","0-4","Female",972437
+2017,"New South Wales","0-4","Male",1027156
+2017,"New South Wales","10-14","Female",906807
+2017,"New South Wales","10-14","Male",964541
+2017,"New South Wales","15-19","Female",909527
+2017,"New South Wales","15-19","Male",963845
+2017,"New South Wales","20-24","Female",1056582
+2017,"New South Wales","20-24","Male",1103098
+2017,"New South Wales","25-29","Female",1178357
+2017,"New South Wales","25-29","Male",1183230
+2017,"New South Wales","30-34","Female",1175005
+2017,"New South Wales","30-34","Male",1158856
+2017,"New South Wales","35-39","Female",1071774
+2017,"New South Wales","35-39","Male",1067067
+2017,"New South Wales","40-44","Female",1024925
+2017,"New South Wales","40-44","Male",1014022
+2017,"New South Wales","45-49","Female",1053075
+2017,"New South Wales","45-49","Male",1009807
+2017,"New South Wales","5-9","Female",982285
+2017,"New South Wales","5-9","Male",1036600
+2017,"New South Wales","50-54","Female",985893
+2017,"New South Wales","50-54","Male",956806
+2017,"New South Wales","55-59","Female",989989
+2017,"New South Wales","55-59","Male",952677
+2017,"New South Wales","60-64","Female",885333
+2017,"New South Wales","60-64","Male",841049
+2017,"New South Wales","65-69","Female",784353
+2017,"New South Wales","65-69","Male",757398
+2017,"New South Wales","70-74","Female",642127
+2017,"New South Wales","70-74","Male",619634
+2017,"New South Wales","80-84","Female",349874
+2017,"New South Wales","80-84","Male",282922
+2017,"New South Wales","85 and over","Female",420200
+2017,"New South Wales","85 and over","Male",252037
+2017,"New South Wales","A75: 75-79","Female",470531
+2017,"New South Wales","A75: 75-79","Male",424658
+2017,"Northern Territory","0-4","Female",37223
+2017,"Northern Territory","0-4","Male",39002
+2017,"Northern Territory","10-14","Female",31607
+2017,"Northern Territory","10-14","Male",33614
+2017,"Northern Territory","15-19","Female",28313
+2017,"Northern Territory","15-19","Male",31950
+2017,"Northern Territory","20-24","Female",33917
+2017,"Northern Territory","20-24","Male",37623
+2017,"Northern Territory","25-29","Female",47318
+2017,"Northern Territory","25-29","Male",48628
+2017,"Northern Territory","30-34","Female",46826
+2017,"Northern Territory","30-34","Male",48250
+2017,"Northern Territory","35-39","Female",38669
+2017,"Northern Territory","35-39","Male",40516
+2017,"Northern Territory","40-44","Female",33308
+2017,"Northern Territory","40-44","Male",36046
+2017,"Northern Territory","45-49","Female",33412
+2017,"Northern Territory","45-49","Male",35713
+2017,"Northern Territory","5-9","Female",35867
+2017,"Northern Territory","5-9","Male",38030
+2017,"Northern Territory","50-54","Female",29783
+2017,"Northern Territory","50-54","Male",32044
+2017,"Northern Territory","55-59","Female",26748
+2017,"Northern Territory","55-59","Male",28520
+2017,"Northern Territory","60-64","Female",20818
+2017,"Northern Territory","60-64","Male",23111
+2017,"Northern Territory","65-69","Female",14389
+2017,"Northern Territory","65-69","Male",16967
+2017,"Northern Territory","70-74","Female",8688
+2017,"Northern Territory","70-74","Male",10423
+2017,"Northern Territory","80-84","Female",2901
+2017,"Northern Territory","80-84","Male",2496
+2017,"Northern Territory","85 and over","Female",2349
+2017,"Northern Territory","85 and over","Male",1715
+2017,"Northern Territory","A75: 75-79","Female",5246
+2017,"Northern Territory","A75: 75-79","Male",5989
+2017,"Queensland","0-4","Female",614699
+2017,"Queensland","0-4","Male",649302
+2017,"Queensland","10-14","Female",615166
+2017,"Queensland","10-14","Male",652064
+2017,"Queensland","15-19","Female",606390
+2017,"Queensland","15-19","Male",636850
+2017,"Queensland","20-24","Female",677106
+2017,"Queensland","20-24","Male",690208
+2017,"Queensland","25-29","Female",712526
+2017,"Queensland","25-29","Male",704418
+2017,"Queensland","30-34","Female",705353
+2017,"Queensland","30-34","Male",684502
+2017,"Queensland","35-39","Female",657096
+2017,"Queensland","35-39","Male",637237
+2017,"Queensland","40-44","Female",660773
+2017,"Queensland","40-44","Male",641914
+2017,"Queensland","45-49","Female",690237
+2017,"Queensland","45-49","Male",660669
+2017,"Queensland","5-9","Female",651790
+2017,"Queensland","5-9","Male",684087
+2017,"Queensland","50-54","Female",636689
+2017,"Queensland","50-54","Male",611358
+2017,"Queensland","55-59","Female",620698
+2017,"Queensland","55-59","Male",595742
+2017,"Queensland","60-64","Female",543645
+2017,"Queensland","60-64","Male",521259
+2017,"Queensland","65-69","Female",490467
+2017,"Queensland","65-69","Male",481795
+2017,"Queensland","70-74","Female",394187
+2017,"Queensland","70-74","Male",389477
+2017,"Queensland","80-84","Female",187567
+2017,"Queensland","80-84","Male",157556
+2017,"Queensland","85 and over","Female",216109
+2017,"Queensland","85 and over","Male",130682
+2017,"Queensland","A75: 75-79","Female",272332
+2017,"Queensland","A75: 75-79","Male",256894
+2017,"South Australia","0-4","Female",197855
+2017,"South Australia","0-4","Male",208641
+2017,"South Australia","10-14","Female",194646
+2017,"South Australia","10-14","Male",203918
+2017,"South Australia","15-19","Female",202331
+2017,"South Australia","15-19","Male",212329
+2017,"South Australia","20-24","Female",224938
+2017,"South Australia","20-24","Male",237687
+2017,"South Australia","25-29","Female",231101
+2017,"South Australia","25-29","Male",233596
+2017,"South Australia","30-34","Female",234946
+2017,"South Australia","30-34","Male",232136
+2017,"South Australia","35-39","Female",215876
+2017,"South Australia","35-39","Male",213449
+2017,"South Australia","40-44","Female",212059
+2017,"South Australia","40-44","Male",212560
+2017,"South Australia","45-49","Female",234203
+2017,"South Australia","45-49","Male",229283
+2017,"South Australia","5-9","Female",204885
+2017,"South Australia","5-9","Male",215600
+2017,"South Australia","50-54","Female",228000
+2017,"South Australia","50-54","Male",222568
+2017,"South Australia","55-59","Female",232519
+2017,"South Australia","55-59","Male",223797
+2017,"South Australia","60-64","Female",212418
+2017,"South Australia","60-64","Male",200562
+2017,"South Australia","65-69","Female",196532
+2017,"South Australia","65-69","Male",185112
+2017,"South Australia","70-74","Female",162092
+2017,"South Australia","70-74","Male",150670
+2017,"South Australia","80-84","Female",87685
+2017,"South Australia","80-84","Male",70804
+2017,"South Australia","85 and over","Female",111197
+2017,"South Australia","85 and over","Male",65775
+2017,"South Australia","A75: 75-79","Female",117943
+2017,"South Australia","A75: 75-79","Male",102922
+2017,"Tasmania","0-4","Female",58070
+2017,"Tasmania","0-4","Male",61432
+2017,"Tasmania","10-14","Female",60818
+2017,"Tasmania","10-14","Male",65084
+2017,"Tasmania","15-19","Female",61053
+2017,"Tasmania","15-19","Male",65878
+2017,"Tasmania","20-24","Female",62536
+2017,"Tasmania","20-24","Male",68359
+2017,"Tasmania","25-29","Female",64825
+2017,"Tasmania","25-29","Male",65618
+2017,"Tasmania","30-34","Female",63898
+2017,"Tasmania","30-34","Male",62523
+2017,"Tasmania","35-39","Female",61587
+2017,"Tasmania","35-39","Male",57864
+2017,"Tasmania","40-44","Female",63147
+2017,"Tasmania","40-44","Male",60397
+2017,"Tasmania","45-49","Female",72364
+2017,"Tasmania","45-49","Male",68670
+2017,"Tasmania","5-9","Female",62597
+2017,"Tasmania","5-9","Male",67155
+2017,"Tasmania","50-54","Female",71953
+2017,"Tasmania","50-54","Male",67762
+2017,"Tasmania","55-59","Female",77877
+2017,"Tasmania","55-59","Male",74666
+2017,"Tasmania","60-64","Female",71980
+2017,"Tasmania","60-64","Male",68898
+2017,"Tasmania","65-69","Female",66450
+2017,"Tasmania","65-69","Male",64802
+2017,"Tasmania","70-74","Female",53407
+2017,"Tasmania","70-74","Male",52393
+2017,"Tasmania","80-84","Female",26630
+2017,"Tasmania","80-84","Male",21786
+2017,"Tasmania","85 and over","Female",29258
+2017,"Tasmania","85 and over","Male",17804
+2017,"Tasmania","A75: 75-79","Female",37799
+2017,"Tasmania","A75: 75-79","Male",34907
+2017,"Victoria","0-4","Female",784908
+2017,"Victoria","0-4","Male",830976
+2017,"Victoria","10-14","Female",708362
+2017,"Victoria","10-14","Male",750160
+2017,"Victoria","15-19","Female",731125
+2017,"Victoria","15-19","Male",764834
+2017,"Victoria","20-24","Female",905688
+2017,"Victoria","20-24","Male",948928
+2017,"Victoria","25-29","Female",997964
+2017,"Victoria","25-29","Male",996591
+2017,"Victoria","30-34","Female",991683
+2017,"Victoria","30-34","Male",972262
+2017,"Victoria","35-39","Female",881677
+2017,"Victoria","35-39","Male",874253
+2017,"Victoria","40-44","Female",832350
+2017,"Victoria","40-44","Male",818333
+2017,"Victoria","45-49","Female",868307
+2017,"Victoria","45-49","Male",823892
+2017,"Victoria","5-9","Female",769748
+2017,"Victoria","5-9","Male",813201
+2017,"Victoria","50-54","Female",790646
+2017,"Victoria","50-54","Male",757042
+2017,"Victoria","55-59","Female",767273
+2017,"Victoria","55-59","Male",731364
+2017,"Victoria","60-64","Female",685021
+2017,"Victoria","60-64","Male",642167
+2017,"Victoria","65-69","Female",610633
+2017,"Victoria","65-69","Male",572707
+2017,"Victoria","70-74","Female",491179
+2017,"Victoria","70-74","Male",462822
+2017,"Victoria","80-84","Female",272456
+2017,"Victoria","80-84","Male",217754
+2017,"Victoria","85 and over","Female",322786
+2017,"Victoria","85 and over","Male",195207
+2017,"Victoria","A75: 75-79","Female",363970
+2017,"Victoria","A75: 75-79","Male",324618
+2017,"Western Australia","0-4","Female",338501
+2017,"Western Australia","0-4","Male",357415
+2017,"Western Australia","10-14","Female",310439
+2017,"Western Australia","10-14","Male",326107
+2017,"Western Australia","15-19","Female",301097
+2017,"Western Australia","15-19","Male",316817
+2017,"Western Australia","20-24","Female",331602
+2017,"Western Australia","20-24","Male",350296
+2017,"Western Australia","25-29","Female",387972
+2017,"Western Australia","25-29","Male",395439
+2017,"Western Australia","30-34","Female",408338
+2017,"Western Australia","30-34","Male",415047
+2017,"Western Australia","35-39","Female",363454
+2017,"Western Australia","35-39","Male",371614
+2017,"Western Australia","40-44","Female",342856
+2017,"Western Australia","40-44","Male",349554
+2017,"Western Australia","45-49","Female",357223
+2017,"Western Australia","45-49","Male",359983
+2017,"Western Australia","5-9","Female",335741
+2017,"Western Australia","5-9","Male",352345
+2017,"Western Australia","50-54","Female",330074
+2017,"Western Australia","50-54","Male",330776
+2017,"Western Australia","55-59","Female",316126
+2017,"Western Australia","55-59","Male",311146
+2017,"Western Australia","60-64","Female",279543
+2017,"Western Australia","60-64","Male",268375
+2017,"Western Australia","65-69","Female",241076
+2017,"Western Australia","65-69","Male",237082
+2017,"Western Australia","70-74","Female",184442
+2017,"Western Australia","70-74","Male",181736
+2017,"Western Australia","80-84","Female",97110
+2017,"Western Australia","80-84","Male",78305
+2017,"Western Australia","85 and over","Female",107591
+2017,"Western Australia","85 and over","Male",65021
+2017,"Western Australia","A75: 75-79","Female",135371
+2017,"Western Australia","A75: 75-79","Male",123448
+2018,"Australian Capital Territory","0-4","Female",54564
+2018,"Australian Capital Territory","0-4","Male",58256
+2018,"Australian Capital Territory","10-14","Female",46603
+2018,"Australian Capital Territory","10-14","Male",49743
+2018,"Australian Capital Territory","15-19","Female",50807
+2018,"Australian Capital Territory","15-19","Male",52535
+2018,"Australian Capital Territory","20-24","Female",71020
+2018,"Australian Capital Territory","20-24","Male",71068
+2018,"Australian Capital Territory","25-29","Female",73890
+2018,"Australian Capital Territory","25-29","Male",72668
+2018,"Australian Capital Territory","30-34","Female",73807
+2018,"Australian Capital Territory","30-34","Male",71339
+2018,"Australian Capital Territory","35-39","Female",68036
+2018,"Australian Capital Territory","35-39","Male",67032
+2018,"Australian Capital Territory","40-44","Female",57554
+2018,"Australian Capital Territory","40-44","Male",58320
+2018,"Australian Capital Territory","45-49","Female",57603
+2018,"Australian Capital Territory","45-49","Male",56138
+2018,"Australian Capital Territory","5-9","Female",54182
+2018,"Australian Capital Territory","5-9","Male",57784
+2018,"Australian Capital Territory","50-54","Female",49922
+2018,"Australian Capital Territory","50-54","Male",48093
+2018,"Australian Capital Territory","55-59","Female",47754
+2018,"Australian Capital Territory","55-59","Male",45405
+2018,"Australian Capital Territory","60-64","Female",41258
+2018,"Australian Capital Territory","60-64","Male",37458
+2018,"Australian Capital Territory","65-69","Female",37065
+2018,"Australian Capital Territory","65-69","Male",33026
+2018,"Australian Capital Territory","70-74","Female",30490
+2018,"Australian Capital Territory","70-74","Male",27647
+2018,"Australian Capital Territory","80-84","Female",14320
+2018,"Australian Capital Territory","80-84","Male",11219
+2018,"Australian Capital Territory","85 and over","Female",15493
+2018,"Australian Capital Territory","85 and over","Male",9589
+2018,"Australian Capital Territory","A75: 75-79","Female",20104
+2018,"Australian Capital Territory","A75: 75-79","Male",17274
+2018,"New South Wales","0-4","Female",963006
+2018,"New South Wales","0-4","Male",1017944
+2018,"New South Wales","10-14","Female",929873
+2018,"New South Wales","10-14","Male",988631
+2018,"New South Wales","15-19","Female",912037
+2018,"New South Wales","15-19","Male",973227
+2018,"New South Wales","20-24","Female",1068089
+2018,"New South Wales","20-24","Male",1122047
+2018,"New South Wales","25-29","Female",1190319
+2018,"New South Wales","25-29","Male",1204348
+2018,"New South Wales","30-34","Female",1188235
+2018,"New South Wales","30-34","Male",1174683
+2018,"New South Wales","35-39","Female",1107044
+2018,"New South Wales","35-39","Male",1102610
+2018,"New South Wales","40-44","Female",1016964
+2018,"New South Wales","40-44","Male",1006838
+2018,"New South Wales","45-49","Female",1065497
+2018,"New South Wales","45-49","Male",1031210
+2018,"New South Wales","5-9","Female",987470
+2018,"New South Wales","5-9","Male",1044566
+2018,"New South Wales","50-54","Female",975757
+2018,"New South Wales","50-54","Male",945682
+2018,"New South Wales","55-59","Female",1000741
+2018,"New South Wales","55-59","Male",965874
+2018,"New South Wales","60-64","Female",903550
+2018,"New South Wales","60-64","Male",854540
+2018,"New South Wales","65-69","Female",796031
+2018,"New South Wales","65-69","Male",758996
+2018,"New South Wales","70-74","Female",675658
+2018,"New South Wales","70-74","Male",651644
+2018,"New South Wales","80-84","Female",358899
+2018,"New South Wales","80-84","Male",292638
+2018,"New South Wales","85 and over","Female",422732
+2018,"New South Wales","85 and over","Male",258079
+2018,"New South Wales","A75: 75-79","Female",482106
+2018,"New South Wales","A75: 75-79","Male",439688
+2018,"Northern Territory","0-4","Female",35941
+2018,"Northern Territory","0-4","Male",38310
+2018,"Northern Territory","10-14","Female",32272
+2018,"Northern Territory","10-14","Male",34133
+2018,"Northern Territory","15-19","Female",28673
+2018,"Northern Territory","15-19","Male",31893
+2018,"Northern Territory","20-24","Female",33218
+2018,"Northern Territory","20-24","Male",37453
+2018,"Northern Territory","25-29","Female",46695
+2018,"Northern Territory","25-29","Male",46775
+2018,"Northern Territory","30-34","Female",47475
+2018,"Northern Territory","30-34","Male",47218
+2018,"Northern Territory","35-39","Female",39655
+2018,"Northern Territory","35-39","Male",40940
+2018,"Northern Territory","40-44","Female",33380
+2018,"Northern Territory","40-44","Male",35249
+2018,"Northern Territory","45-49","Female",33075
+2018,"Northern Territory","45-49","Male",35452
+2018,"Northern Territory","5-9","Female",35683
+2018,"Northern Territory","5-9","Male",37691
+2018,"Northern Territory","50-54","Female",29776
+2018,"Northern Territory","50-54","Male",31254
+2018,"Northern Territory","55-59","Female",27157
+2018,"Northern Territory","55-59","Male",28732
+2018,"Northern Territory","60-64","Female",21005
+2018,"Northern Territory","60-64","Male",22974
+2018,"Northern Territory","65-69","Female",15026
+2018,"Northern Territory","65-69","Male",17238
+2018,"Northern Territory","70-74","Female",9356
+2018,"Northern Territory","70-74","Male",11106
+2018,"Northern Territory","80-84","Female",3009
+2018,"Northern Territory","80-84","Male",2750
+2018,"Northern Territory","85 and over","Female",2436
+2018,"Northern Territory","85 and over","Male",1810
+2018,"Northern Territory","A75: 75-79","Female",5560
+2018,"Northern Territory","A75: 75-79","Male",6325
+2018,"Queensland","0-4","Female",610901
+2018,"Queensland","0-4","Male",645855
+2018,"Queensland","10-14","Female",634416
+2018,"Queensland","10-14","Male",675567
+2018,"Queensland","15-19","Female",609805
+2018,"Queensland","15-19","Male",640920
+2018,"Queensland","20-24","Female",679541
+2018,"Queensland","20-24","Male",690379
+2018,"Queensland","25-29","Female",723126
+2018,"Queensland","25-29","Male",714329
+2018,"Queensland","30-34","Female",713818
+2018,"Queensland","30-34","Male",690607
+2018,"Queensland","35-39","Female",683161
+2018,"Queensland","35-39","Male",660223
+2018,"Queensland","40-44","Female",656374
+2018,"Queensland","40-44","Male",633094
+2018,"Queensland","45-49","Female",703149
+2018,"Queensland","45-49","Male",676223
+2018,"Queensland","5-9","Female",656252
+2018,"Queensland","5-9","Male",689748
+2018,"Queensland","50-54","Female",637143
+2018,"Queensland","50-54","Male",612982
+2018,"Queensland","55-59","Female",635088
+2018,"Queensland","55-59","Male",608546
+2018,"Queensland","60-64","Female",559198
+2018,"Queensland","60-64","Male",533083
+2018,"Queensland","65-69","Female",501034
+2018,"Queensland","65-69","Male",486291
+2018,"Queensland","70-74","Female",420883
+2018,"Queensland","70-74","Male",414367
+2018,"Queensland","80-84","Female",195142
+2018,"Queensland","80-84","Male",166078
+2018,"Queensland","85 and over","Female",219048
+2018,"Queensland","85 and over","Male",134582
+2018,"Queensland","A75: 75-79","Female",285734
+2018,"Queensland","A75: 75-79","Male",269868
+2018,"South Australia","0-4","Female",195035
+2018,"South Australia","0-4","Male",206040
+2018,"South Australia","10-14","Female",199550
+2018,"South Australia","10-14","Male",208546
+2018,"South Australia","15-19","Female",200936
+2018,"South Australia","15-19","Male",211713
+2018,"South Australia","20-24","Female",225634
+2018,"South Australia","20-24","Male",238804
+2018,"South Australia","25-29","Female",232877
+2018,"South Australia","25-29","Male",236161
+2018,"South Australia","30-34","Female",237724
+2018,"South Australia","30-34","Male",234362
+2018,"South Australia","35-39","Female",223560
+2018,"South Australia","35-39","Male",220379
+2018,"South Australia","40-44","Female",210425
+2018,"South Australia","40-44","Male",210357
+2018,"South Australia","45-49","Female",233995
+2018,"South Australia","45-49","Male",229311
+2018,"South Australia","5-9","Female",205408
+2018,"South Australia","5-9","Male",217022
+2018,"South Australia","50-54","Female",226696
+2018,"South Australia","50-54","Male",221333
+2018,"South Australia","55-59","Female",235289
+2018,"South Australia","55-59","Male",226623
+2018,"South Australia","60-64","Female",216337
+2018,"South Australia","60-64","Male",204112
+2018,"South Australia","65-69","Female",199918
+2018,"South Australia","65-69","Male",186374
+2018,"South Australia","70-74","Female",171306
+2018,"South Australia","70-74","Male",159281
+2018,"South Australia","80-84","Female",89994
+2018,"South Australia","80-84","Male",72920
+2018,"South Australia","85 and over","Female",111942
+2018,"South Australia","85 and over","Male",67418
+2018,"South Australia","A75: 75-79","Female",121697
+2018,"South Australia","A75: 75-79","Male",106877
+2018,"Tasmania","0-4","Female",57592
+2018,"Tasmania","0-4","Male",61288
+2018,"Tasmania","10-14","Female",62586
+2018,"Tasmania","10-14","Male",67109
+2018,"Tasmania","15-19","Female",60658
+2018,"Tasmania","15-19","Male",64986
+2018,"Tasmania","20-24","Female",63868
+2018,"Tasmania","20-24","Male",69374
+2018,"Tasmania","25-29","Female",69082
+2018,"Tasmania","25-29","Male",69997
+2018,"Tasmania","30-34","Female",67333
+2018,"Tasmania","30-34","Male",66041
+2018,"Tasmania","35-39","Female",63613
+2018,"Tasmania","35-39","Male",60831
+2018,"Tasmania","40-44","Female",62543
+2018,"Tasmania","40-44","Male",59968
+2018,"Tasmania","45-49","Female",72794
+2018,"Tasmania","45-49","Male",68925
+2018,"Tasmania","5-9","Female",62668
+2018,"Tasmania","5-9","Male",66799
+2018,"Tasmania","50-54","Female",71529
+2018,"Tasmania","50-54","Male",67140
+2018,"Tasmania","55-59","Female",79051
+2018,"Tasmania","55-59","Male",75262
+2018,"Tasmania","60-64","Female",73462
+2018,"Tasmania","60-64","Male",70527
+2018,"Tasmania","65-69","Female",67922
+2018,"Tasmania","65-69","Male",65594
+2018,"Tasmania","70-74","Female",56955
+2018,"Tasmania","70-74","Male",55567
+2018,"Tasmania","80-84","Female",27519
+2018,"Tasmania","80-84","Male",22968
+2018,"Tasmania","85 and over","Female",29710
+2018,"Tasmania","85 and over","Male",18339
+2018,"Tasmania","A75: 75-79","Female",38977
+2018,"Tasmania","A75: 75-79","Male",36636
+2018,"Victoria","0-4","Female",782287
+2018,"Victoria","0-4","Male",828629
+2018,"Victoria","10-14","Female",729747
+2018,"Victoria","10-14","Male",773505
+2018,"Victoria","15-19","Female",734860
+2018,"Victoria","15-19","Male",771508
+2018,"Victoria","20-24","Female",917078
+2018,"Victoria","20-24","Male",972988
+2018,"Victoria","25-29","Female",1018197
+2018,"Victoria","25-29","Male",1023525
+2018,"Victoria","30-34","Female",1018667
+2018,"Victoria","30-34","Male",996736
+2018,"Victoria","35-39","Female",921837
+2018,"Victoria","35-39","Male",911959
+2018,"Victoria","40-44","Female",832670
+2018,"Victoria","40-44","Male",820239
+2018,"Victoria","45-49","Female",877717
+2018,"Victoria","45-49","Male",835622
+2018,"Victoria","5-9","Female",783959
+2018,"Victoria","5-9","Male",827657
+2018,"Victoria","50-54","Female",794189
+2018,"Victoria","50-54","Male",759702
+2018,"Victoria","55-59","Female",779195
+2018,"Victoria","55-59","Male",743797
+2018,"Victoria","60-64","Female",699724
+2018,"Victoria","60-64","Male",654605
+2018,"Victoria","65-69","Female",620066
+2018,"Victoria","65-69","Male",575794
+2018,"Victoria","70-74","Female",520738
+2018,"Victoria","70-74","Male",487833
+2018,"Victoria","80-84","Female",279857
+2018,"Victoria","80-84","Male",225811
+2018,"Victoria","85 and over","Female",327588
+2018,"Victoria","85 and over","Male",200509
+2018,"Victoria","A75: 75-79","Female",372588
+2018,"Victoria","A75: 75-79","Male",334912
+2018,"Western Australia","0-4","Female",336717
+2018,"Western Australia","0-4","Male",356878
+2018,"Western Australia","10-14","Female",320750
+2018,"Western Australia","10-14","Male",338480
+2018,"Western Australia","15-19","Female",301460
+2018,"Western Australia","15-19","Male",317528
+2018,"Western Australia","20-24","Female",327925
+2018,"Western Australia","20-24","Male",347877
+2018,"Western Australia","25-29","Female",381511
+2018,"Western Australia","25-29","Male",385309
+2018,"Western Australia","30-34","Female",410864
+2018,"Western Australia","30-34","Male",413114
+2018,"Western Australia","35-39","Female",377406
+2018,"Western Australia","35-39","Male",382959
+2018,"Western Australia","40-44","Female",343198
+2018,"Western Australia","40-44","Male",347678
+2018,"Western Australia","45-49","Female",360595
+2018,"Western Australia","45-49","Male",364961
+2018,"Western Australia","5-9","Female",338913
+2018,"Western Australia","5-9","Male",356594
+2018,"Western Australia","50-54","Female",331212
+2018,"Western Australia","50-54","Male",332368
+2018,"Western Australia","55-59","Female",322873
+2018,"Western Australia","55-59","Male",318763
+2018,"Western Australia","60-64","Female",286674
+2018,"Western Australia","60-64","Male",275328
+2018,"Western Australia","65-69","Female",248356
+2018,"Western Australia","65-69","Male",239976
+2018,"Western Australia","70-74","Female",198307
+2018,"Western Australia","70-74","Male",195477
+2018,"Western Australia","80-84","Female",101163
+2018,"Western Australia","80-84","Male",83087
+2018,"Western Australia","85 and over","Female",111139
+2018,"Western Australia","85 and over","Male",68161
+2018,"Western Australia","A75: 75-79","Female",140001
+2018,"Western Australia","A75: 75-79","Male",129035
+2019,"Australian Capital Territory","0-4","Female",54551
+2019,"Australian Capital Territory","0-4","Male",57632
+2019,"Australian Capital Territory","10-14","Female",48769
+2019,"Australian Capital Territory","10-14","Male",52159
+2019,"Australian Capital Territory","15-19","Female",50338
+2019,"Australian Capital Territory","15-19","Male",52580
+2019,"Australian Capital Territory","20-24","Female",70775
+2019,"Australian Capital Territory","20-24","Male",71538
+2019,"Australian Capital Territory","25-29","Female",76568
+2019,"Australian Capital Territory","25-29","Male",75255
+2019,"Australian Capital Territory","30-34","Female",75327
+2019,"Australian Capital Territory","30-34","Male",72697
+2019,"Australian Capital Territory","35-39","Female",71349
+2019,"Australian Capital Territory","35-39","Male",70087
+2019,"Australian Capital Territory","40-44","Female",58956
+2019,"Australian Capital Territory","40-44","Male",59417
+2019,"Australian Capital Territory","45-49","Female",58538
+2019,"Australian Capital Territory","45-49","Male",57476
+2019,"Australian Capital Territory","5-9","Female",55591
+2019,"Australian Capital Territory","5-9","Male",58897
+2019,"Australian Capital Territory","50-54","Female",50893
+2019,"Australian Capital Territory","50-54","Male",49161
+2019,"Australian Capital Territory","55-59","Female",48413
+2019,"Australian Capital Territory","55-59","Male",45973
+2019,"Australian Capital Territory","60-64","Female",42477
+2019,"Australian Capital Territory","60-64","Male",38075
+2019,"Australian Capital Territory","65-69","Female",37634
+2019,"Australian Capital Territory","65-69","Male",33305
+2019,"Australian Capital Territory","70-74","Female",32342
+2019,"Australian Capital Territory","70-74","Male",29263
+2019,"Australian Capital Territory","80-84","Female",14948
+2019,"Australian Capital Territory","80-84","Male",11894
+2019,"Australian Capital Territory","85 and over","Female",15820
+2019,"Australian Capital Territory","85 and over","Male",10062
+2019,"Australian Capital Territory","A75: 75-79","Female",21450
+2019,"Australian Capital Territory","A75: 75-79","Male",18221
+2019,"New South Wales","0-4","Female",954337
+2019,"New South Wales","0-4","Male",1012638
+2019,"New South Wales","10-14","Female",954116
+2019,"New South Wales","10-14","Male",1012050
+2019,"New South Wales","15-19","Female",908850
+2019,"New South Wales","15-19","Male",975377
+2019,"New South Wales","20-24","Female",1063062
+2019,"New South Wales","20-24","Male",1128480
+2019,"New South Wales","25-29","Female",1195093
+2019,"New South Wales","25-29","Male",1212817
+2019,"New South Wales","30-34","Female",1202009
+2019,"New South Wales","30-34","Male",1189544
+2019,"New South Wales","35-39","Female",1138731
+2019,"New South Wales","35-39","Male",1134746
+2019,"New South Wales","40-44","Female",1020088
+2019,"New South Wales","40-44","Male",1005470
+2019,"New South Wales","45-49","Female",1067453
+2019,"New South Wales","45-49","Male",1041297
+2019,"New South Wales","5-9","Female",989731
+2019,"New South Wales","5-9","Male",1048126
+2019,"New South Wales","50-54","Female",976219
+2019,"New South Wales","50-54","Male",944170
+2019,"New South Wales","55-59","Female",1009955
+2019,"New South Wales","55-59","Male",974504
+2019,"New South Wales","60-64","Female",925152
+2019,"New South Wales","60-64","Male",873039
+2019,"New South Wales","65-69","Female",813743
+2019,"New South Wales","65-69","Male",767466
+2019,"New South Wales","70-74","Female",702446
+2019,"New South Wales","70-74","Male",673677
+2019,"New South Wales","80-84","Female",369905
+2019,"New South Wales","80-84","Male",304245
+2019,"New South Wales","85 and over","Female",425391
+2019,"New South Wales","85 and over","Male",264096
+2019,"New South Wales","A75: 75-79","Female",500546
+2019,"New South Wales","A75: 75-79","Male",460881
+2019,"Northern Territory","0-4","Female",34957
+2019,"Northern Territory","0-4","Male",37527
+2019,"Northern Territory","10-14","Female",32620
+2019,"Northern Territory","10-14","Male",34386
+2019,"Northern Territory","15-19","Female",28732
+2019,"Northern Territory","15-19","Male",31789
+2019,"Northern Territory","20-24","Female",33102
+2019,"Northern Territory","20-24","Male",37078
+2019,"Northern Territory","25-29","Female",46646
+2019,"Northern Territory","25-29","Male",45801
+2019,"Northern Territory","30-34","Female",47377
+2019,"Northern Territory","30-34","Male",46724
+2019,"Northern Territory","35-39","Female",40371
+2019,"Northern Territory","35-39","Male",41030
+2019,"Northern Territory","40-44","Female",33692
+2019,"Northern Territory","40-44","Male",34475
+2019,"Northern Territory","45-49","Female",32731
+2019,"Northern Territory","45-49","Male",34559
+2019,"Northern Territory","5-9","Female",35332
+2019,"Northern Territory","5-9","Male",37256
+2019,"Northern Territory","50-54","Female",29941
+2019,"Northern Territory","50-54","Male",30944
+2019,"Northern Territory","55-59","Female",27120
+2019,"Northern Territory","55-59","Male",28594
+2019,"Northern Territory","60-64","Female",21696
+2019,"Northern Territory","60-64","Male",22950
+2019,"Northern Territory","65-69","Female",15696
+2019,"Northern Territory","65-69","Male",17390
+2019,"Northern Territory","70-74","Female",10035
+2019,"Northern Territory","70-74","Male",11833
+2019,"Northern Territory","80-84","Female",3122
+2019,"Northern Territory","80-84","Male",2956
+2019,"Northern Territory","85 and over","Female",2508
+2019,"Northern Territory","85 and over","Male",1856
+2019,"Northern Territory","A75: 75-79","Female",5944
+2019,"Northern Territory","A75: 75-79","Male",6695
+2019,"Queensland","0-4","Female",605225
+2019,"Queensland","0-4","Male",640938
+2019,"Queensland","10-14","Female",653829
+2019,"Queensland","10-14","Male",698093
+2019,"Queensland","15-19","Female",613814
+2019,"Queensland","15-19","Male",645647
+2019,"Queensland","20-24","Female",679162
+2019,"Queensland","20-24","Male",691986
+2019,"Queensland","25-29","Female",731492
+2019,"Queensland","25-29","Male",724164
+2019,"Queensland","30-34","Female",723677
+2019,"Queensland","30-34","Male",699319
+2019,"Queensland","35-39","Female",706426
+2019,"Queensland","35-39","Male",680955
+2019,"Queensland","40-44","Female",659630
+2019,"Queensland","40-44","Male",631060
+2019,"Queensland","45-49","Female",708233
+2019,"Queensland","45-49","Male",685168
+2019,"Queensland","5-9","Female",658425
+2019,"Queensland","5-9","Male",692863
+2019,"Queensland","50-54","Female",643879
+2019,"Queensland","50-54","Male",619652
+2019,"Queensland","55-59","Female",647142
+2019,"Queensland","55-59","Male",619400
+2019,"Queensland","60-64","Female",576766
+2019,"Queensland","60-64","Male",548658
+2019,"Queensland","65-69","Female",513444
+2019,"Queensland","65-69","Male",492432
+2019,"Queensland","70-74","Female",443162
+2019,"Queensland","70-74","Male",433419
+2019,"Queensland","80-84","Female",205085
+2019,"Queensland","80-84","Male",176280
+2019,"Queensland","85 and over","Female",222158
+2019,"Queensland","85 and over","Male",139098
+2019,"Queensland","A75: 75-79","Female",302082
+2019,"Queensland","A75: 75-79","Male",286671
+2019,"South Australia","0-4","Female",193457
+2019,"South Australia","0-4","Male",203834
+2019,"South Australia","10-14","Female",204510
+2019,"South Australia","10-14","Male",213491
+2019,"South Australia","15-19","Female",199651
+2019,"South Australia","15-19","Male",210820
+2019,"South Australia","20-24","Female",225490
+2019,"South Australia","20-24","Male",240862
+2019,"South Australia","25-29","Female",235863
+2019,"South Australia","25-29","Male",239462
+2019,"South Australia","30-34","Female",240448
+2019,"South Australia","30-34","Male",237332
+2019,"South Australia","35-39","Female",232089
+2019,"South Australia","35-39","Male",228114
+2019,"South Australia","40-44","Female",211700
+2019,"South Australia","40-44","Male",209645
+2019,"South Australia","45-49","Female",231436
+2019,"South Australia","45-49","Male",227858
+2019,"South Australia","5-9","Female",206242
+2019,"South Australia","5-9","Male",218163
+2019,"South Australia","50-54","Female",227119
+2019,"South Australia","50-54","Male",221908
+2019,"South Australia","55-59","Female",236551
+2019,"South Australia","55-59","Male",227950
+2019,"South Australia","60-64","Female",222368
+2019,"South Australia","60-64","Male",208813
+2019,"South Australia","65-69","Female",203983
+2019,"South Australia","65-69","Male",188879
+2019,"South Australia","70-74","Female",179985
+2019,"South Australia","70-74","Male",166585
+2019,"South Australia","80-84","Female",93295
+2019,"South Australia","80-84","Male",75446
+2019,"South Australia","85 and over","Female",112517
+2019,"South Australia","85 and over","Male",69105
+2019,"South Australia","A75: 75-79","Female",126448
+2019,"South Australia","A75: 75-79","Male",111799
+2019,"Tasmania","0-4","Female",57327
+2019,"Tasmania","0-4","Male",61193
+2019,"Tasmania","10-14","Female",64554
+2019,"Tasmania","10-14","Male",69157
+2019,"Tasmania","15-19","Female",59824
+2019,"Tasmania","15-19","Male",64055
+2019,"Tasmania","20-24","Female",64411
+2019,"Tasmania","20-24","Male",68728
+2019,"Tasmania","25-29","Female",73133
+2019,"Tasmania","25-29","Male",74133
+2019,"Tasmania","30-34","Female",70743
+2019,"Tasmania","30-34","Male",69797
+2019,"Tasmania","35-39","Female",66572
+2019,"Tasmania","35-39","Male",63658
+2019,"Tasmania","40-44","Female",62859
+2019,"Tasmania","40-44","Male",60139
+2019,"Tasmania","45-49","Female",72074
+2019,"Tasmania","45-49","Male",68460
+2019,"Tasmania","5-9","Female",62772
+2019,"Tasmania","5-9","Male",66617
+2019,"Tasmania","50-54","Female",71435
+2019,"Tasmania","50-54","Male",67277
+2019,"Tasmania","55-59","Female",79405
+2019,"Tasmania","55-59","Male",75660
+2019,"Tasmania","60-64","Female",75303
+2019,"Tasmania","60-64","Male",72569
+2019,"Tasmania","65-69","Female",69370
+2019,"Tasmania","65-69","Male",66436
+2019,"Tasmania","70-74","Female",59924
+2019,"Tasmania","70-74","Male",57778
+2019,"Tasmania","80-84","Female",28533
+2019,"Tasmania","80-84","Male",24145
+2019,"Tasmania","85 and over","Female",30240
+2019,"Tasmania","85 and over","Male",18925
+2019,"Tasmania","A75: 75-79","Female",40917
+2019,"Tasmania","A75: 75-79","Male",38808
+2019,"Victoria","0-4","Female",779720
+2019,"Victoria","0-4","Male",823506
+2019,"Victoria","10-14","Female",751242
+2019,"Victoria","10-14","Male",795546
+2019,"Victoria","15-19","Female",737043
+2019,"Victoria","15-19","Male",778667
+2019,"Victoria","20-24","Female",913152
+2019,"Victoria","20-24","Male",981274
+2019,"Victoria","25-29","Female",1033469
+2019,"Victoria","25-29","Male",1049600
+2019,"Victoria","30-34","Female",1042143
+2019,"Victoria","30-34","Male",1019049
+2019,"Victoria","35-39","Female",960101
+2019,"Victoria","35-39","Male",948582
+2019,"Victoria","40-44","Female",840452
+2019,"Victoria","40-44","Male",827328
+2019,"Victoria","45-49","Female",879454
+2019,"Victoria","45-49","Male",840296
+2019,"Victoria","5-9","Female",793936
+2019,"Victoria","5-9","Male",837802
+2019,"Victoria","50-54","Female",805984
+2019,"Victoria","50-54","Male",770039
+2019,"Victoria","55-59","Female",792105
+2019,"Victoria","55-59","Male",752764
+2019,"Victoria","60-64","Female",720646
+2019,"Victoria","60-64","Male",673436
+2019,"Victoria","65-69","Female",635053
+2019,"Victoria","65-69","Male",584500
+2019,"Victoria","70-74","Female",545161
+2019,"Victoria","70-74","Male",506859
+2019,"Victoria","80-84","Female",288327
+2019,"Victoria","80-84","Male",234496
+2019,"Victoria","85 and over","Female",332178
+2019,"Victoria","85 and over","Male",206102
+2019,"Victoria","A75: 75-79","Female",386289
+2019,"Victoria","A75: 75-79","Male",347668
+2019,"Western Australia","0-4","Female",335181
+2019,"Western Australia","0-4","Male",357481
+2019,"Western Australia","10-14","Female",330545
+2019,"Western Australia","10-14","Male",349842
+2019,"Western Australia","15-19","Female",302742
+2019,"Western Australia","15-19","Male",320600
+2019,"Western Australia","20-24","Female",329132
+2019,"Western Australia","20-24","Male",350196
+2019,"Western Australia","25-29","Female",378210
+2019,"Western Australia","25-29","Male",380112
+2019,"Western Australia","30-34","Female",413537
+2019,"Western Australia","30-34","Male",412381
+2019,"Western Australia","35-39","Female",391806
+2019,"Western Australia","35-39","Male",396449
+2019,"Western Australia","40-44","Female",348139
+2019,"Western Australia","40-44","Male",350347
+2019,"Western Australia","45-49","Female",360994
+2019,"Western Australia","45-49","Male",366209
+2019,"Western Australia","5-9","Female",343568
+2019,"Western Australia","5-9","Male",360804
+2019,"Western Australia","50-54","Female",336348
+2019,"Western Australia","50-54","Male",337780
+2019,"Western Australia","55-59","Female",329388
+2019,"Western Australia","55-59","Male",325863
+2019,"Western Australia","60-64","Female",296269
+2019,"Western Australia","60-64","Male",284556
+2019,"Western Australia","65-69","Female",256939
+2019,"Western Australia","65-69","Male",245054
+2019,"Western Australia","70-74","Female",211699
+2019,"Western Australia","70-74","Male",206833
+2019,"Western Australia","80-84","Female",106147
+2019,"Western Australia","80-84","Male",88418
+2019,"Western Australia","85 and over","Female",114286
+2019,"Western Australia","85 and over","Male",71161
+2019,"Western Australia","A75: 75-79","Female",146499
+2019,"Western Australia","A75: 75-79","Male",136796
+2020,"Australian Capital Territory","0-4","Female",53861
+2020,"Australian Capital Territory","0-4","Male",56688
+2020,"Australian Capital Territory","10-14","Female",51307
+2020,"Australian Capital Territory","10-14","Male",54633
+2020,"Australian Capital Territory","15-19","Female",50078
+2020,"Australian Capital Territory","15-19","Male",52179
+2020,"Australian Capital Territory","20-24","Female",68815
+2020,"Australian Capital Territory","20-24","Male",69324
+2020,"Australian Capital Territory","25-29","Female",77166
+2020,"Australian Capital Territory","25-29","Male",76859
+2020,"Australian Capital Territory","30-34","Female",76845
+2020,"Australian Capital Territory","30-34","Male",75215
+2020,"Australian Capital Territory","35-39","Female",73954
+2020,"Australian Capital Territory","35-39","Male",72401
+2020,"Australian Capital Territory","40-44","Female",61513
+2020,"Australian Capital Territory","40-44","Male",60896
+2020,"Australian Capital Territory","45-49","Female",59042
+2020,"Australian Capital Territory","45-49","Male",58179
+2020,"Australian Capital Territory","5-9","Female",56606
+2020,"Australian Capital Territory","5-9","Male",59678
+2020,"Australian Capital Territory","50-54","Female",52184
+2020,"Australian Capital Territory","50-54","Male",50734
+2020,"Australian Capital Territory","55-59","Female",49052
+2020,"Australian Capital Territory","55-59","Male",46347
+2020,"Australian Capital Territory","60-64","Female",44013
+2020,"Australian Capital Territory","60-64","Male",39372
+2020,"Australian Capital Territory","65-69","Female",38470
+2020,"Australian Capital Territory","65-69","Male",33463
+2020,"Australian Capital Territory","70-74","Female",34325
+2020,"Australian Capital Territory","70-74","Male",30610
+2020,"Australian Capital Territory","80-84","Female",15742
+2020,"Australian Capital Territory","80-84","Male",12452
+2020,"Australian Capital Territory","85 and over","Female",16228
+2020,"Australian Capital Territory","85 and over","Male",10634
+2020,"Australian Capital Territory","A75: 75-79","Female",22968
+2020,"Australian Capital Territory","A75: 75-79","Male",19504
+2020,"New South Wales","0-4","Female",939700
+2020,"New South Wales","0-4","Male",997046
+2020,"New South Wales","10-14","Female",975197
+2020,"New South Wales","10-14","Male",1033120
+2020,"New South Wales","15-19","Female",897510
+2020,"New South Wales","15-19","Male",964460
+2020,"New South Wales","20-24","Female",1023344
+2020,"New South Wales","20-24","Male",1094804
+2020,"New South Wales","25-29","Female",1170124
+2020,"New South Wales","25-29","Male",1188061
+2020,"New South Wales","30-34","Female",1206632
+2020,"New South Wales","30-34","Male",1193681
+2020,"New South Wales","35-39","Female",1162138
+2020,"New South Wales","35-39","Male",1158140
+2020,"New South Wales","40-44","Female",1033505
+2020,"New South Wales","40-44","Male",1015219
+2020,"New South Wales","45-49","Female",1061668
+2020,"New South Wales","45-49","Male",1040701
+2020,"New South Wales","5-9","Female",985945
+2020,"New South Wales","5-9","Male",1046994
+2020,"New South Wales","50-54","Female",988423
+2020,"New South Wales","50-54","Male",956381
+2020,"New South Wales","55-59","Female",1009672
+2020,"New South Wales","55-59","Male",974907
+2020,"New South Wales","60-64","Female",950055
+2020,"New South Wales","60-64","Male",893981
+2020,"New South Wales","65-69","Female",834971
+2020,"New South Wales","65-69","Male",780992
+2020,"New South Wales","70-74","Female",731317
+2020,"New South Wales","70-74","Male",696582
+2020,"New South Wales","80-84","Female",380797
+2020,"New South Wales","80-84","Male",318174
+2020,"New South Wales","85 and over","Female",431999
+2020,"New South Wales","85 and over","Male",272233
+2020,"New South Wales","A75: 75-79","Female",523618
+2020,"New South Wales","A75: 75-79","Male",483725
+2020,"Northern Territory","0-4","Female",34202
+2020,"Northern Territory","0-4","Male",36864
+2020,"Northern Territory","10-14","Female",32959
+2020,"Northern Territory","10-14","Male",35114
+2020,"Northern Territory","15-19","Female",29251
+2020,"Northern Territory","15-19","Male",31794
+2020,"Northern Territory","20-24","Female",32666
+2020,"Northern Territory","20-24","Male",36502
+2020,"Northern Territory","25-29","Female",46271
+2020,"Northern Territory","25-29","Male",45080
+2020,"Northern Territory","30-34","Female",47369
+2020,"Northern Territory","30-34","Male",46723
+2020,"Northern Territory","35-39","Female",41316
+2020,"Northern Territory","35-39","Male",41134
+2020,"Northern Territory","40-44","Female",34405
+2020,"Northern Territory","40-44","Male",34100
+2020,"Northern Territory","45-49","Female",31973
+2020,"Northern Territory","45-49","Male",33486
+2020,"Northern Territory","5-9","Female",35310
+2020,"Northern Territory","5-9","Male",37053
+2020,"Northern Territory","50-54","Female",30631
+2020,"Northern Territory","50-54","Male",31143
+2020,"Northern Territory","55-59","Female",27210
+2020,"Northern Territory","55-59","Male",28573
+2020,"Northern Territory","60-64","Female",22643
+2020,"Northern Territory","60-64","Male",23530
+2020,"Northern Territory","65-69","Female",16493
+2020,"Northern Territory","65-69","Male",17855
+2020,"Northern Territory","70-74","Female",11056
+2020,"Northern Territory","70-74","Male",12642
+2020,"Northern Territory","80-84","Female",3490
+2020,"Northern Territory","80-84","Male",3432
+2020,"Northern Territory","85 and over","Female",2629
+2020,"Northern Territory","85 and over","Male",1916
+2020,"Northern Territory","A75: 75-79","Female",6154
+2020,"Northern Territory","A75: 75-79","Male",7002
+2020,"Queensland","0-4","Female",594685
+2020,"Queensland","0-4","Male",630612
+2020,"Queensland","10-14","Female",671083
+2020,"Queensland","10-14","Male",715066
+2020,"Queensland","15-19","Female",616121
+2020,"Queensland","15-19","Male",648807
+2020,"Queensland","20-24","Female",668345
+2020,"Queensland","20-24","Male",684612
+2020,"Queensland","25-29","Female",729385
+2020,"Queensland","25-29","Male",722345
+2020,"Queensland","30-34","Female",731266
+2020,"Queensland","30-34","Male",709290
+2020,"Queensland","35-39","Female",725578
+2020,"Queensland","35-39","Male",699615
+2020,"Queensland","40-44","Female",669583
+2020,"Queensland","40-44","Male",636506
+2020,"Queensland","45-49","Female",706585
+2020,"Queensland","45-49","Male",685768
+2020,"Queensland","5-9","Female",656124
+2020,"Queensland","5-9","Male",693068
+2020,"Queensland","50-54","Female",659841
+2020,"Queensland","50-54","Male",635770
+2020,"Queensland","55-59","Female",653575
+2020,"Queensland","55-59","Male",624855
+2020,"Queensland","60-64","Female",596866
+2020,"Queensland","60-64","Male",566536
+2020,"Queensland","65-69","Female",526367
+2020,"Queensland","65-69","Male",501064
+2020,"Queensland","70-74","Female",465138
+2020,"Queensland","70-74","Male",449969
+2020,"Queensland","80-84","Female",215109
+2020,"Queensland","80-84","Male",187468
+2020,"Queensland","85 and over","Female",227607
+2020,"Queensland","85 and over","Male",145115
+2020,"Queensland","A75: 75-79","Female",321919
+2020,"Queensland","A75: 75-79","Male",305675
+2020,"South Australia","0-4","Female",191572
+2020,"South Australia","0-4","Male",200864
+2020,"South Australia","10-14","Female",208429
+2020,"South Australia","10-14","Male",218636
+2020,"South Australia","15-19","Female",197887
+2020,"South Australia","15-19","Male",209464
+2020,"South Australia","20-24","Female",221939
+2020,"South Australia","20-24","Male",238314
+2020,"South Australia","25-29","Female",237540
+2020,"South Australia","25-29","Male",242857
+2020,"South Australia","30-34","Female",242966
+2020,"South Australia","30-34","Male",239944
+2020,"South Australia","35-39","Female",239290
+2020,"South Australia","35-39","Male",235604
+2020,"South Australia","40-44","Female",215388
+2020,"South Australia","40-44","Male",210627
+2020,"South Australia","45-49","Female",227801
+2020,"South Australia","45-49","Male",225220
+2020,"South Australia","5-9","Female",206730
+2020,"South Australia","5-9","Male",218045
+2020,"South Australia","50-54","Female",229527
+2020,"South Australia","50-54","Male",224570
+2020,"South Australia","55-59","Female",237056
+2020,"South Australia","55-59","Male",228230
+2020,"South Australia","60-64","Female",229405
+2020,"South Australia","60-64","Male",214059
+2020,"South Australia","65-69","Female",208133
+2020,"South Australia","65-69","Male",192265
+2020,"South Australia","70-74","Female",188366
+2020,"South Australia","70-74","Male",173549
+2020,"South Australia","80-84","Female",96828
+2020,"South Australia","80-84","Male",78509
+2020,"South Australia","85 and over","Female",113444
+2020,"South Australia","85 and over","Male",70731
+2020,"South Australia","A75: 75-79","Female",132990
+2020,"South Australia","A75: 75-79","Male",118115
+2020,"Tasmania","0-4","Female",57066
+2020,"Tasmania","0-4","Male",60852
+2020,"Tasmania","10-14","Female",65516
+2020,"Tasmania","10-14","Male",70339
+2020,"Tasmania","15-19","Female",59427
+2020,"Tasmania","15-19","Male",63933
+2020,"Tasmania","20-24","Female",63257
+2020,"Tasmania","20-24","Male",66796
+2020,"Tasmania","25-29","Female",75682
+2020,"Tasmania","25-29","Male",77349
+2020,"Tasmania","30-34","Female",74091
+2020,"Tasmania","30-34","Male",74420
+2020,"Tasmania","35-39","Female",69730
+2020,"Tasmania","35-39","Male",67097
+2020,"Tasmania","40-44","Female",63784
+2020,"Tasmania","40-44","Male",60604
+2020,"Tasmania","45-49","Female",70912
+2020,"Tasmania","45-49","Male",67646
+2020,"Tasmania","5-9","Female",62868
+2020,"Tasmania","5-9","Male",66256
+2020,"Tasmania","50-54","Female",72575
+2020,"Tasmania","50-54","Male",68477
+2020,"Tasmania","55-59","Female",78619
+2020,"Tasmania","55-59","Male",74909
+2020,"Tasmania","60-64","Female",77652
+2020,"Tasmania","60-64","Male",74061
+2020,"Tasmania","65-69","Female",70435
+2020,"Tasmania","65-69","Male",67423
+2020,"Tasmania","70-74","Female",62823
+2020,"Tasmania","70-74","Male",60383
+2020,"Tasmania","80-84","Female",29926
+2020,"Tasmania","80-84","Male",25590
+2020,"Tasmania","85 and over","Female",30828
+2020,"Tasmania","85 and over","Male",19668
+2020,"Tasmania","A75: 75-79","Female",43223
+2020,"Tasmania","A75: 75-79","Male",40644
+2020,"Victoria","0-4","Female",765966
+2020,"Victoria","0-4","Male",807497
+2020,"Victoria","10-14","Female",769644
+2020,"Victoria","10-14","Male",812976
+2020,"Victoria","15-19","Female",723944
+2020,"Victoria","15-19","Male",767887
+2020,"Victoria","20-24","Female",870123
+2020,"Victoria","20-24","Male",937572
+2020,"Victoria","25-29","Female",1013807
+2020,"Victoria","25-29","Male",1037738
+2020,"Victoria","30-34","Female",1050030
+2020,"Victoria","30-34","Male",1025914
+2020,"Victoria","35-39","Female",988991
+2020,"Victoria","35-39","Male",976137
+2020,"Victoria","40-44","Female",854220
+2020,"Victoria","40-44","Male",838441
+2020,"Victoria","45-49","Female",872230
+2020,"Victoria","45-49","Male",837222
+2020,"Victoria","5-9","Female",796355
+2020,"Victoria","5-9","Male",841452
+2020,"Victoria","50-54","Female",822225
+2020,"Victoria","50-54","Male",784901
+2020,"Victoria","55-59","Female",798390
+2020,"Victoria","55-59","Male",756748
+2020,"Victoria","60-64","Female",743855
+2020,"Victoria","60-64","Male",690150
+2020,"Victoria","65-69","Female",653114
+2020,"Victoria","65-69","Male",598085
+2020,"Victoria","70-74","Female",572096
+2020,"Victoria","70-74","Male",525498
+2020,"Victoria","80-84","Female",297637
+2020,"Victoria","80-84","Male",244623
+2020,"Victoria","85 and over","Female",336874
+2020,"Victoria","85 and over","Male",211575
+2020,"Victoria","A75: 75-79","Female",403009
+2020,"Victoria","A75: 75-79","Male",363388
+2020,"Western Australia","0-4","Female",333048
+2020,"Western Australia","0-4","Male",354400
+2020,"Western Australia","10-14","Female",340846
+2020,"Western Australia","10-14","Male",360883
+2020,"Western Australia","15-19","Female",304666
+2020,"Western Australia","15-19","Male",323841
+2020,"Western Australia","20-24","Female",328390
+2020,"Western Australia","20-24","Male",349297
+2020,"Western Australia","25-29","Female",373882
+2020,"Western Australia","25-29","Male",377382
+2020,"Western Australia","30-34","Female",415452
+2020,"Western Australia","30-34","Male",411658
+2020,"Western Australia","35-39","Female",405599
+2020,"Western Australia","35-39","Male",409762
+2020,"Western Australia","40-44","Female",356535
+2020,"Western Australia","40-44","Male",357135
+2020,"Western Australia","45-49","Female",361251
+2020,"Western Australia","45-49","Male",365863
+2020,"Western Australia","5-9","Female",347021
+2020,"Western Australia","5-9","Male",365643
+2020,"Western Australia","50-54","Female",344074
+2020,"Western Australia","50-54","Male",347047
+2020,"Western Australia","55-59","Female",334543
+2020,"Western Australia","55-59","Male",331685
+2020,"Western Australia","60-64","Female",307518
+2020,"Western Australia","60-64","Male",295349
+2020,"Western Australia","65-69","Female",268046
+2020,"Western Australia","65-69","Male",252390
+2020,"Western Australia","70-74","Female",226315
+2020,"Western Australia","70-74","Male",218910
+2020,"Western Australia","80-84","Female",111362
+2020,"Western Australia","80-84","Male",93860
+2020,"Western Australia","85 and over","Female",118413
+2020,"Western Australia","85 and over","Male",75730
+2020,"Western Australia","A75: 75-79","Female",154058
+2020,"Western Australia","A75: 75-79","Male",145596
+2021,"Australian Capital Territory","0-4","Female",52615
+2021,"Australian Capital Territory","0-4","Male",55448
+2021,"Australian Capital Territory","10-14","Female",52806
+2021,"Australian Capital Territory","10-14","Male",56013
+2021,"Australian Capital Territory","15-19","Female",51470
+2021,"Australian Capital Territory","15-19","Male",53142
+2021,"Australian Capital Territory","20-24","Female",68693
+2021,"Australian Capital Territory","20-24","Male",68777
+2021,"Australian Capital Territory","25-29","Female",78329
+2021,"Australian Capital Territory","25-29","Male",79282
+2021,"Australian Capital Territory","30-34","Female",77833
+2021,"Australian Capital Territory","30-34","Male",76882
+2021,"Australian Capital Territory","35-39","Female",74930
+2021,"Australian Capital Territory","35-39","Male",73577
+2021,"Australian Capital Territory","40-44","Female",64192
+2021,"Australian Capital Territory","40-44","Male",63001
+2021,"Australian Capital Territory","45-49","Female",58434
+2021,"Australian Capital Territory","45-49","Male",57600
+2021,"Australian Capital Territory","5-9","Female",56829
+2021,"Australian Capital Territory","5-9","Male",59705
+2021,"Australian Capital Territory","50-54","Female",53505
+2021,"Australian Capital Territory","50-54","Male",52686
+2021,"Australian Capital Territory","55-59","Female",48302
+2021,"Australian Capital Territory","55-59","Male",45925
+2021,"Australian Capital Territory","60-64","Female",44323
+2021,"Australian Capital Territory","60-64","Male",40049
+2021,"Australian Capital Territory","65-69","Female",38543
+2021,"Australian Capital Territory","65-69","Male",33391
+2021,"Australian Capital Territory","70-74","Female",35707
+2021,"Australian Capital Territory","70-74","Male",30801
+2021,"Australian Capital Territory","80-84","Female",16638
+2021,"Australian Capital Territory","80-84","Male",13063
+2021,"Australian Capital Territory","85 and over","Female",16912
+2021,"Australian Capital Territory","85 and over","Male",11202
+2021,"Australian Capital Territory","A75: 75-79","Female",24679
+2021,"Australian Capital Territory","A75: 75-79","Male",21295
+2021,"New South Wales","0-4","Female",929623
+2021,"New South Wales","0-4","Male",987174
+2021,"New South Wales","10-14","Female",987107
+2021,"New South Wales","10-14","Male",1046450
+2021,"New South Wales","15-19","Female",894056
+2021,"New South Wales","15-19","Male",958971
+2021,"New South Wales","20-24","Female",970042
+2021,"New South Wales","20-24","Male",1047154
+2021,"New South Wales","25-29","Female",1120640
+2021,"New South Wales","25-29","Male",1142136
+2021,"New South Wales","30-34","Female",1200320
+2021,"New South Wales","30-34","Male",1181148
+2021,"New South Wales","35-39","Female",1172135
+2021,"New South Wales","35-39","Male",1166305
+2021,"New South Wales","40-44","Female",1055018
+2021,"New South Wales","40-44","Male",1033543
+2021,"New South Wales","45-49","Female",1039777
+2021,"New South Wales","45-49","Male",1022496
+2021,"New South Wales","5-9","Female",980031
+2021,"New South Wales","5-9","Male",1042160
+2021,"New South Wales","50-54","Female",1011635
+2021,"New South Wales","50-54","Male",979328
+2021,"New South Wales","55-59","Female",988928
+2021,"New South Wales","55-59","Male",962766
+2021,"New South Wales","60-64","Female",961950
+2021,"New South Wales","60-64","Male",909296
+2021,"New South Wales","65-69","Female",845639
+2021,"New South Wales","65-69","Male",788039
+2021,"New South Wales","70-74","Female",749369
+2021,"New South Wales","70-74","Male",706931
+2021,"New South Wales","80-84","Female",389706
+2021,"New South Wales","80-84","Male",329424
+2021,"New South Wales","85 and over","Female",440488
+2021,"New South Wales","85 and over","Male",282279
+2021,"New South Wales","A75: 75-79","Female",549059
+2021,"New South Wales","A75: 75-79","Male",508680
+2021,"Northern Territory","0-4","Female",33578
+2021,"Northern Territory","0-4","Male",36449
+2021,"Northern Territory","10-14","Female",32827
+2021,"Northern Territory","10-14","Male",35414
+2021,"Northern Territory","15-19","Female",29266
+2021,"Northern Territory","15-19","Male",31526
+2021,"Northern Territory","20-24","Female",32019
+2021,"Northern Territory","20-24","Male",36240
+2021,"Northern Territory","25-29","Female",45946
+2021,"Northern Territory","25-29","Male",44841
+2021,"Northern Territory","30-34","Female",47851
+2021,"Northern Territory","30-34","Male",46729
+2021,"Northern Territory","35-39","Female",41878
+2021,"Northern Territory","35-39","Male",41268
+2021,"Northern Territory","40-44","Female",34984
+2021,"Northern Territory","40-44","Male",34451
+2021,"Northern Territory","45-49","Female",31420
+2021,"Northern Territory","45-49","Male",32588
+2021,"Northern Territory","5-9","Female",35339
+2021,"Northern Territory","5-9","Male",36792
+2021,"Northern Territory","50-54","Female",31171
+2021,"Northern Territory","50-54","Male",31715
+2021,"Northern Territory","55-59","Female",26844
+2021,"Northern Territory","55-59","Male",28332
+2021,"Northern Territory","60-64","Female",23054
+2021,"Northern Territory","60-64","Male",23754
+2021,"Northern Territory","65-69","Female",16876
+2021,"Northern Territory","65-69","Male",18160
+2021,"Northern Territory","70-74","Female",11852
+2021,"Northern Territory","70-74","Male",13236
+2021,"Northern Territory","80-84","Female",4001
+2021,"Northern Territory","80-84","Male",3814
+2021,"Northern Territory","85 and over","Female",2747
+2021,"Northern Territory","85 and over","Male",2080
+2021,"Northern Territory","A75: 75-79","Female",6477
+2021,"Northern Territory","A75: 75-79","Male",7329
+2021,"Queensland","0-4","Female",587210
+2021,"Queensland","0-4","Male",623894
+2021,"Queensland","10-14","Female",681857
+2021,"Queensland","10-14","Male",723950
+2021,"Queensland","15-19","Female",623169
+2021,"Queensland","15-19","Male",657154
+2021,"Queensland","20-24","Female",652489
+2021,"Queensland","20-24","Male",674204
+2021,"Queensland","25-29","Female",715152
+2021,"Queensland","25-29","Male",712385
+2021,"Queensland","30-34","Female",737687
+2021,"Queensland","30-34","Male",716624
+2021,"Queensland","35-39","Female",740066
+2021,"Queensland","35-39","Male",715212
+2021,"Queensland","40-44","Female",685597
+2021,"Queensland","40-44","Male",651383
+2021,"Queensland","45-49","Female",696915
+2021,"Queensland","45-49","Male",677219
+2021,"Queensland","5-9","Female",653636
+2021,"Queensland","5-9","Male",692162
+2021,"Queensland","50-54","Female",682631
+2021,"Queensland","50-54","Male",661094
+2021,"Queensland","55-59","Female",650801
+2021,"Queensland","55-59","Male",624737
+2021,"Queensland","60-64","Female",615566
+2021,"Queensland","60-64","Male",584138
+2021,"Queensland","65-69","Female",538253
+2021,"Queensland","65-69","Male",510342
+2021,"Queensland","70-74","Female",482910
+2021,"Queensland","70-74","Male",462213
+2021,"Queensland","80-84","Female",225151
+2021,"Queensland","80-84","Male",198205
+2021,"Queensland","85 and over","Female",233620
+2021,"Queensland","85 and over","Male",152348
+2021,"Queensland","A75: 75-79","Female",344557
+2021,"Queensland","A75: 75-79","Male",327099
+2021,"South Australia","0-4","Female",190490
+2021,"South Australia","0-4","Male",199400
+2021,"South Australia","10-14","Female",210664
+2021,"South Australia","10-14","Male",220724
+2021,"South Australia","15-19","Female",196403
+2021,"South Australia","15-19","Male",208169
+2021,"South Australia","20-24","Female",215582
+2021,"South Australia","20-24","Male",231571
+2021,"South Australia","25-29","Female",235953
+2021,"South Australia","25-29","Male",244128
+2021,"South Australia","30-34","Female",242894
+2021,"South Australia","30-34","Male",241320
+2021,"South Australia","35-39","Female",243681
+2021,"South Australia","35-39","Male",240265
+2021,"South Australia","40-44","Female",220183
+2021,"South Australia","40-44","Male",213875
+2021,"South Australia","45-49","Female",222468
+2021,"South Australia","45-49","Male",220102
+2021,"South Australia","5-9","Female",206120
+2021,"South Australia","5-9","Male",216915
+2021,"South Australia","50-54","Female",232958
+2021,"South Australia","50-54","Male",229027
+2021,"South Australia","55-59","Female",234137
+2021,"South Australia","55-59","Male",225962
+2021,"South Australia","60-64","Female",233235
+2021,"South Australia","60-64","Male",218930
+2021,"South Australia","65-69","Female",210954
+2021,"South Australia","65-69","Male",194694
+2021,"South Australia","70-74","Female",194447
+2021,"South Australia","70-74","Male",177236
+2021,"South Australia","80-84","Female",99856
+2021,"South Australia","80-84","Male",81189
+2021,"South Australia","85 and over","Female",115157
+2021,"South Australia","85 and over","Male",72914
+2021,"South Australia","A75: 75-79","Female",141289
+2021,"South Australia","A75: 75-79","Male",126096
+2021,"Tasmania","0-4","Female",56905
+2021,"Tasmania","0-4","Male",60742
+2021,"Tasmania","10-14","Female",65843
+2021,"Tasmania","10-14","Male",70765
+2021,"Tasmania","15-19","Female",59395
+2021,"Tasmania","15-19","Male",64187
+2021,"Tasmania","20-24","Female",61592
+2021,"Tasmania","20-24","Male",65866
+2021,"Tasmania","25-29","Female",77554
+2021,"Tasmania","25-29","Male",80958
+2021,"Tasmania","30-34","Female",77285
+2021,"Tasmania","30-34","Male",78609
+2021,"Tasmania","35-39","Female",71800
+2021,"Tasmania","35-39","Male",70302
+2021,"Tasmania","40-44","Female",65667
+2021,"Tasmania","40-44","Male",61500
+2021,"Tasmania","45-49","Female",68712
+2021,"Tasmania","45-49","Male",66272
+2021,"Tasmania","5-9","Female",62350
+2021,"Tasmania","5-9","Male",65678
+2021,"Tasmania","50-54","Female",74622
+2021,"Tasmania","50-54","Male",70613
+2021,"Tasmania","55-59","Female",76840
+2021,"Tasmania","55-59","Male",73170
+2021,"Tasmania","60-64","Female",79693
+2021,"Tasmania","60-64","Male",75275
+2021,"Tasmania","65-69","Female",71584
+2021,"Tasmania","65-69","Male",68468
+2021,"Tasmania","70-74","Female",64651
+2021,"Tasmania","70-74","Male",62027
+2021,"Tasmania","80-84","Female",31129
+2021,"Tasmania","80-84","Male",27091
+2021,"Tasmania","85 and over","Female",31426
+2021,"Tasmania","85 and over","Male",20490
+2021,"Tasmania","A75: 75-79","Female",45741
+2021,"Tasmania","A75: 75-79","Male",42833
+2021,"Victoria","0-4","Female",753605
+2021,"Victoria","0-4","Male",790736
+2021,"Victoria","10-14","Female",775676
+2021,"Victoria","10-14","Male",819013
+2021,"Victoria","15-19","Female",717170
+2021,"Victoria","15-19","Male",758917
+2021,"Victoria","20-24","Female",810286
+2021,"Victoria","20-24","Male",869475
+2021,"Victoria","25-29","Female",961398
+2021,"Victoria","25-29","Male",990182
+2021,"Victoria","30-34","Female",1035744
+2021,"Victoria","30-34","Male",1009509
+2021,"Victoria","35-39","Female",999017
+2021,"Victoria","35-39","Male",985970
+2021,"Victoria","40-44","Female",870451
+2021,"Victoria","40-44","Male",850625
+2021,"Victoria","45-49","Female",848352
+2021,"Victoria","45-49","Male",821803
+2021,"Victoria","5-9","Female",792022
+2021,"Victoria","5-9","Male",837682
+2021,"Victoria","50-54","Female",838816
+2021,"Victoria","50-54","Male",800853
+2021,"Victoria","55-59","Female",786173
+2021,"Victoria","55-59","Male",749257
+2021,"Victoria","60-64","Female",748537
+2021,"Victoria","60-64","Male",696459
+2021,"Victoria","65-69","Female",658791
+2021,"Victoria","65-69","Male",603048
+2021,"Victoria","70-74","Female",586957
+2021,"Victoria","70-74","Male",531748
+2021,"Victoria","80-84","Female",304305
+2021,"Victoria","80-84","Male",253414
+2021,"Victoria","85 and over","Female",343136
+2021,"Victoria","85 and over","Male",218465
+2021,"Victoria","A75: 75-79","Female",423283
+2021,"Victoria","A75: 75-79","Male",381321
+2021,"Western Australia","0-4","Female",331012
+2021,"Western Australia","0-4","Male",351671
+2021,"Western Australia","10-14","Female",347643
+2021,"Western Australia","10-14","Male",368731
+2021,"Western Australia","15-19","Female",309467
+2021,"Western Australia","15-19","Male",328706
+2021,"Western Australia","20-24","Female",321224
+2021,"Western Australia","20-24","Male",342745
+2021,"Western Australia","25-29","Female",365925
+2021,"Western Australia","25-29","Male",372521
+2021,"Western Australia","30-34","Female",413811
+2021,"Western Australia","30-34","Male",408080
+2021,"Western Australia","35-39","Female",415416
+2021,"Western Australia","35-39","Male",419597
+2021,"Western Australia","40-44","Female",368348
+2021,"Western Australia","40-44","Male",367662
+2021,"Western Australia","45-49","Female",356861
+2021,"Western Australia","45-49","Male",362301
+2021,"Western Australia","5-9","Female",349416
+2021,"Western Australia","5-9","Male",370318
+2021,"Western Australia","50-54","Female",353825
+2021,"Western Australia","50-54","Male",359266
+2021,"Western Australia","55-59","Female",334670
+2021,"Western Australia","55-59","Male",334350
+2021,"Western Australia","60-64","Female",313959
+2021,"Western Australia","60-64","Male",303244
+2021,"Western Australia","65-69","Female",275464
+2021,"Western Australia","65-69","Male",258397
+2021,"Western Australia","70-74","Female",236897
+2021,"Western Australia","70-74","Male",227283
+2021,"Western Australia","80-84","Female",115864
+2021,"Western Australia","80-84","Male",99073
+2021,"Western Australia","85 and over","Female",122610
+2021,"Western Australia","85 and over","Male",80164
+2021,"Western Australia","A75: 75-79","Female",163111
+2021,"Western Australia","A75: 75-79","Male",155067
+2022,"Australian Capital Territory","0-4","Female",51922
+2022,"Australian Capital Territory","0-4","Male",54500
+2022,"Australian Capital Territory","10-14","Female",53706
+2022,"Australian Capital Territory","10-14","Male",56783
+2022,"Australian Capital Territory","15-19","Female",50920
+2022,"Australian Capital Territory","15-19","Male",54031
+2022,"Australian Capital Territory","20-24","Female",71035
+2022,"Australian Capital Territory","20-24","Male",70862
+2022,"Australian Capital Territory","25-29","Female",80355
+2022,"Australian Capital Territory","25-29","Male",80682
+2022,"Australian Capital Territory","30-34","Female",79864
+2022,"Australian Capital Territory","30-34","Male",79110
+2022,"Australian Capital Territory","35-39","Female",75400
+2022,"Australian Capital Territory","35-39","Male",74227
+2022,"Australian Capital Territory","40-44","Female",66639
+2022,"Australian Capital Territory","40-44","Male",65433
+2022,"Australian Capital Territory","45-49","Female",57972
+2022,"Australian Capital Territory","45-49","Male",57385
+2022,"Australian Capital Territory","5-9","Female",56338
+2022,"Australian Capital Territory","5-9","Male",59291
+2022,"Australian Capital Territory","50-54","Female",55086
+2022,"Australian Capital Territory","50-54","Male",54114
+2022,"Australian Capital Territory","55-59","Female",47655
+2022,"Australian Capital Territory","55-59","Male",45594
+2022,"Australian Capital Territory","60-64","Female",44534
+2022,"Australian Capital Territory","60-64","Male",40666
+2022,"Australian Capital Territory","65-69","Female",38693
+2022,"Australian Capital Territory","65-69","Male",33574
+2022,"Australian Capital Territory","70-74","Female",35833
+2022,"Australian Capital Territory","70-74","Male",30253
+2022,"Australian Capital Territory","80-84","Female",17441
+2022,"Australian Capital Territory","80-84","Male",13873
+2022,"Australian Capital Territory","85 and over","Female",17728
+2022,"Australian Capital Territory","85 and over","Male",11559
+2022,"Australian Capital Territory","A75: 75-79","Female",27078
+2022,"Australian Capital Territory","A75: 75-79","Male",23210
+2022,"New South Wales","0-4","Female",931335
+2022,"New South Wales","0-4","Male",987733
+2022,"New South Wales","10-14","Female",995681
+2022,"New South Wales","10-14","Male",1055856
+2022,"New South Wales","15-19","Female",929188
+2022,"New South Wales","15-19","Male",999710
+2022,"New South Wales","20-24","Female",993903
+2022,"New South Wales","20-24","Male",1083393
+2022,"New South Wales","25-29","Female",1127649
+2022,"New South Wales","25-29","Male",1156364
+2022,"New South Wales","30-34","Female",1209678
+2022,"New South Wales","30-34","Male",1190271
+2022,"New South Wales","35-39","Female",1184680
+2022,"New South Wales","35-39","Male",1172361
+2022,"New South Wales","40-44","Female",1082491
+2022,"New South Wales","40-44","Male",1062409
+2022,"New South Wales","45-49","Female",1022553
+2022,"New South Wales","45-49","Male",1002468
+2022,"New South Wales","5-9","Female",973293
+2022,"New South Wales","5-9","Male",1033737
+2022,"New South Wales","50-54","Female",1036449
+2022,"New South Wales","50-54","Male",1001353
+2022,"New South Wales","55-59","Female",971471
+2022,"New South Wales","55-59","Male",943777
+2022,"New South Wales","60-64","Female",973955
+2022,"New South Wales","60-64","Male",923495
+2022,"New South Wales","65-69","Female",860531
+2022,"New South Wales","65-69","Male",799065
+2022,"New South Wales","70-74","Female",752424
+2022,"New South Wales","70-74","Male",701498
+2022,"New South Wales","80-84","Female",398175
+2022,"New South Wales","80-84","Male",339147
+2022,"New South Wales","85 and over","Female",444853
+2022,"New South Wales","85 and over","Male",289811
+2022,"New South Wales","A75: 75-79","Female",586864
+2022,"New South Wales","A75: 75-79","Male",542869
+2022,"Northern Territory","0-4","Female",33431
+2022,"Northern Territory","0-4","Male",35753
+2022,"Northern Territory","10-14","Female",33340
+2022,"Northern Territory","10-14","Male",35848
+2022,"Northern Territory","15-19","Female",29966
+2022,"Northern Territory","15-19","Male",32235
+2022,"Northern Territory","20-24","Female",31988
+2022,"Northern Territory","20-24","Male",35512
+2022,"Northern Territory","25-29","Female",46746
+2022,"Northern Territory","25-29","Male",44871
+2022,"Northern Territory","30-34","Female",48876
+2022,"Northern Territory","30-34","Male",47583
+2022,"Northern Territory","35-39","Female",42706
+2022,"Northern Territory","35-39","Male",42246
+2022,"Northern Territory","40-44","Female",35876
+2022,"Northern Territory","40-44","Male",35020
+2022,"Northern Territory","45-49","Female",30974
+2022,"Northern Territory","45-49","Male",31970
+2022,"Northern Territory","5-9","Female",34750
+2022,"Northern Territory","5-9","Male",36565
+2022,"Northern Territory","50-54","Female",31236
+2022,"Northern Territory","50-54","Male",31932
+2022,"Northern Territory","55-59","Female",26720
+2022,"Northern Territory","55-59","Male",27932
+2022,"Northern Territory","60-64","Female",23340
+2022,"Northern Territory","60-64","Male",24232
+2022,"Northern Territory","65-69","Female",17387
+2022,"Northern Territory","65-69","Male",18362
+2022,"Northern Territory","70-74","Female",12114
+2022,"Northern Territory","70-74","Male",13413
+2022,"Northern Territory","80-84","Female",4266
+2022,"Northern Territory","80-84","Male",4273
+2022,"Northern Territory","85 and over","Female",2913
+2022,"Northern Territory","85 and over","Male",2181
+2022,"Northern Territory","A75: 75-79","Female",7241
+2022,"Northern Territory","A75: 75-79","Male",8012
+2022,"Queensland","0-4","Female",595325
+2022,"Queensland","0-4","Male",631818
+2022,"Queensland","10-14","Female",692136
+2022,"Queensland","10-14","Male",730527
+2022,"Queensland","15-19","Female",647406
+2022,"Queensland","15-19","Male",684939
+2022,"Queensland","20-24","Female",666724
+2022,"Queensland","20-24","Male",688392
+2022,"Queensland","25-29","Female",724654
+2022,"Queensland","25-29","Male",726245
+2022,"Queensland","30-34","Female",757236
+2022,"Queensland","30-34","Male",733463
+2022,"Queensland","35-39","Female",756825
+2022,"Queensland","35-39","Male",729196
+2022,"Queensland","40-44","Female",709250
+2022,"Queensland","40-44","Male",676448
+2022,"Queensland","45-49","Female",691479
+2022,"Queensland","45-49","Male",668467
+2022,"Queensland","5-9","Female",653148
+2022,"Queensland","5-9","Male",692339
+2022,"Queensland","50-54","Female",706429
+2022,"Queensland","50-54","Male",682819
+2022,"Queensland","55-59","Female",649825
+2022,"Queensland","55-59","Male",625076
+2022,"Queensland","60-64","Female",633899
+2022,"Queensland","60-64","Male",600237
+2022,"Queensland","65-69","Female",552306
+2022,"Queensland","65-69","Male",520340
+2022,"Queensland","70-74","Female",489352
+2022,"Queensland","70-74","Male",464505
+2022,"Queensland","80-84","Female",236811
+2022,"Queensland","80-84","Male",208746
+2022,"Queensland","85 and over","Female",239714
+2022,"Queensland","85 and over","Male",158694
+2022,"Queensland","A75: 75-79","Female",374768
+2022,"Queensland","A75: 75-79","Male",354113
+2022,"South Australia","0-4","Female",190512
+2022,"South Australia","0-4","Male",200356
+2022,"South Australia","10-14","Female",212328
+2022,"South Australia","10-14","Male",223008
+2022,"South Australia","15-19","Female",202822
+2022,"South Australia","15-19","Male",214494
+2022,"South Australia","20-24","Female",216260
+2022,"South Australia","20-24","Male",234019
+2022,"South Australia","25-29","Female",239587
+2022,"South Australia","25-29","Male",249273
+2022,"South Australia","30-34","Female",246939
+2022,"South Australia","30-34","Male",245563
+2022,"South Australia","35-39","Female",249086
+2022,"South Australia","35-39","Male",244678
+2022,"South Australia","40-44","Female",226336
+2022,"South Australia","40-44","Male",219850
+2022,"South Australia","45-49","Female",218558
+2022,"South Australia","45-49","Male",215713
+2022,"South Australia","5-9","Female",205130
+2022,"South Australia","5-9","Male",215821
+2022,"South Australia","50-54","Female",236598
+2022,"South Australia","50-54","Male",231686
+2022,"South Australia","55-59","Female",231363
+2022,"South Australia","55-59","Male",223104
+2022,"South Australia","60-64","Female",236199
+2022,"South Australia","60-64","Male",222534
+2022,"South Australia","65-69","Female",214552
+2022,"South Australia","65-69","Male",197215
+2022,"South Australia","70-74","Female",195150
+2022,"South Australia","70-74","Male",176731
+2022,"South Australia","80-84","Female",102594
+2022,"South Australia","80-84","Male",83991
+2022,"South Australia","85 and over","Female",116058
+2022,"South Australia","85 and over","Male",74900
+2022,"South Australia","A75: 75-79","Female",152655
+2022,"South Australia","A75: 75-79","Male",136281
+2022,"Tasmania","0-4","Female",56875
+2022,"Tasmania","0-4","Male",60555
+2022,"Tasmania","10-14","Female",65524
+2022,"Tasmania","10-14","Male",70058
+2022,"Tasmania","15-19","Female",61156
+2022,"Tasmania","15-19","Male",66008
+2022,"Tasmania","20-24","Female",59648
+2022,"Tasmania","20-24","Male",64296
+2022,"Tasmania","25-29","Female",76688
+2022,"Tasmania","25-29","Male",79409
+2022,"Tasmania","30-34","Female",79867
+2022,"Tasmania","30-34","Male",81054
+2022,"Tasmania","35-39","Female",73110
+2022,"Tasmania","35-39","Male",72597
+2022,"Tasmania","40-44","Female",67599
+2022,"Tasmania","40-44","Male",63649
+2022,"Tasmania","45-49","Female",66827
+2022,"Tasmania","45-49","Male",64314
+2022,"Tasmania","5-9","Female",61838
+2022,"Tasmania","5-9","Male",65227
+2022,"Tasmania","50-54","Female",75536
+2022,"Tasmania","50-54","Male",71809
+2022,"Tasmania","55-59","Female",75356
+2022,"Tasmania","55-59","Male",70767
+2022,"Tasmania","60-64","Female",80645
+2022,"Tasmania","60-64","Male",76631
+2022,"Tasmania","65-69","Female",72913
+2022,"Tasmania","65-69","Male",68964
+2022,"Tasmania","70-74","Female",64945
+2022,"Tasmania","70-74","Male",61892
+2022,"Tasmania","80-84","Female",32062
+2022,"Tasmania","80-84","Male",28367
+2022,"Tasmania","85 and over","Female",32257
+2022,"Tasmania","85 and over","Male",21317
+2022,"Tasmania","A75: 75-79","Female",49457
+2022,"Tasmania","A75: 75-79","Male",46441
+2022,"Victoria","0-4","Female",753432
+2022,"Victoria","0-4","Male",788665
+2022,"Victoria","10-14","Female",784964
+2022,"Victoria","10-14","Male",827239
+2022,"Victoria","15-19","Female",747880
+2022,"Victoria","15-19","Male",790226
+2022,"Victoria","20-24","Female",832942
+2022,"Victoria","20-24","Male",889831
+2022,"Victoria","25-29","Female",970210
+2022,"Victoria","25-29","Male",1005335
+2022,"Victoria","30-34","Female",1050136
+2022,"Victoria","30-34","Male",1020004
+2022,"Victoria","35-39","Female",1018567
+2022,"Victoria","35-39","Male",1005929
+2022,"Victoria","40-44","Female",900094
+2022,"Victoria","40-44","Male",881496
+2022,"Victoria","45-49","Female",836231
+2022,"Victoria","45-49","Male",812738
+2022,"Victoria","5-9","Female",792409
+2022,"Victoria","5-9","Male",837972
+2022,"Victoria","50-54","Female",858684
+2022,"Victoria","50-54","Male",816937
+2022,"Victoria","55-59","Female",781875
+2022,"Victoria","55-59","Male",743803
+2022,"Victoria","60-64","Female",759134
+2022,"Victoria","60-64","Male",708564
+2022,"Victoria","65-69","Female",671198
+2022,"Victoria","65-69","Male",612471
+2022,"Victoria","70-74","Female",589649
+2022,"Victoria","70-74","Male",529906
+2022,"Victoria","80-84","Female",312654
+2022,"Victoria","80-84","Male",261696
+2022,"Victoria","85 and over","Female",347262
+2022,"Victoria","85 and over","Male",224028
+2022,"Victoria","A75: 75-79","Female",454834
+2022,"Victoria","A75: 75-79","Male",407373
+2022,"Western Australia","0-4","Female",330685
+2022,"Western Australia","0-4","Male",350437
+2022,"Western Australia","10-14","Female",352258
+2022,"Western Australia","10-14","Male",372986
+2022,"Western Australia","15-19","Female",322764
+2022,"Western Australia","15-19","Male",343330
+2022,"Western Australia","20-24","Female",324613
+2022,"Western Australia","20-24","Male",348101
+2022,"Western Australia","25-29","Female",370963
+2022,"Western Australia","25-29","Male",383004
+2022,"Western Australia","30-34","Female",415796
+2022,"Western Australia","30-34","Male",412094
+2022,"Western Australia","35-39","Female",426254
+2022,"Western Australia","35-39","Male",428777
+2022,"Western Australia","40-44","Female",382641
+2022,"Western Australia","40-44","Male",383475
+2022,"Western Australia","45-49","Female",353824
+2022,"Western Australia","45-49","Male",358266
+2022,"Western Australia","5-9","Female",352171
+2022,"Western Australia","5-9","Male",374657
+2022,"Western Australia","50-54","Female",363037
+2022,"Western Australia","50-54","Male",368844
+2022,"Western Australia","55-59","Female",334518
+2022,"Western Australia","55-59","Male",335153
+2022,"Western Australia","60-64","Female",320672
+2022,"Western Australia","60-64","Male",310744
+2022,"Western Australia","65-69","Female",281576
+2022,"Western Australia","65-69","Male",264000
+2022,"Western Australia","70-74","Female",240973
+2022,"Western Australia","70-74","Male",228535
+2022,"Western Australia","80-84","Female",120418
+2022,"Western Australia","80-84","Male",104480
+2022,"Western Australia","85 and over","Female",126598
+2022,"Western Australia","85 and over","Male",84219
+2022,"Western Australia","A75: 75-79","Female",177539
+2022,"Western Australia","A75: 75-79","Male",168188
+2023,"Australian Capital Territory","0-4","Female",51218
+2023,"Australian Capital Territory","0-4","Male",53836
+2023,"Australian Capital Territory","10-14","Female",54845
+2023,"Australian Capital Territory","10-14","Male",57801
+2023,"Australian Capital Territory","15-19","Female",51344
+2023,"Australian Capital Territory","15-19","Male",55408
+2023,"Australian Capital Territory","20-24","Female",73981
+2023,"Australian Capital Territory","20-24","Male",74073
+2023,"Australian Capital Territory","25-29","Female",83186
+2023,"Australian Capital Territory","25-29","Male",81616
+2023,"Australian Capital Territory","30-34","Female",83134
+2023,"Australian Capital Territory","30-34","Male",82934
+2023,"Australian Capital Territory","35-39","Female",76566
+2023,"Australian Capital Territory","35-39","Male",74821
+2023,"Australian Capital Territory","40-44","Female",69494
+2023,"Australian Capital Territory","40-44","Male",68106
+2023,"Australian Capital Territory","45-49","Female",58017
+2023,"Australian Capital Territory","45-49","Male",57779
+2023,"Australian Capital Territory","5-9","Female",55392
+2023,"Australian Capital Territory","5-9","Male",58380
+2023,"Australian Capital Territory","50-54","Female",56570
+2023,"Australian Capital Territory","50-54","Male",55092
+2023,"Australian Capital Territory","55-59","Female",47582
+2023,"Australian Capital Territory","55-59","Male",45839
+2023,"Australian Capital Territory","60-64","Female",44668
+2023,"Australian Capital Territory","60-64","Male",41153
+2023,"Australian Capital Territory","65-69","Female",39159
+2023,"Australian Capital Territory","65-69","Male",33671
+2023,"Australian Capital Territory","70-74","Female",36123
+2023,"Australian Capital Territory","70-74","Male",30295
+2023,"Australian Capital Territory","80-84","Female",18235
+2023,"Australian Capital Territory","80-84","Male",14504
+2023,"Australian Capital Territory","85 and over","Female",18422
+2023,"Australian Capital Territory","85 and over","Male",12047
+2023,"Australian Capital Territory","A75: 75-79","Female",29208
+2023,"Australian Capital Territory","A75: 75-79","Male",24946
+2023,"New South Wales","0-4","Female",927113
+2023,"New South Wales","0-4","Male",983857
+2023,"New South Wales","10-14","Female",1002105
+2023,"New South Wales","10-14","Male",1064306
+2023,"New South Wales","15-19","Female",971124
+2023,"New South Wales","15-19","Male",1044384
+2023,"New South Wales","20-24","Female",1053431
+2023,"New South Wales","20-24","Male",1161710
+2023,"New South Wales","25-29","Female",1189717
+2023,"New South Wales","25-29","Male",1224055
+2023,"New South Wales","30-34","Female",1243592
+2023,"New South Wales","30-34","Male",1230232
+2023,"New South Wales","35-39","Female",1206465
+2023,"New South Wales","35-39","Male",1191591
+2023,"New South Wales","40-44","Female",1119268
+2023,"New South Wales","40-44","Male",1105327
+2023,"New South Wales","45-49","Female",1018516
+2023,"New South Wales","45-49","Male",994609
+2023,"New South Wales","5-9","Female",968416
+2023,"New South Wales","5-9","Male",1026852
+2023,"New South Wales","50-54","Female",1052940
+2023,"New South Wales","50-54","Male",1018090
+2023,"New South Wales","55-59","Female",959712
+2023,"New South Wales","55-59","Male",927935
+2023,"New South Wales","60-64","Female",985101
+2023,"New South Wales","60-64","Male",935600
+2023,"New South Wales","65-69","Female",878423
+2023,"New South Wales","65-69","Male",811701
+2023,"New South Wales","70-74","Female",762587
+2023,"New South Wales","70-74","Male",702910
+2023,"New South Wales","80-84","Female",408951
+2023,"New South Wales","80-84","Male",350534
+2023,"New South Wales","85 and over","Female",451821
+2023,"New South Wales","85 and over","Male",299011
+2023,"New South Wales","A75: 75-79","Female",621033
+2023,"New South Wales","A75: 75-79","Male",573010
+2023,"Northern Territory","0-4","Female",32656
+2023,"Northern Territory","0-4","Male",34845
+2023,"Northern Territory","10-14","Female",33807
+2023,"Northern Territory","10-14","Male",35733
+2023,"Northern Territory","15-19","Female",30523
+2023,"Northern Territory","15-19","Male",33390
+2023,"Northern Territory","20-24","Female",32606
+2023,"Northern Territory","20-24","Male",36773
+2023,"Northern Territory","25-29","Female",47182
+2023,"Northern Territory","25-29","Male",45335
+2023,"Northern Territory","30-34","Female",50285
+2023,"Northern Territory","30-34","Male",48472
+2023,"Northern Territory","35-39","Female",43610
+2023,"Northern Territory","35-39","Male",43195
+2023,"Northern Territory","40-44","Female",36522
+2023,"Northern Territory","40-44","Male",36230
+2023,"Northern Territory","45-49","Female",30982
+2023,"Northern Territory","45-49","Male",31169
+2023,"Northern Territory","5-9","Female",33648
+2023,"Northern Territory","5-9","Male",36160
+2023,"Northern Territory","50-54","Female",31050
+2023,"Northern Territory","50-54","Male",32047
+2023,"Northern Territory","55-59","Female",26914
+2023,"Northern Territory","55-59","Male",27646
+2023,"Northern Territory","60-64","Female",23584
+2023,"Northern Territory","60-64","Male",24489
+2023,"Northern Territory","65-69","Female",17725
+2023,"Northern Territory","65-69","Male",18670
+2023,"Northern Territory","70-74","Female",12560
+2023,"Northern Territory","70-74","Male",13701
+2023,"Northern Territory","80-84","Female",4442
+2023,"Northern Territory","80-84","Male",4619
+2023,"Northern Territory","85 and over","Female",3223
+2023,"Northern Territory","85 and over","Male",2414
+2023,"Northern Territory","A75: 75-79","Female",8059
+2023,"Northern Territory","A75: 75-79","Male",8674
+2023,"Queensland","0-4","Female",598929
+2023,"Queensland","0-4","Male",633407
+2023,"Queensland","10-14","Female",699426
+2023,"Queensland","10-14","Male",737009
+2023,"Queensland","15-19","Female",676806
+2023,"Queensland","15-19","Male",719386
+2023,"Queensland","20-24","Female",694703
+2023,"Queensland","20-24","Male",719578
+2023,"Queensland","25-29","Female",762992
+2023,"Queensland","25-29","Male",766374
+2023,"Queensland","30-34","Female",786886
+2023,"Queensland","30-34","Male",765979
+2023,"Queensland","35-39","Female",773778
+2023,"Queensland","35-39","Male",746455
+2023,"Queensland","40-44","Female",738849
+2023,"Queensland","40-44","Male",708522
+2023,"Queensland","45-49","Female",690641
+2023,"Queensland","45-49","Male",662379
+2023,"Queensland","5-9","Female",652253
+2023,"Queensland","5-9","Male",690723
+2023,"Queensland","50-54","Female",723362
+2023,"Queensland","50-54","Male",699134
+2023,"Queensland","55-59","Female",650615
+2023,"Queensland","55-59","Male",625842
+2023,"Queensland","60-64","Female",648233
+2023,"Queensland","60-64","Male",613824
+2023,"Queensland","65-69","Female",567342
+2023,"Queensland","65-69","Male",530519
+2023,"Queensland","70-74","Female",498398
+2023,"Queensland","70-74","Male",468789
+2023,"Queensland","80-84","Female",249050
+2023,"Queensland","80-84","Male",219401
+2023,"Queensland","85 and over","Female",246725
+2023,"Queensland","85 and over","Male",166138
+2023,"Queensland","A75: 75-79","Female",400763
+2023,"Queensland","A75: 75-79","Male",377076
+2023,"South Australia","0-4","Female",190269
+2023,"South Australia","0-4","Male",199307
+2023,"South Australia","10-14","Female",213489
+2023,"South Australia","10-14","Male",225648
+2023,"South Australia","15-19","Female",211303
+2023,"South Australia","15-19","Male",222676
+2023,"South Australia","20-24","Female",220104
+2023,"South Australia","20-24","Male",241063
+2023,"South Australia","25-29","Female",247745
+2023,"South Australia","25-29","Male",257971
+2023,"South Australia","30-34","Female",254693
+2023,"South Australia","30-34","Male",253617
+2023,"South Australia","35-39","Female",254577
+2023,"South Australia","35-39","Male",249274
+2023,"South Australia","40-44","Female",235258
+2023,"South Australia","40-44","Male",229447
+2023,"South Australia","45-49","Female",217358
+2023,"South Australia","45-49","Male",213600
+2023,"South Australia","5-9","Female",204600
+2023,"South Australia","5-9","Male",215500
+2023,"South Australia","50-54","Female",237322
+2023,"South Australia","50-54","Male",231515
+2023,"South Australia","55-59","Female",229284
+2023,"South Australia","55-59","Male",221355
+2023,"South Australia","60-64","Female",238620
+2023,"South Australia","60-64","Male",224755
+2023,"South Australia","65-69","Female",217539
+2023,"South Australia","65-69","Male",200004
+2023,"South Australia","70-74","Female",197214
+2023,"South Australia","70-74","Male",177945
+2023,"South Australia","80-84","Female",105865
+2023,"South Australia","80-84","Male",87014
+2023,"South Australia","85 and over","Female",117827
+2023,"South Australia","85 and over","Male",77053
+2023,"South Australia","A75: 75-79","Female",162012
+2023,"South Australia","A75: 75-79","Male",144166
+2023,"Tasmania","0-4","Female",56482
+2023,"Tasmania","0-4","Male",59700
+2023,"Tasmania","10-14","Female",65028
+2023,"Tasmania","10-14","Male",69063
+2023,"Tasmania","15-19","Female",62973
+2023,"Tasmania","15-19","Male",68443
+2023,"Tasmania","20-24","Female",58629
+2023,"Tasmania","20-24","Male",62885
+2023,"Tasmania","25-29","Female",75424
+2023,"Tasmania","25-29","Male",76415
+2023,"Tasmania","30-34","Female",81268
+2023,"Tasmania","30-34","Male",82938
+2023,"Tasmania","35-39","Female",74599
+2023,"Tasmania","35-39","Male",74093
+2023,"Tasmania","40-44","Female",68848
+2023,"Tasmania","40-44","Male",65538
+2023,"Tasmania","45-49","Female",65662
+2023,"Tasmania","45-49","Male",63114
+2023,"Tasmania","5-9","Female",60753
+2023,"Tasmania","5-9","Male",64702
+2023,"Tasmania","50-54","Female",75300
+2023,"Tasmania","50-54","Male",71373
+2023,"Tasmania","55-59","Female",74165
+2023,"Tasmania","55-59","Male",69400
+2023,"Tasmania","60-64","Female",81163
+2023,"Tasmania","60-64","Male",76862
+2023,"Tasmania","65-69","Female",74075
+2023,"Tasmania","65-69","Male",69700
+2023,"Tasmania","70-74","Female",65625
+2023,"Tasmania","70-74","Male",62285
+2023,"Tasmania","80-84","Female",33043
+2023,"Tasmania","80-84","Male",29526
+2023,"Tasmania","85 and over","Female",33065
+2023,"Tasmania","85 and over","Male",22187
+2023,"Tasmania","A75: 75-79","Female",52461
+2023,"Tasmania","A75: 75-79","Male",49159
+2023,"Victoria","0-4","Female",754476
+2023,"Victoria","0-4","Male",790514
+2023,"Victoria","10-14","Female",798726
+2023,"Victoria","10-14","Male",842283
+2023,"Victoria","15-19","Female",786855
+2023,"Victoria","15-19","Male",831935
+2023,"Victoria","20-24","Female",885084
+2023,"Victoria","20-24","Male",946949
+2023,"Victoria","25-29","Female",1020691
+2023,"Victoria","25-29","Male",1057249
+2023,"Victoria","30-34","Female",1086181
+2023,"Victoria","30-34","Male",1059605
+2023,"Victoria","35-39","Female",1051111
+2023,"Victoria","35-39","Male",1036834
+2023,"Victoria","40-44","Female",941780
+2023,"Victoria","40-44","Male",927035
+2023,"Victoria","45-49","Female",838404
+2023,"Victoria","45-49","Male",815886
+2023,"Victoria","5-9","Female",795981
+2023,"Victoria","5-9","Male",840826
+2023,"Victoria","50-54","Female",871052
+2023,"Victoria","50-54","Male",826790
+2023,"Victoria","55-59","Female",784543
+2023,"Victoria","55-59","Male",744728
+2023,"Victoria","60-64","Female",770844
+2023,"Victoria","60-64","Male",720329
+2023,"Victoria","65-69","Female",686517
+2023,"Victoria","65-69","Male",624722
+2023,"Victoria","70-74","Female",597947
+2023,"Victoria","70-74","Male",533892
+2023,"Victoria","80-84","Female",320772
+2023,"Victoria","80-84","Male",269782
+2023,"Victoria","85 and over","Female",354849
+2023,"Victoria","85 and over","Male",232324
+2023,"Victoria","A75: 75-79","Female",484203
+2023,"Victoria","A75: 75-79","Male",431417
+2023,"Western Australia","0-4","Female",330196
+2023,"Western Australia","0-4","Male",349318
+2023,"Western Australia","10-14","Female",358902
+2023,"Western Australia","10-14","Male",379233
+2023,"Western Australia","15-19","Female",339649
+2023,"Western Australia","15-19","Male",362470
+2023,"Western Australia","20-24","Female",342319
+2023,"Western Australia","20-24","Male",370363
+2023,"Western Australia","25-29","Female",396774
+2023,"Western Australia","25-29","Male",418405
+2023,"Western Australia","30-34","Female",432404
+2023,"Western Australia","30-34","Male",431840
+2023,"Western Australia","35-39","Female",441430
+2023,"Western Australia","35-39","Male",445292
+2023,"Western Australia","40-44","Female",401931
+2023,"Western Australia","40-44","Male",406441
+2023,"Western Australia","45-49","Female",356838
+2023,"Western Australia","45-49","Male",360477
+2023,"Western Australia","5-9","Female",357420
+2023,"Western Australia","5-9","Male",379723
+2023,"Western Australia","50-54","Female",368008
+2023,"Western Australia","50-54","Male",373850
+2023,"Western Australia","55-59","Female",336340
+2023,"Western Australia","55-59","Male",336575
+2023,"Western Australia","60-64","Female",327187
+2023,"Western Australia","60-64","Male",318901
+2023,"Western Australia","65-69","Female",288475
+2023,"Western Australia","65-69","Male",270412
+2023,"Western Australia","70-74","Female",246842
+2023,"Western Australia","70-74","Male",230562
+2023,"Western Australia","80-84","Female",124481
+2023,"Western Australia","80-84","Male",108779
+2023,"Western Australia","85 and over","Female",131129
+2023,"Western Australia","85 and over","Male",88621
+2023,"Western Australia","A75: 75-79","Female",191349
+2023,"Western Australia","A75: 75-79","Male",180680
