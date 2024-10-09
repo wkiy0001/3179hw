@@ -33,8 +33,8 @@
 2013,"Australian Capital Territory","80-84","Male",9142
 2013,"Australian Capital Territory","85 and over","Female",13755
 2013,"Australian Capital Territory","85 and over","Male",7611
-2013,"Australian Capital Territory","A75: 75-79","Female",15985
-2013,"Australian Capital Territory","A75: 75-79","Male",13688
+2013,"Australian Capital Territory","75-79","Female",15985
+2013,"Australian Capital Territory","75-79","Male",13688
 2013,"New South Wales","0-4","Female",950630
 2013,"New South Wales","0-4","Male",1004996
 2013,"New South Wales","10-14","Female",865821
@@ -69,8 +69,8 @@
 2013,"New South Wales","80-84","Male",267141
 2013,"New South Wales","85 and over","Female",395455
 2013,"New South Wales","85 and over","Male",215871
-2013,"New South Wales","A75: 75-79","Female",426079
-2013,"New South Wales","A75: 75-79","Male",375543
+2013,"New South Wales","75-79","Female",426079
+2013,"New South Wales","75-79","Male",375543
 2013,"Northern Territory","0-4","Female",37342
 2013,"Northern Territory","0-4","Male",39472
 2013,"Northern Territory","10-14","Female",32190
@@ -105,8 +105,8 @@
 2013,"Northern Territory","80-84","Male",2320
 2013,"Northern Territory","85 and over","Female",1833
 2013,"Northern Territory","85 and over","Male",1235
-2013,"Northern Territory","A75: 75-79","Female",3978
-2013,"Northern Territory","A75: 75-79","Male",4348
+2013,"Northern Territory","75-79","Female",3978
+2013,"Northern Territory","75-79","Male",4348
 2013,"Queensland","0-4","Female",617545
 2013,"Queensland","0-4","Male",650430
 2013,"Queensland","10-14","Female",579136
@@ -141,8 +141,8 @@
 2013,"Queensland","80-84","Male",140085
 2013,"Queensland","85 and over","Female",195406
 2013,"Queensland","85 and over","Male",109926
-2013,"Queensland","A75: 75-79","Female",226857
-2013,"Queensland","A75: 75-79","Male",209431
+2013,"Queensland","75-79","Female",226857
+2013,"Queensland","75-79","Male",209431
 2013,"South Australia","0-4","Female",196740
 2013,"South Australia","0-4","Male",207813
 2013,"South Australia","10-14","Female",190090
@@ -177,8 +177,8 @@
 2013,"South Australia","80-84","Male",67545
 2013,"South Australia","85 and over","Female",106254
 2013,"South Australia","85 and over","Male",57525
-2013,"South Australia","A75: 75-79","Female",105962
-2013,"South Australia","A75: 75-79","Male",91983
+2013,"South Australia","75-79","Female",105962
+2013,"South Australia","75-79","Male",91983
 2013,"Tasmania","0-4","Female",60422
 2013,"Tasmania","0-4","Male",64726
 2013,"Tasmania","10-14","Female",61206
@@ -213,8 +213,8 @@
 2013,"Tasmania","80-84","Male",20311
 2013,"Tasmania","85 and over","Female",27625
 2013,"Tasmania","85 and over","Male",15432
-2013,"Tasmania","A75: 75-79","Female",32916
-2013,"Tasmania","A75: 75-79","Male",29598
+2013,"Tasmania","75-79","Female",32916
+2013,"Tasmania","75-79","Male",29598
 2013,"Victoria","0-4","Female",727772
 2013,"Victoria","0-4","Male",768752
 2013,"Victoria","10-14","Female",654844
@@ -249,8 +249,8 @@
 2013,"Victoria","80-84","Male",200759
 2013,"Victoria","85 and over","Female",294400
 2013,"Victoria","85 and over","Male",164235
-2013,"Victoria","A75: 75-79","Female",323894
-2013,"Victoria","A75: 75-79","Male",281808
+2013,"Victoria","75-79","Female",323894
+2013,"Victoria","75-79","Male",281808
 2013,"Western Australia","0-4","Female",327983
 2013,"Western Australia","0-4","Male",344057
 2013,"Western Australia","10-14","Female",296695
@@ -285,8 +285,8 @@
 2013,"Western Australia","80-84","Male",69605
 2013,"Western Australia","85 and over","Female",97805
 2013,"Western Australia","85 and over","Male",54378
-2013,"Western Australia","A75: 75-79","Female",117416
-2013,"Western Australia","A75: 75-79","Male",103688
+2013,"Western Australia","75-79","Female",117416
+2013,"Western Australia","75-79","Male",103688
 2014,"Australian Capital Territory","0-4","Female",52162
 2014,"Australian Capital Territory","0-4","Male",55729
 2014,"Australian Capital Territory","10-14","Female",41731
@@ -321,8 +321,8 @@
 2014,"Australian Capital Territory","80-84","Male",9363
 2014,"Australian Capital Territory","85 and over","Female",14230
 2014,"Australian Capital Territory","85 and over","Male",8096
-2014,"Australian Capital Territory","A75: 75-79","Female",16710
-2014,"Australian Capital Territory","A75: 75-79","Male",14503
+2014,"Australian Capital Territory","75-79","Female",16710
+2014,"Australian Capital Territory","75-79","Male",14503
 2014,"New South Wales","0-4","Female",958285
 2014,"New South Wales","0-4","Male",1013257
 2014,"New South Wales","10-14","Female",868036
@@ -357,8 +357,8 @@
 2014,"New South Wales","80-84","Male",268422
 2014,"New South Wales","85 and over","Female",404764
 2014,"New South Wales","85 and over","Male",227075
-2014,"New South Wales","A75: 75-79","Female",437549
-2014,"New South Wales","A75: 75-79","Male",387381
+2014,"New South Wales","75-79","Female",437549
+2014,"New South Wales","75-79","Male",387381
 2014,"Northern Territory","0-4","Female",37386
 2014,"Northern Territory","0-4","Male",39420
 2014,"Northern Territory","10-14","Female",31615
@@ -393,8 +393,8 @@
 2014,"Northern Territory","80-84","Male",2302
 2014,"Northern Territory","85 and over","Female",1988
 2014,"Northern Territory","85 and over","Male",1350
-2014,"Northern Territory","A75: 75-79","Female",4142
-2014,"Northern Territory","A75: 75-79","Male",4608
+2014,"Northern Territory","75-79","Female",4142
+2014,"Northern Territory","75-79","Male",4608
 2014,"Queensland","0-4","Female",620368
 2014,"Queensland","0-4","Male",652605
 2014,"Queensland","10-14","Female",583457
@@ -429,8 +429,8 @@
 2014,"Queensland","80-84","Male",142432
 2014,"Queensland","85 and over","Female",201975
 2014,"Queensland","85 and over","Male",115493
-2014,"Queensland","A75: 75-79","Female",237107
-2014,"Queensland","A75: 75-79","Male",220396
+2014,"Queensland","75-79","Female",237107
+2014,"Queensland","75-79","Male",220396
 2014,"South Australia","0-4","Female",198586
 2014,"South Australia","0-4","Male",210004
 2014,"South Australia","10-14","Female",189148
@@ -465,8 +465,8 @@
 2014,"South Australia","80-84","Male",67740
 2014,"South Australia","85 and over","Female",108101
 2014,"South Australia","85 and over","Male",60222
-2014,"South Australia","A75: 75-79","Female",108793
-2014,"South Australia","A75: 75-79","Male",94541
+2014,"South Australia","75-79","Female",108793
+2014,"South Australia","75-79","Male",94541
 2014,"Tasmania","0-4","Female",59544
 2014,"Tasmania","0-4","Male",63420
 2014,"Tasmania","10-14","Female",59752
@@ -501,8 +501,8 @@
 2014,"Tasmania","80-84","Male",20695
 2014,"Tasmania","85 and over","Female",28171
 2014,"Tasmania","85 and over","Male",16016
-2014,"Tasmania","A75: 75-79","Female",33654
-2014,"Tasmania","A75: 75-79","Male",30674
+2014,"Tasmania","75-79","Female",33654
+2014,"Tasmania","75-79","Male",30674
 2014,"Victoria","0-4","Female",744467
 2014,"Victoria","0-4","Male",786302
 2014,"Victoria","10-14","Female",661953
@@ -537,8 +537,8 @@
 2014,"Victoria","80-84","Male",203242
 2014,"Victoria","85 and over","Female",303218
 2014,"Victoria","85 and over","Male",173588
-2014,"Victoria","A75: 75-79","Female",333245
-2014,"Victoria","A75: 75-79","Male",291782
+2014,"Victoria","75-79","Female",333245
+2014,"Victoria","75-79","Male",291782
 2014,"Western Australia","0-4","Female",333956
 2014,"Western Australia","0-4","Male",349065
 2014,"Western Australia","10-14","Female",296627
@@ -573,8 +573,8 @@
 2014,"Western Australia","80-84","Male",70744
 2014,"Western Australia","85 and over","Female",100679
 2014,"Western Australia","85 and over","Male",57361
-2014,"Western Australia","A75: 75-79","Female",121713
-2014,"Western Australia","A75: 75-79","Male",108646
+2014,"Western Australia","75-79","Female",121713
+2014,"Western Australia","75-79","Male",108646
 2015,"Australian Capital Territory","0-4","Female",52906
 2015,"Australian Capital Territory","0-4","Male",56962
 2015,"Australian Capital Territory","10-14","Female",42251
@@ -609,8 +609,8 @@
 2015,"Australian Capital Territory","80-84","Male",9722
 2015,"Australian Capital Territory","85 and over","Female",14657
 2015,"Australian Capital Territory","85 and over","Male",8567
-2015,"Australian Capital Territory","A75: 75-79","Female",17458
-2015,"Australian Capital Territory","A75: 75-79","Male",15175
+2015,"Australian Capital Territory","75-79","Female",17458
+2015,"Australian Capital Territory","75-79","Male",15175
 2015,"New South Wales","0-4","Female",964819
 2015,"New South Wales","0-4","Male",1020672
 2015,"New South Wales","10-14","Female",872551
@@ -645,8 +645,8 @@
 2015,"New South Wales","80-84","Male",270188
 2015,"New South Wales","85 and over","Female",412016
 2015,"New South Wales","85 and over","Male",237298
-2015,"New South Wales","A75: 75-79","Female",448710
-2015,"New South Wales","A75: 75-79","Male",399934
+2015,"New South Wales","75-79","Female",448710
+2015,"New South Wales","75-79","Male",399934
 2015,"Northern Territory","0-4","Female",37391
 2015,"Northern Territory","0-4","Male",39376
 2015,"Northern Territory","10-14","Female",31160
@@ -681,8 +681,8 @@
 2015,"Northern Territory","80-84","Male",2281
 2015,"Northern Territory","85 and over","Female",2093
 2015,"Northern Territory","85 and over","Male",1479
-2015,"Northern Territory","A75: 75-79","Female",4520
-2015,"Northern Territory","A75: 75-79","Male",5029
+2015,"Northern Territory","75-79","Female",4520
+2015,"Northern Territory","75-79","Male",5029
 2015,"Queensland","0-4","Female",618605
 2015,"Queensland","0-4","Male",649998
 2015,"Queensland","10-14","Female",589135
@@ -717,8 +717,8 @@
 2015,"Queensland","80-84","Male",145241
 2015,"Queensland","85 and over","Female",207601
 2015,"Queensland","85 and over","Male",121247
-2015,"Queensland","A75: 75-79","Female",247685
-2015,"Queensland","A75: 75-79","Male",231973
+2015,"Queensland","75-79","Female",247685
+2015,"Queensland","75-79","Male",231973
 2015,"South Australia","0-4","Female",199920
 2015,"South Australia","0-4","Male",210466
 2015,"South Australia","10-14","Female",189108
@@ -753,8 +753,8 @@
 2015,"South Australia","80-84","Male",67543
 2015,"South Australia","85 and over","Female",109456
 2015,"South Australia","85 and over","Male",62689
-2015,"South Australia","A75: 75-79","Female",111440
-2015,"South Australia","A75: 75-79","Male",97002
+2015,"South Australia","75-79","Female",111440
+2015,"South Australia","75-79","Male",97002
 2015,"Tasmania","0-4","Female",58706
 2015,"Tasmania","0-4","Male",62132
 2015,"Tasmania","10-14","Female",59233
@@ -789,8 +789,8 @@
 2015,"Tasmania","80-84","Male",20805
 2015,"Tasmania","85 and over","Female",28625
 2015,"Tasmania","85 and over","Male",16601
-2015,"Tasmania","A75: 75-79","Female",34935
-2015,"Tasmania","A75: 75-79","Male",32021
+2015,"Tasmania","75-79","Female",34935
+2015,"Tasmania","75-79","Male",32021
 2015,"Victoria","0-4","Female",759866
 2015,"Victoria","0-4","Male",803659
 2015,"Victoria","10-14","Female",670333
@@ -825,8 +825,8 @@
 2015,"Victoria","80-84","Male",205692
 2015,"Victoria","85 and over","Female",311690
 2015,"Victoria","85 and over","Male",182413
-2015,"Victoria","A75: 75-79","Female",343684
-2015,"Victoria","A75: 75-79","Male",302814
+2015,"Victoria","75-79","Female",343684
+2015,"Victoria","75-79","Male",302814
 2015,"Western Australia","0-4","Female",336429
 2015,"Western Australia","0-4","Male",352318
 2015,"Western Australia","10-14","Female",297144
@@ -861,8 +861,8 @@
 2015,"Western Australia","80-84","Male",72284
 2015,"Western Australia","85 and over","Female",103236
 2015,"Western Australia","85 and over","Male",60243
-2015,"Western Australia","A75: 75-79","Female",125983
-2015,"Western Australia","A75: 75-79","Male",112682
+2015,"Western Australia","75-79","Female",125983
+2015,"Western Australia","75-79","Male",112682
 2016,"Australian Capital Territory","0-4","Female",54131
 2016,"Australian Capital Territory","0-4","Male",58233
 2016,"Australian Capital Territory","10-14","Female",43417
@@ -897,8 +897,8 @@
 2016,"Australian Capital Territory","80-84","Male",10148
 2016,"Australian Capital Territory","85 and over","Female",14943
 2016,"Australian Capital Territory","85 and over","Male",9019
-2016,"Australian Capital Territory","A75: 75-79","Female",18341
-2016,"Australian Capital Territory","A75: 75-79","Male",15766
+2016,"Australian Capital Territory","75-79","Female",18341
+2016,"Australian Capital Territory","75-79","Male",15766
 2016,"New South Wales","0-4","Female",974211
 2016,"New South Wales","0-4","Male",1030208
 2016,"New South Wales","10-14","Female",884392
@@ -933,8 +933,8 @@
 2016,"New South Wales","80-84","Male",275319
 2016,"New South Wales","85 and over","Female",418071
 2016,"New South Wales","85 and over","Male",245860
-2016,"New South Wales","A75: 75-79","Female",459782
-2016,"New South Wales","A75: 75-79","Male",411374
+2016,"New South Wales","75-79","Female",459782
+2016,"New South Wales","75-79","Male",411374
 2016,"Northern Territory","0-4","Female",37786
 2016,"Northern Territory","0-4","Male",39391
 2016,"Northern Territory","10-14","Female",31153
@@ -969,8 +969,8 @@
 2016,"Northern Territory","80-84","Male",2366
 2016,"Northern Territory","85 and over","Female",2219
 2016,"Northern Territory","85 and over","Male",1579
-2016,"Northern Territory","A75: 75-79","Female",4907
-2016,"Northern Territory","A75: 75-79","Male",5525
+2016,"Northern Territory","75-79","Female",4907
+2016,"Northern Territory","75-79","Male",5525
 2016,"Queensland","0-4","Female",618492
 2016,"Queensland","0-4","Male",650034
 2016,"Queensland","10-14","Female",599013
@@ -1005,8 +1005,8 @@
 2016,"Queensland","80-84","Male",150549
 2016,"Queensland","85 and over","Female",213394
 2016,"Queensland","85 and over","Male",126812
-2016,"Queensland","A75: 75-79","Female",259754
-2016,"Queensland","A75: 75-79","Male",243654
+2016,"Queensland","75-79","Female",259754
+2016,"Queensland","75-79","Male",243654
 2016,"South Australia","0-4","Female",200738
 2016,"South Australia","0-4","Male",210858
 2016,"South Australia","10-14","Female",190457
@@ -1041,8 +1041,8 @@
 2016,"South Australia","80-84","Male",68686
 2016,"South Australia","85 and over","Female",110881
 2016,"South Australia","85 and over","Male",64514
-2016,"South Australia","A75: 75-79","Female",114429
-2016,"South Australia","A75: 75-79","Male",99605
+2016,"South Australia","75-79","Female",114429
+2016,"South Australia","75-79","Male",99605
 2016,"Tasmania","0-4","Female",58343
 2016,"Tasmania","0-4","Male",61858
 2016,"Tasmania","10-14","Female",59480
@@ -1077,8 +1077,8 @@
 2016,"Tasmania","80-84","Male",21085
 2016,"Tasmania","85 and over","Female",29075
 2016,"Tasmania","85 and over","Male",17307
-2016,"Tasmania","A75: 75-79","Female",36470
-2016,"Tasmania","A75: 75-79","Male",33223
+2016,"Tasmania","75-79","Female",36470
+2016,"Tasmania","75-79","Male",33223
 2016,"Victoria","0-4","Female",779991
 2016,"Victoria","0-4","Male",825535
 2016,"Victoria","10-14","Female",687099
@@ -1113,8 +1113,8 @@
 2016,"Victoria","80-84","Male",210969
 2016,"Victoria","85 and over","Female",319139
 2016,"Victoria","85 and over","Male",190496
-2016,"Victoria","A75: 75-79","Female",353896
-2016,"Victoria","A75: 75-79","Male",313394
+2016,"Victoria","75-79","Female",353896
+2016,"Victoria","75-79","Male",313394
 2016,"Western Australia","0-4","Female",337875
 2016,"Western Australia","0-4","Male",354972
 2016,"Western Australia","10-14","Female",301404
@@ -1149,8 +1149,8 @@
 2016,"Western Australia","80-84","Male",74522
 2016,"Western Australia","85 and over","Female",105266
 2016,"Western Australia","85 and over","Male",62621
-2016,"Western Australia","A75: 75-79","Female",130129
-2016,"Western Australia","A75: 75-79","Male",117185
+2016,"Western Australia","75-79","Female",130129
+2016,"Western Australia","75-79","Male",117185
 2017,"Australian Capital Territory","0-4","Female",54917
 2017,"Australian Capital Territory","0-4","Male",58822
 2017,"Australian Capital Territory","10-14","Female",44878
@@ -1185,8 +1185,8 @@
 2017,"Australian Capital Territory","80-84","Male",10656
 2017,"Australian Capital Territory","85 and over","Female",15287
 2017,"Australian Capital Territory","85 and over","Male",9308
-2017,"Australian Capital Territory","A75: 75-79","Female",19221
-2017,"Australian Capital Territory","A75: 75-79","Male",16647
+2017,"Australian Capital Territory","75-79","Female",19221
+2017,"Australian Capital Territory","75-79","Male",16647
 2017,"New South Wales","0-4","Female",972437
 2017,"New South Wales","0-4","Male",1027156
 2017,"New South Wales","10-14","Female",906807
@@ -1221,8 +1221,8 @@
 2017,"New South Wales","80-84","Male",282922
 2017,"New South Wales","85 and over","Female",420200
 2017,"New South Wales","85 and over","Male",252037
-2017,"New South Wales","A75: 75-79","Female",470531
-2017,"New South Wales","A75: 75-79","Male",424658
+2017,"New South Wales","75-79","Female",470531
+2017,"New South Wales","75-79","Male",424658
 2017,"Northern Territory","0-4","Female",37223
 2017,"Northern Territory","0-4","Male",39002
 2017,"Northern Territory","10-14","Female",31607
@@ -1257,8 +1257,8 @@
 2017,"Northern Territory","80-84","Male",2496
 2017,"Northern Territory","85 and over","Female",2349
 2017,"Northern Territory","85 and over","Male",1715
-2017,"Northern Territory","A75: 75-79","Female",5246
-2017,"Northern Territory","A75: 75-79","Male",5989
+2017,"Northern Territory","75-79","Female",5246
+2017,"Northern Territory","75-79","Male",5989
 2017,"Queensland","0-4","Female",614699
 2017,"Queensland","0-4","Male",649302
 2017,"Queensland","10-14","Female",615166
@@ -1293,8 +1293,8 @@
 2017,"Queensland","80-84","Male",157556
 2017,"Queensland","85 and over","Female",216109
 2017,"Queensland","85 and over","Male",130682
-2017,"Queensland","A75: 75-79","Female",272332
-2017,"Queensland","A75: 75-79","Male",256894
+2017,"Queensland","75-79","Female",272332
+2017,"Queensland","75-79","Male",256894
 2017,"South Australia","0-4","Female",197855
 2017,"South Australia","0-4","Male",208641
 2017,"South Australia","10-14","Female",194646
@@ -1329,8 +1329,8 @@
 2017,"South Australia","80-84","Male",70804
 2017,"South Australia","85 and over","Female",111197
 2017,"South Australia","85 and over","Male",65775
-2017,"South Australia","A75: 75-79","Female",117943
-2017,"South Australia","A75: 75-79","Male",102922
+2017,"South Australia","75-79","Female",117943
+2017,"South Australia","75-79","Male",102922
 2017,"Tasmania","0-4","Female",58070
 2017,"Tasmania","0-4","Male",61432
 2017,"Tasmania","10-14","Female",60818
@@ -1365,8 +1365,8 @@
 2017,"Tasmania","80-84","Male",21786
 2017,"Tasmania","85 and over","Female",29258
 2017,"Tasmania","85 and over","Male",17804
-2017,"Tasmania","A75: 75-79","Female",37799
-2017,"Tasmania","A75: 75-79","Male",34907
+2017,"Tasmania","75-79","Female",37799
+2017,"Tasmania","75-79","Male",34907
 2017,"Victoria","0-4","Female",784908
 2017,"Victoria","0-4","Male",830976
 2017,"Victoria","10-14","Female",708362
@@ -1401,8 +1401,8 @@
 2017,"Victoria","80-84","Male",217754
 2017,"Victoria","85 and over","Female",322786
 2017,"Victoria","85 and over","Male",195207
-2017,"Victoria","A75: 75-79","Female",363970
-2017,"Victoria","A75: 75-79","Male",324618
+2017,"Victoria","75-79","Female",363970
+2017,"Victoria","75-79","Male",324618
 2017,"Western Australia","0-4","Female",338501
 2017,"Western Australia","0-4","Male",357415
 2017,"Western Australia","10-14","Female",310439
@@ -1437,8 +1437,8 @@
 2017,"Western Australia","80-84","Male",78305
 2017,"Western Australia","85 and over","Female",107591
 2017,"Western Australia","85 and over","Male",65021
-2017,"Western Australia","A75: 75-79","Female",135371
-2017,"Western Australia","A75: 75-79","Male",123448
+2017,"Western Australia","75-79","Female",135371
+2017,"Western Australia","75-79","Male",123448
 2018,"Australian Capital Territory","0-4","Female",54564
 2018,"Australian Capital Territory","0-4","Male",58256
 2018,"Australian Capital Territory","10-14","Female",46603
@@ -1473,8 +1473,8 @@
 2018,"Australian Capital Territory","80-84","Male",11219
 2018,"Australian Capital Territory","85 and over","Female",15493
 2018,"Australian Capital Territory","85 and over","Male",9589
-2018,"Australian Capital Territory","A75: 75-79","Female",20104
-2018,"Australian Capital Territory","A75: 75-79","Male",17274
+2018,"Australian Capital Territory","75-79","Female",20104
+2018,"Australian Capital Territory","75-79","Male",17274
 2018,"New South Wales","0-4","Female",963006
 2018,"New South Wales","0-4","Male",1017944
 2018,"New South Wales","10-14","Female",929873
@@ -1509,8 +1509,8 @@
 2018,"New South Wales","80-84","Male",292638
 2018,"New South Wales","85 and over","Female",422732
 2018,"New South Wales","85 and over","Male",258079
-2018,"New South Wales","A75: 75-79","Female",482106
-2018,"New South Wales","A75: 75-79","Male",439688
+2018,"New South Wales","75-79","Female",482106
+2018,"New South Wales","75-79","Male",439688
 2018,"Northern Territory","0-4","Female",35941
 2018,"Northern Territory","0-4","Male",38310
 2018,"Northern Territory","10-14","Female",32272
@@ -1545,8 +1545,8 @@
 2018,"Northern Territory","80-84","Male",2750
 2018,"Northern Territory","85 and over","Female",2436
 2018,"Northern Territory","85 and over","Male",1810
-2018,"Northern Territory","A75: 75-79","Female",5560
-2018,"Northern Territory","A75: 75-79","Male",6325
+2018,"Northern Territory","75-79","Female",5560
+2018,"Northern Territory","75-79","Male",6325
 2018,"Queensland","0-4","Female",610901
 2018,"Queensland","0-4","Male",645855
 2018,"Queensland","10-14","Female",634416
@@ -1581,8 +1581,8 @@
 2018,"Queensland","80-84","Male",166078
 2018,"Queensland","85 and over","Female",219048
 2018,"Queensland","85 and over","Male",134582
-2018,"Queensland","A75: 75-79","Female",285734
-2018,"Queensland","A75: 75-79","Male",269868
+2018,"Queensland","75-79","Female",285734
+2018,"Queensland","75-79","Male",269868
 2018,"South Australia","0-4","Female",195035
 2018,"South Australia","0-4","Male",206040
 2018,"South Australia","10-14","Female",199550
@@ -1617,8 +1617,8 @@
 2018,"South Australia","80-84","Male",72920
 2018,"South Australia","85 and over","Female",111942
 2018,"South Australia","85 and over","Male",67418
-2018,"South Australia","A75: 75-79","Female",121697
-2018,"South Australia","A75: 75-79","Male",106877
+2018,"South Australia","75-79","Female",121697
+2018,"South Australia","75-79","Male",106877
 2018,"Tasmania","0-4","Female",57592
 2018,"Tasmania","0-4","Male",61288
 2018,"Tasmania","10-14","Female",62586
@@ -1653,8 +1653,8 @@
 2018,"Tasmania","80-84","Male",22968
 2018,"Tasmania","85 and over","Female",29710
 2018,"Tasmania","85 and over","Male",18339
-2018,"Tasmania","A75: 75-79","Female",38977
-2018,"Tasmania","A75: 75-79","Male",36636
+2018,"Tasmania","75-79","Female",38977
+2018,"Tasmania","75-79","Male",36636
 2018,"Victoria","0-4","Female",782287
 2018,"Victoria","0-4","Male",828629
 2018,"Victoria","10-14","Female",729747
@@ -1689,8 +1689,8 @@
 2018,"Victoria","80-84","Male",225811
 2018,"Victoria","85 and over","Female",327588
 2018,"Victoria","85 and over","Male",200509
-2018,"Victoria","A75: 75-79","Female",372588
-2018,"Victoria","A75: 75-79","Male",334912
+2018,"Victoria","75-79","Female",372588
+2018,"Victoria","75-79","Male",334912
 2018,"Western Australia","0-4","Female",336717
 2018,"Western Australia","0-4","Male",356878
 2018,"Western Australia","10-14","Female",320750
@@ -1725,8 +1725,8 @@
 2018,"Western Australia","80-84","Male",83087
 2018,"Western Australia","85 and over","Female",111139
 2018,"Western Australia","85 and over","Male",68161
-2018,"Western Australia","A75: 75-79","Female",140001
-2018,"Western Australia","A75: 75-79","Male",129035
+2018,"Western Australia","75-79","Female",140001
+2018,"Western Australia","75-79","Male",129035
 2019,"Australian Capital Territory","0-4","Female",54551
 2019,"Australian Capital Territory","0-4","Male",57632
 2019,"Australian Capital Territory","10-14","Female",48769
@@ -1761,8 +1761,8 @@
 2019,"Australian Capital Territory","80-84","Male",11894
 2019,"Australian Capital Territory","85 and over","Female",15820
 2019,"Australian Capital Territory","85 and over","Male",10062
-2019,"Australian Capital Territory","A75: 75-79","Female",21450
-2019,"Australian Capital Territory","A75: 75-79","Male",18221
+2019,"Australian Capital Territory","75-79","Female",21450
+2019,"Australian Capital Territory","75-79","Male",18221
 2019,"New South Wales","0-4","Female",954337
 2019,"New South Wales","0-4","Male",1012638
 2019,"New South Wales","10-14","Female",954116
@@ -1797,8 +1797,8 @@
 2019,"New South Wales","80-84","Male",304245
 2019,"New South Wales","85 and over","Female",425391
 2019,"New South Wales","85 and over","Male",264096
-2019,"New South Wales","A75: 75-79","Female",500546
-2019,"New South Wales","A75: 75-79","Male",460881
+2019,"New South Wales","75-79","Female",500546
+2019,"New South Wales","75-79","Male",460881
 2019,"Northern Territory","0-4","Female",34957
 2019,"Northern Territory","0-4","Male",37527
 2019,"Northern Territory","10-14","Female",32620
@@ -1833,8 +1833,8 @@
 2019,"Northern Territory","80-84","Male",2956
 2019,"Northern Territory","85 and over","Female",2508
 2019,"Northern Territory","85 and over","Male",1856
-2019,"Northern Territory","A75: 75-79","Female",5944
-2019,"Northern Territory","A75: 75-79","Male",6695
+2019,"Northern Territory","75-79","Female",5944
+2019,"Northern Territory","75-79","Male",6695
 2019,"Queensland","0-4","Female",605225
 2019,"Queensland","0-4","Male",640938
 2019,"Queensland","10-14","Female",653829
@@ -1869,8 +1869,8 @@
 2019,"Queensland","80-84","Male",176280
 2019,"Queensland","85 and over","Female",222158
 2019,"Queensland","85 and over","Male",139098
-2019,"Queensland","A75: 75-79","Female",302082
-2019,"Queensland","A75: 75-79","Male",286671
+2019,"Queensland","75-79","Female",302082
+2019,"Queensland","75-79","Male",286671
 2019,"South Australia","0-4","Female",193457
 2019,"South Australia","0-4","Male",203834
 2019,"South Australia","10-14","Female",204510
@@ -1905,8 +1905,8 @@
 2019,"South Australia","80-84","Male",75446
 2019,"South Australia","85 and over","Female",112517
 2019,"South Australia","85 and over","Male",69105
-2019,"South Australia","A75: 75-79","Female",126448
-2019,"South Australia","A75: 75-79","Male",111799
+2019,"South Australia","75-79","Female",126448
+2019,"South Australia","75-79","Male",111799
 2019,"Tasmania","0-4","Female",57327
 2019,"Tasmania","0-4","Male",61193
 2019,"Tasmania","10-14","Female",64554
@@ -1941,8 +1941,8 @@
 2019,"Tasmania","80-84","Male",24145
 2019,"Tasmania","85 and over","Female",30240
 2019,"Tasmania","85 and over","Male",18925
-2019,"Tasmania","A75: 75-79","Female",40917
-2019,"Tasmania","A75: 75-79","Male",38808
+2019,"Tasmania","75-79","Female",40917
+2019,"Tasmania","75-79","Male",38808
 2019,"Victoria","0-4","Female",779720
 2019,"Victoria","0-4","Male",823506
 2019,"Victoria","10-14","Female",751242
@@ -1977,8 +1977,8 @@
 2019,"Victoria","80-84","Male",234496
 2019,"Victoria","85 and over","Female",332178
 2019,"Victoria","85 and over","Male",206102
-2019,"Victoria","A75: 75-79","Female",386289
-2019,"Victoria","A75: 75-79","Male",347668
+2019,"Victoria","75-79","Female",386289
+2019,"Victoria","75-79","Male",347668
 2019,"Western Australia","0-4","Female",335181
 2019,"Western Australia","0-4","Male",357481
 2019,"Western Australia","10-14","Female",330545
@@ -2013,8 +2013,8 @@
 2019,"Western Australia","80-84","Male",88418
 2019,"Western Australia","85 and over","Female",114286
 2019,"Western Australia","85 and over","Male",71161
-2019,"Western Australia","A75: 75-79","Female",146499
-2019,"Western Australia","A75: 75-79","Male",136796
+2019,"Western Australia","75-79","Female",146499
+2019,"Western Australia","75-79","Male",136796
 2020,"Australian Capital Territory","0-4","Female",53861
 2020,"Australian Capital Territory","0-4","Male",56688
 2020,"Australian Capital Territory","10-14","Female",51307
@@ -2049,8 +2049,8 @@
 2020,"Australian Capital Territory","80-84","Male",12452
 2020,"Australian Capital Territory","85 and over","Female",16228
 2020,"Australian Capital Territory","85 and over","Male",10634
-2020,"Australian Capital Territory","A75: 75-79","Female",22968
-2020,"Australian Capital Territory","A75: 75-79","Male",19504
+2020,"Australian Capital Territory","75-79","Female",22968
+2020,"Australian Capital Territory","75-79","Male",19504
 2020,"New South Wales","0-4","Female",939700
 2020,"New South Wales","0-4","Male",997046
 2020,"New South Wales","10-14","Female",975197
@@ -2085,8 +2085,8 @@
 2020,"New South Wales","80-84","Male",318174
 2020,"New South Wales","85 and over","Female",431999
 2020,"New South Wales","85 and over","Male",272233
-2020,"New South Wales","A75: 75-79","Female",523618
-2020,"New South Wales","A75: 75-79","Male",483725
+2020,"New South Wales","75-79","Female",523618
+2020,"New South Wales","75-79","Male",483725
 2020,"Northern Territory","0-4","Female",34202
 2020,"Northern Territory","0-4","Male",36864
 2020,"Northern Territory","10-14","Female",32959
@@ -2121,8 +2121,8 @@
 2020,"Northern Territory","80-84","Male",3432
 2020,"Northern Territory","85 and over","Female",2629
 2020,"Northern Territory","85 and over","Male",1916
-2020,"Northern Territory","A75: 75-79","Female",6154
-2020,"Northern Territory","A75: 75-79","Male",7002
+2020,"Northern Territory","75-79","Female",6154
+2020,"Northern Territory","75-79","Male",7002
 2020,"Queensland","0-4","Female",594685
 2020,"Queensland","0-4","Male",630612
 2020,"Queensland","10-14","Female",671083
@@ -2157,8 +2157,8 @@
 2020,"Queensland","80-84","Male",187468
 2020,"Queensland","85 and over","Female",227607
 2020,"Queensland","85 and over","Male",145115
-2020,"Queensland","A75: 75-79","Female",321919
-2020,"Queensland","A75: 75-79","Male",305675
+2020,"Queensland","75-79","Female",321919
+2020,"Queensland","75-79","Male",305675
 2020,"South Australia","0-4","Female",191572
 2020,"South Australia","0-4","Male",200864
 2020,"South Australia","10-14","Female",208429
@@ -2193,8 +2193,8 @@
 2020,"South Australia","80-84","Male",78509
 2020,"South Australia","85 and over","Female",113444
 2020,"South Australia","85 and over","Male",70731
-2020,"South Australia","A75: 75-79","Female",132990
-2020,"South Australia","A75: 75-79","Male",118115
+2020,"South Australia","75-79","Female",132990
+2020,"South Australia","75-79","Male",118115
 2020,"Tasmania","0-4","Female",57066
 2020,"Tasmania","0-4","Male",60852
 2020,"Tasmania","10-14","Female",65516
@@ -2229,8 +2229,8 @@
 2020,"Tasmania","80-84","Male",25590
 2020,"Tasmania","85 and over","Female",30828
 2020,"Tasmania","85 and over","Male",19668
-2020,"Tasmania","A75: 75-79","Female",43223
-2020,"Tasmania","A75: 75-79","Male",40644
+2020,"Tasmania","75-79","Female",43223
+2020,"Tasmania","75-79","Male",40644
 2020,"Victoria","0-4","Female",765966
 2020,"Victoria","0-4","Male",807497
 2020,"Victoria","10-14","Female",769644
@@ -2265,8 +2265,8 @@
 2020,"Victoria","80-84","Male",244623
 2020,"Victoria","85 and over","Female",336874
 2020,"Victoria","85 and over","Male",211575
-2020,"Victoria","A75: 75-79","Female",403009
-2020,"Victoria","A75: 75-79","Male",363388
+2020,"Victoria","75-79","Female",403009
+2020,"Victoria","75-79","Male",363388
 2020,"Western Australia","0-4","Female",333048
 2020,"Western Australia","0-4","Male",354400
 2020,"Western Australia","10-14","Female",340846
@@ -2301,8 +2301,8 @@
 2020,"Western Australia","80-84","Male",93860
 2020,"Western Australia","85 and over","Female",118413
 2020,"Western Australia","85 and over","Male",75730
-2020,"Western Australia","A75: 75-79","Female",154058
-2020,"Western Australia","A75: 75-79","Male",145596
+2020,"Western Australia","75-79","Female",154058
+2020,"Western Australia","75-79","Male",145596
 2021,"Australian Capital Territory","0-4","Female",52615
 2021,"Australian Capital Territory","0-4","Male",55448
 2021,"Australian Capital Territory","10-14","Female",52806
@@ -2337,8 +2337,8 @@
 2021,"Australian Capital Territory","80-84","Male",13063
 2021,"Australian Capital Territory","85 and over","Female",16912
 2021,"Australian Capital Territory","85 and over","Male",11202
-2021,"Australian Capital Territory","A75: 75-79","Female",24679
-2021,"Australian Capital Territory","A75: 75-79","Male",21295
+2021,"Australian Capital Territory","75-79","Female",24679
+2021,"Australian Capital Territory","75-79","Male",21295
 2021,"New South Wales","0-4","Female",929623
 2021,"New South Wales","0-4","Male",987174
 2021,"New South Wales","10-14","Female",987107
@@ -2373,8 +2373,8 @@
 2021,"New South Wales","80-84","Male",329424
 2021,"New South Wales","85 and over","Female",440488
 2021,"New South Wales","85 and over","Male",282279
-2021,"New South Wales","A75: 75-79","Female",549059
-2021,"New South Wales","A75: 75-79","Male",508680
+2021,"New South Wales","75-79","Female",549059
+2021,"New South Wales","75-79","Male",508680
 2021,"Northern Territory","0-4","Female",33578
 2021,"Northern Territory","0-4","Male",36449
 2021,"Northern Territory","10-14","Female",32827
@@ -2409,8 +2409,8 @@
 2021,"Northern Territory","80-84","Male",3814
 2021,"Northern Territory","85 and over","Female",2747
 2021,"Northern Territory","85 and over","Male",2080
-2021,"Northern Territory","A75: 75-79","Female",6477
-2021,"Northern Territory","A75: 75-79","Male",7329
+2021,"Northern Territory","75-79","Female",6477
+2021,"Northern Territory","75-79","Male",7329
 2021,"Queensland","0-4","Female",587210
 2021,"Queensland","0-4","Male",623894
 2021,"Queensland","10-14","Female",681857
@@ -2445,8 +2445,8 @@
 2021,"Queensland","80-84","Male",198205
 2021,"Queensland","85 and over","Female",233620
 2021,"Queensland","85 and over","Male",152348
-2021,"Queensland","A75: 75-79","Female",344557
-2021,"Queensland","A75: 75-79","Male",327099
+2021,"Queensland","75-79","Female",344557
+2021,"Queensland","75-79","Male",327099
 2021,"South Australia","0-4","Female",190490
 2021,"South Australia","0-4","Male",199400
 2021,"South Australia","10-14","Female",210664
@@ -2481,8 +2481,8 @@
 2021,"South Australia","80-84","Male",81189
 2021,"South Australia","85 and over","Female",115157
 2021,"South Australia","85 and over","Male",72914
-2021,"South Australia","A75: 75-79","Female",141289
-2021,"South Australia","A75: 75-79","Male",126096
+2021,"South Australia","75-79","Female",141289
+2021,"South Australia","75-79","Male",126096
 2021,"Tasmania","0-4","Female",56905
 2021,"Tasmania","0-4","Male",60742
 2021,"Tasmania","10-14","Female",65843
@@ -2517,8 +2517,8 @@
 2021,"Tasmania","80-84","Male",27091
 2021,"Tasmania","85 and over","Female",31426
 2021,"Tasmania","85 and over","Male",20490
-2021,"Tasmania","A75: 75-79","Female",45741
-2021,"Tasmania","A75: 75-79","Male",42833
+2021,"Tasmania","75-79","Female",45741
+2021,"Tasmania","75-79","Male",42833
 2021,"Victoria","0-4","Female",753605
 2021,"Victoria","0-4","Male",790736
 2021,"Victoria","10-14","Female",775676
@@ -2553,8 +2553,8 @@
 2021,"Victoria","80-84","Male",253414
 2021,"Victoria","85 and over","Female",343136
 2021,"Victoria","85 and over","Male",218465
-2021,"Victoria","A75: 75-79","Female",423283
-2021,"Victoria","A75: 75-79","Male",381321
+2021,"Victoria","75-79","Female",423283
+2021,"Victoria","75-79","Male",381321
 2021,"Western Australia","0-4","Female",331012
 2021,"Western Australia","0-4","Male",351671
 2021,"Western Australia","10-14","Female",347643
@@ -2589,8 +2589,8 @@
 2021,"Western Australia","80-84","Male",99073
 2021,"Western Australia","85 and over","Female",122610
 2021,"Western Australia","85 and over","Male",80164
-2021,"Western Australia","A75: 75-79","Female",163111
-2021,"Western Australia","A75: 75-79","Male",155067
+2021,"Western Australia","75-79","Female",163111
+2021,"Western Australia","75-79","Male",155067
 2022,"Australian Capital Territory","0-4","Female",51922
 2022,"Australian Capital Territory","0-4","Male",54500
 2022,"Australian Capital Territory","10-14","Female",53706
@@ -2625,8 +2625,8 @@
 2022,"Australian Capital Territory","80-84","Male",13873
 2022,"Australian Capital Territory","85 and over","Female",17728
 2022,"Australian Capital Territory","85 and over","Male",11559
-2022,"Australian Capital Territory","A75: 75-79","Female",27078
-2022,"Australian Capital Territory","A75: 75-79","Male",23210
+2022,"Australian Capital Territory","75-79","Female",27078
+2022,"Australian Capital Territory","75-79","Male",23210
 2022,"New South Wales","0-4","Female",931335
 2022,"New South Wales","0-4","Male",987733
 2022,"New South Wales","10-14","Female",995681
@@ -2661,8 +2661,8 @@
 2022,"New South Wales","80-84","Male",339147
 2022,"New South Wales","85 and over","Female",444853
 2022,"New South Wales","85 and over","Male",289811
-2022,"New South Wales","A75: 75-79","Female",586864
-2022,"New South Wales","A75: 75-79","Male",542869
+2022,"New South Wales","75-79","Female",586864
+2022,"New South Wales","75-79","Male",542869
 2022,"Northern Territory","0-4","Female",33431
 2022,"Northern Territory","0-4","Male",35753
 2022,"Northern Territory","10-14","Female",33340
@@ -2697,8 +2697,8 @@
 2022,"Northern Territory","80-84","Male",4273
 2022,"Northern Territory","85 and over","Female",2913
 2022,"Northern Territory","85 and over","Male",2181
-2022,"Northern Territory","A75: 75-79","Female",7241
-2022,"Northern Territory","A75: 75-79","Male",8012
+2022,"Northern Territory","75-79","Female",7241
+2022,"Northern Territory","75-79","Male",8012
 2022,"Queensland","0-4","Female",595325
 2022,"Queensland","0-4","Male",631818
 2022,"Queensland","10-14","Female",692136
@@ -2733,8 +2733,8 @@
 2022,"Queensland","80-84","Male",208746
 2022,"Queensland","85 and over","Female",239714
 2022,"Queensland","85 and over","Male",158694
-2022,"Queensland","A75: 75-79","Female",374768
-2022,"Queensland","A75: 75-79","Male",354113
+2022,"Queensland","75-79","Female",374768
+2022,"Queensland","75-79","Male",354113
 2022,"South Australia","0-4","Female",190512
 2022,"South Australia","0-4","Male",200356
 2022,"South Australia","10-14","Female",212328
@@ -2769,8 +2769,8 @@
 2022,"South Australia","80-84","Male",83991
 2022,"South Australia","85 and over","Female",116058
 2022,"South Australia","85 and over","Male",74900
-2022,"South Australia","A75: 75-79","Female",152655
-2022,"South Australia","A75: 75-79","Male",136281
+2022,"South Australia","75-79","Female",152655
+2022,"South Australia","75-79","Male",136281
 2022,"Tasmania","0-4","Female",56875
 2022,"Tasmania","0-4","Male",60555
 2022,"Tasmania","10-14","Female",65524
@@ -2805,8 +2805,8 @@
 2022,"Tasmania","80-84","Male",28367
 2022,"Tasmania","85 and over","Female",32257
 2022,"Tasmania","85 and over","Male",21317
-2022,"Tasmania","A75: 75-79","Female",49457
-2022,"Tasmania","A75: 75-79","Male",46441
+2022,"Tasmania","75-79","Female",49457
+2022,"Tasmania","75-79","Male",46441
 2022,"Victoria","0-4","Female",753432
 2022,"Victoria","0-4","Male",788665
 2022,"Victoria","10-14","Female",784964
@@ -2841,8 +2841,8 @@
 2022,"Victoria","80-84","Male",261696
 2022,"Victoria","85 and over","Female",347262
 2022,"Victoria","85 and over","Male",224028
-2022,"Victoria","A75: 75-79","Female",454834
-2022,"Victoria","A75: 75-79","Male",407373
+2022,"Victoria","75-79","Female",454834
+2022,"Victoria","75-79","Male",407373
 2022,"Western Australia","0-4","Female",330685
 2022,"Western Australia","0-4","Male",350437
 2022,"Western Australia","10-14","Female",352258
@@ -2877,8 +2877,8 @@
 2022,"Western Australia","80-84","Male",104480
 2022,"Western Australia","85 and over","Female",126598
 2022,"Western Australia","85 and over","Male",84219
-2022,"Western Australia","A75: 75-79","Female",177539
-2022,"Western Australia","A75: 75-79","Male",168188
+2022,"Western Australia","75-79","Female",177539
+2022,"Western Australia","75-79","Male",168188
 2023,"Australian Capital Territory","0-4","Female",51218
 2023,"Australian Capital Territory","0-4","Male",53836
 2023,"Australian Capital Territory","10-14","Female",54845
@@ -2913,8 +2913,8 @@
 2023,"Australian Capital Territory","80-84","Male",14504
 2023,"Australian Capital Territory","85 and over","Female",18422
 2023,"Australian Capital Territory","85 and over","Male",12047
-2023,"Australian Capital Territory","A75: 75-79","Female",29208
-2023,"Australian Capital Territory","A75: 75-79","Male",24946
+2023,"Australian Capital Territory","75-79","Female",29208
+2023,"Australian Capital Territory","75-79","Male",24946
 2023,"New South Wales","0-4","Female",927113
 2023,"New South Wales","0-4","Male",983857
 2023,"New South Wales","10-14","Female",1002105
@@ -2949,8 +2949,8 @@
 2023,"New South Wales","80-84","Male",350534
 2023,"New South Wales","85 and over","Female",451821
 2023,"New South Wales","85 and over","Male",299011
-2023,"New South Wales","A75: 75-79","Female",621033
-2023,"New South Wales","A75: 75-79","Male",573010
+2023,"New South Wales","75-79","Female",621033
+2023,"New South Wales","75-79","Male",573010
 2023,"Northern Territory","0-4","Female",32656
 2023,"Northern Territory","0-4","Male",34845
 2023,"Northern Territory","10-14","Female",33807
@@ -2985,8 +2985,8 @@
 2023,"Northern Territory","80-84","Male",4619
 2023,"Northern Territory","85 and over","Female",3223
 2023,"Northern Territory","85 and over","Male",2414
-2023,"Northern Territory","A75: 75-79","Female",8059
-2023,"Northern Territory","A75: 75-79","Male",8674
+2023,"Northern Territory","75-79","Female",8059
+2023,"Northern Territory","75-79","Male",8674
 2023,"Queensland","0-4","Female",598929
 2023,"Queensland","0-4","Male",633407
 2023,"Queensland","10-14","Female",699426
@@ -3021,8 +3021,8 @@
 2023,"Queensland","80-84","Male",219401
 2023,"Queensland","85 and over","Female",246725
 2023,"Queensland","85 and over","Male",166138
-2023,"Queensland","A75: 75-79","Female",400763
-2023,"Queensland","A75: 75-79","Male",377076
+2023,"Queensland","75-79","Female",400763
+2023,"Queensland","75-79","Male",377076
 2023,"South Australia","0-4","Female",190269
 2023,"South Australia","0-4","Male",199307
 2023,"South Australia","10-14","Female",213489
@@ -3057,8 +3057,8 @@
 2023,"South Australia","80-84","Male",87014
 2023,"South Australia","85 and over","Female",117827
 2023,"South Australia","85 and over","Male",77053
-2023,"South Australia","A75: 75-79","Female",162012
-2023,"South Australia","A75: 75-79","Male",144166
+2023,"South Australia","75-79","Female",162012
+2023,"South Australia","75-79","Male",144166
 2023,"Tasmania","0-4","Female",56482
 2023,"Tasmania","0-4","Male",59700
 2023,"Tasmania","10-14","Female",65028
@@ -3093,8 +3093,8 @@
 2023,"Tasmania","80-84","Male",29526
 2023,"Tasmania","85 and over","Female",33065
 2023,"Tasmania","85 and over","Male",22187
-2023,"Tasmania","A75: 75-79","Female",52461
-2023,"Tasmania","A75: 75-79","Male",49159
+2023,"Tasmania","75-79","Female",52461
+2023,"Tasmania","75-79","Male",49159
 2023,"Victoria","0-4","Female",754476
 2023,"Victoria","0-4","Male",790514
 2023,"Victoria","10-14","Female",798726
@@ -3129,8 +3129,8 @@
 2023,"Victoria","80-84","Male",269782
 2023,"Victoria","85 and over","Female",354849
 2023,"Victoria","85 and over","Male",232324
-2023,"Victoria","A75: 75-79","Female",484203
-2023,"Victoria","A75: 75-79","Male",431417
+2023,"Victoria","75-79","Female",484203
+2023,"Victoria","75-79","Male",431417
 2023,"Western Australia","0-4","Female",330196
 2023,"Western Australia","0-4","Male",349318
 2023,"Western Australia","10-14","Female",358902
@@ -3165,5 +3165,5 @@
 2023,"Western Australia","80-84","Male",108779
 2023,"Western Australia","85 and over","Female",131129
 2023,"Western Australia","85 and over","Male",88621
-2023,"Western Australia","A75: 75-79","Female",191349
-2023,"Western Australia","A75: 75-79","Male",180680
+2023,"Western Australia","75-79","Female",191349
+2023,"Western Australia","75-79","Male",180680
