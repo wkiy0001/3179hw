@@ -1,0 +1,298 @@
+"TimePeriod","Region","ObsValue","State","Rank"
+2023,"Brisbane",1323162,"Queensland",1
+2022,"Brisbane",1283432,"Queensland",1
+2020,"Brisbane",1263500,"Queensland",1
+2021,"Brisbane",1262968,"Queensland",1
+2019,"Brisbane",1247133,"Queensland",1
+2018,"Brisbane",1226938,"Queensland",1
+2017,"Brisbane",1206960,"Queensland",1
+2016,"Brisbane",1184752,"Queensland",1
+2015,"Brisbane",1165437,"Queensland",1
+2014,"Brisbane",1149107,"Queensland",1
+2013,"Brisbane",1131996,"Queensland",1
+2023,"Gold Coast",666087,"Queensland",2
+2022,"Gold Coast",647178,"Queensland",2
+2021,"Gold Coast",633598,"Queensland",2
+2020,"Gold Coast",626342,"Queensland",2
+2019,"Gold Coast",614435,"Queensland",2
+2018,"Gold Coast",602443,"Queensland",2
+2017,"Gold Coast",589101,"Queensland",2
+2016,"Gold Coast",575303,"Queensland",2
+2015,"Gold Coast",561629,"Queensland",2
+2014,"Gold Coast",550718,"Queensland",2
+2013,"Gold Coast",540687,"Queensland",2
+2023,"Moreton Bay",510104,"Queensland",3
+2022,"Moreton Bay",496772,"Queensland",3
+2021,"Moreton Bay",484353,"Queensland",3
+2020,"Moreton Bay",476622,"Queensland",3
+2019,"Moreton Bay",467314,"Queensland",3
+2023,"Unincorporated ACT",466566,"Australian Capital Territory",1
+2018,"Moreton Bay",458013,"Queensland",3
+2022,"Unincorporated ACT",456915,"Australian Capital Territory",1
+2021,"Unincorporated ACT",452508,"Australian Capital Territory",1
+2017,"Moreton Bay",448559,"Queensland",3
+2020,"Unincorporated ACT",444903,"Australian Capital Territory",1
+2016,"Moreton Bay",439292,"Queensland",3
+2019,"Unincorporated ACT",435730,"Australian Capital Territory",1
+2015,"Moreton Bay",428994,"Queensland",3
+2023,"Blacktown",426202,"New South Wales",1
+2018,"Unincorporated ACT",426081,"Australian Capital Territory",1
+2014,"Moreton Bay",419764,"Queensland",3
+2017,"Unincorporated ACT",415046,"Australian Capital Territory",1
+2022,"Blacktown",410944,"New South Wales",1
+2013,"Moreton Bay",410687,"Queensland",3
+2016,"Unincorporated ACT",403104,"Australian Capital Territory",1
+2021,"Blacktown",399925,"New South Wales",1
+2015,"Unincorporated ACT",395813,"Australian Capital Territory",1
+2023,"Casey",392110,"Victoria",1
+2020,"Blacktown",391911,"New South Wales",1
+2014,"Unincorporated ACT",388799,"Australian Capital Territory",1
+2013,"Unincorporated ACT",383257,"Australian Capital Territory",1
+2019,"Blacktown",380186,"New South Wales",1
+2023,"Canterbury-Bankstown",379829,NA,1
+2022,"Casey",379104,"Victoria",1
+2020,"Canterbury-Bankstown",376638,NA,1
+2019,"Canterbury-Bankstown",375333,NA,1
+2021,"Canterbury-Bankstown",372459,NA,1
+2022,"Canterbury-Bankstown",372119,NA,1
+2018,"Canterbury-Bankstown",371891,NA,1
+2021,"Casey",369558,"Victoria",1
+2018,"Blacktown",369384,"New South Wales",1
+2017,"Canterbury-Bankstown",367534,NA,1
+2020,"Casey",363970,"Victoria",1
+2016,"Canterbury-Bankstown",361862,NA,1
+2017,"Blacktown",359591,"New South Wales",1
+2015,"Canterbury-Bankstown",356328,NA,1
+2019,"Casey",352006,"Victoria",1
+2023,"Central Coast (NSW)",351934,"New South Wales",2
+2014,"Canterbury-Bankstown",350922,NA,1
+2022,"Central Coast (NSW)",349158,"New South Wales",2
+2021,"Central Coast (NSW)",348493,"New South Wales",2
+2016,"Blacktown",348030,"New South Wales",1
+2020,"Central Coast (NSW)",347734,"New South Wales",2
+2019,"Central Coast (NSW)",345695,"New South Wales",2
+2013,"Canterbury-Bankstown",345692,NA,1
+2018,"Central Coast (NSW)",343074,"New South Wales",2
+2017,"Central Coast (NSW)",340140,"New South Wales",2
+2015,"Blacktown",339449,"New South Wales",1
+2018,"Casey",338087,"Victoria",1
+2016,"Central Coast (NSW)",336611,"New South Wales",2
+2015,"Central Coast (NSW)",333264,"New South Wales",2
+2014,"Blacktown",331825,"New South Wales",1
+2014,"Central Coast (NSW)",330377,"New South Wales",2
+2013,"Central Coast (NSW)",327745,"New South Wales",1
+2017,"Casey",324946,"Victoria",1
+2013,"Blacktown",324797,"New South Wales",2
+2023,"Wyndham",324087,"Victoria",2
+2016,"Casey",312789,"Victoria",1
+2022,"Wyndham",309398,"Victoria",2
+2015,"Casey",299528,"Victoria",1
+2021,"Wyndham",296322,"Victoria",2
+2014,"Casey",287937,"Victoria",1
+2020,"Wyndham",287292,"Victoria",2
+2023,"Greater Geelong",282809,"Victoria",3
+2013,"Casey",278023,"Victoria",1
+2022,"Greater Geelong",276601,"Victoria",3
+2019,"Wyndham",273201,"Victoria",2
+2021,"Greater Geelong",270932,"Victoria",3
+2023,"Parramatta",269145,"New South Wales",3
+2019,"Northern Beaches",268935,"New South Wales",3
+2018,"Northern Beaches",268390,"New South Wales",3
+2020,"Northern Beaches",268164,"New South Wales",3
+2017,"Northern Beaches",267483,"New South Wales",3
+2020,"Greater Geelong",266036,"Victoria",3
+2016,"Northern Beaches",265468,"New South Wales",3
+2021,"Northern Beaches",264567,"New South Wales",3
+2022,"Northern Beaches",263340,"New South Wales",3
+2015,"Northern Beaches",262593,"New South Wales",3
+2019,"Greater Geelong",260134,"Victoria",3
+2014,"Northern Beaches",259723,"New South Wales",3
+2013,"Northern Beaches",257020,"New South Wales",3
+2018,"Wyndham",257010,"Victoria",2
+2018,"Greater Geelong",253175,"Victoria",3
+2017,"Greater Geelong",246384,"Victoria",2
+2023,"Stirling",243871,"Western Australia",1
+2017,"Wyndham",241573,"Victoria",3
+2016,"Greater Geelong",239529,"Victoria",2
+2022,"Stirling",236262,"Western Australia",1
+2023,"Sutherland Shire",235029,NA,2
+2021,"Stirling",234322,"Western Australia",1
+2015,"Greater Geelong",232926,"Victoria",2
+2020,"Stirling",232404,"Western Australia",1
+2022,"Sutherland Shire",231845,NA,2
+2021,"Sutherland Shire",230994,NA,2
+2020,"Sutherland Shire",230379,NA,2
+2023,"Wanneroo",229438,"Western Australia",2
+2019,"Sutherland Shire",229213,NA,2
+2018,"Sutherland Shire",228239,NA,2
+2014,"Greater Geelong",227744,"Victoria",2
+2019,"Stirling",227540,"Western Australia",1
+2017,"Sutherland Shire",227428,NA,2
+2016,"Wyndham",227008,"Victoria",3
+2016,"Sutherland Shire",226461,NA,2
+2015,"Sutherland Shire",225218,NA,2
+2018,"Stirling",224316,"Western Australia",1
+2014,"Sutherland Shire",223921,NA,2
+2013,"Greater Geelong",223357,"Victoria",2
+2013,"Sutherland Shire",222549,NA,2
+2017,"Stirling",221986,"Western Australia",1
+2022,"Wanneroo",221257,"Western Australia",2
+2015,"Stirling",220152,"Western Australia",1
+2016,"Stirling",220073,"Western Australia",1
+2014,"Stirling",219372,"Western Australia",1
+2013,"Stirling",218043,"Western Australia",1
+2021,"Wanneroo",216422,"Western Australia",2
+2015,"Wyndham",213815,"Victoria",3
+2020,"Wanneroo",212823,"Western Australia",2
+2019,"Wanneroo",208263,"Western Australia",2
+2023,"The Hills Shire",207959,NA,3
+2018,"Wanneroo",203526,"Western Australia",2
+2014,"Wyndham",201512,"Victoria",3
+2022,"The Hills Shire",199269,NA,3
+2017,"Wanneroo",199194,"Western Australia",2
+2013,"Brimbank",196169,"Victoria",3
+2016,"Wanneroo",194779,"Western Australia",2
+2021,"The Hills Shire",192660,NA,3
+2015,"Wanneroo",188278,"Western Australia",2
+2020,"The Hills Shire",186622,NA,3
+2014,"Wanneroo",182385,"Western Australia",2
+2023,"Onkaparinga",180865,"South Australia",1
+2019,"The Hills Shire",180102,NA,3
+2022,"Onkaparinga",178526,"South Australia",1
+2018,"Merri-bek",177679,NA,3
+2013,"Wanneroo",176627,"Western Australia",2
+2021,"Onkaparinga",176595,"South Australia",1
+2017,"Merri-bek",175110,NA,3
+2020,"Onkaparinga",174948,"South Australia",1
+2019,"Onkaparinga",173141,"South Australia",1
+2016,"Merri-bek",172294,NA,3
+2018,"Onkaparinga",171631,"South Australia",1
+2023,"Swan",171588,"Western Australia",3
+2017,"Onkaparinga",170482,"South Australia",1
+2016,"Onkaparinga",169372,"South Australia",1
+2015,"Onkaparinga",168433,"South Australia",1
+2015,"Merri-bek",167870,NA,3
+2014,"Onkaparinga",167376,"South Australia",1
+2013,"Onkaparinga",166244,"South Australia",1
+2022,"Joondalup",165649,"Western Australia",3
+2021,"Joondalup",165050,"Western Australia",3
+2013,"Joondalup",164414,"Western Australia",3
+2014,"Merri-bek",164099,NA,3
+2020,"Joondalup",164044,"Western Australia",3
+2014,"Joondalup",163894,"Western Australia",3
+2015,"Joondalup",162904,"Western Australia",3
+2019,"Joondalup",162308,"Western Australia",3
+2018,"Joondalup",161479,"Western Australia",3
+2017,"Joondalup",161057,"Western Australia",3
+2016,"Joondalup",160918,"Western Australia",3
+2013,"Merri-bek",160282,NA,3
+2023,"Salisbury",149214,"South Australia",2
+2022,"Salisbury",147940,"South Australia",2
+2021,"Salisbury",147521,"South Australia",2
+2020,"Salisbury",147359,"South Australia",2
+2019,"Salisbury",145467,"South Australia",2
+2018,"Salisbury",143765,"South Australia",2
+2017,"Salisbury",142061,"South Australia",2
+2016,"Salisbury",140346,"South Australia",2
+2015,"Salisbury",138695,"South Australia",2
+2023,"Port Adelaide Enfield",138585,"South Australia",3
+2014,"Salisbury",137257,"South Australia",2
+2013,"Salisbury",135880,"South Australia",2
+2022,"Port Adelaide Enfield",135822,"South Australia",3
+2021,"Port Adelaide Enfield",134131,"South Australia",3
+2020,"Port Adelaide Enfield",132967,"South Australia",3
+2019,"Port Adelaide Enfield",130293,"South Australia",3
+2018,"Port Adelaide Enfield",127684,"South Australia",3
+2017,"Port Adelaide Enfield",125690,"South Australia",3
+2016,"Port Adelaide Enfield",124007,"South Australia",3
+2015,"Port Adelaide Enfield",122766,"South Australia",3
+2014,"Port Adelaide Enfield",121422,"South Australia",3
+2013,"Port Adelaide Enfield",119876,"South Australia",3
+2017,"Darwin",86339,"Northern Territory",1
+2018,"Darwin",85788,"Northern Territory",1
+2023,"Darwin",85465,"Northern Territory",1
+2016,"Darwin",85323,"Northern Territory",1
+2019,"Darwin",85308,"Northern Territory",1
+2020,"Darwin",85109,"Northern Territory",1
+2022,"Darwin",84877,"Northern Territory",1
+2021,"Darwin",84854,"Northern Territory",1
+2015,"Darwin",84363,"Northern Territory",1
+2014,"Darwin",83098,"Northern Territory",1
+2013,"Darwin",82996,"Northern Territory",1
+2022,"Launceston",71889,"Tasmania",1
+2021,"Launceston",71788,"Tasmania",1
+2023,"Launceston",71788,"Tasmania",1
+2020,"Launceston",71019,"Tasmania",1
+2019,"Launceston",69888,"Tasmania",1
+2018,"Launceston",68716,"Tasmania",1
+2017,"Launceston",67537,"Tasmania",1
+2013,"Launceston",66722,"Tasmania",1
+2014,"Launceston",66576,"Tasmania",1
+2016,"Launceston",66518,"Tasmania",1
+2015,"Launceston",66492,"Tasmania",1
+2023,"Clarence",63663,"Tasmania",2
+2022,"Clarence",63084,"Tasmania",2
+2021,"Clarence",62336,"Tasmania",2
+2020,"Clarence",60771,"Tasmania",2
+2019,"Clarence",59447,"Tasmania",2
+2018,"Clarence",58064,"Tasmania",2
+2017,"Clarence",56636,"Tasmania",2
+2020,"Hobart",56208,"Tasmania",3
+2022,"Hobart",56018,"Tasmania",3
+2023,"Hobart",55964,"Tasmania",3
+2021,"Hobart",55947,"Tasmania",3
+2019,"Hobart",55482,"Tasmania",3
+2016,"Clarence",55465,"Tasmania",2
+2015,"Clarence",54829,"Tasmania",2
+2018,"Hobart",54286,"Tasmania",3
+2014,"Clarence",54219,"Tasmania",2
+2013,"Clarence",53685,"Tasmania",2
+2017,"Hobart",53231,"Tasmania",3
+2016,"Hobart",52018,"Tasmania",3
+2015,"Hobart",51591,"Tasmania",3
+2014,"Hobart",51232,"Tasmania",3
+2013,"Hobart",50839,"Tasmania",3
+2023,"Palmerston",41113,"Northern Territory",2
+2022,"Palmerston",40467,"Northern Territory",2
+2021,"Palmerston",39530,"Northern Territory",2
+2020,"Palmerston",38902,"Northern Territory",2
+2019,"Palmerston",38200,"Northern Territory",2
+2018,"Palmerston",37596,"Northern Territory",2
+2017,"Palmerston",36797,"Northern Territory",2
+2016,"Palmerston",36013,"Northern Territory",2
+2015,"Palmerston",35414,"Northern Territory",2
+2014,"Palmerston",34478,"Northern Territory",2
+2013,"Palmerston",32972,"Northern Territory",2
+2023,"Alice Springs",29213,"Northern Territory",3
+2022,"Alice Springs",28859,"Northern Territory",3
+2021,"Alice Springs",28483,"Northern Territory",3
+2013,"Alice Springs",28124,"Northern Territory",3
+2020,"Alice Springs",28029,"Northern Territory",3
+2019,"Alice Springs",27600,"Northern Territory",3
+2014,"Alice Springs",27486,"Northern Territory",3
+2018,"Alice Springs",27223,"Northern Territory",3
+2017,"Alice Springs",26889,"Northern Territory",3
+2015,"Alice Springs",26843,"Northern Territory",3
+2016,"Alice Springs",26518,"Northern Territory",3
+2013,"Christmas Island",2041,"Other Territories",1
+2014,"Christmas Island",1979,"Other Territories",1
+2015,"Christmas Island",1929,"Other Territories",1
+2016,"Christmas Island",1903,"Other Territories",1
+2017,"Christmas Island",1876,"Other Territories",1
+2018,"Christmas Island",1848,"Other Territories",1
+2023,"Christmas Island",1823,"Other Territories",1
+2019,"Christmas Island",1803,"Other Territories",1
+2022,"Christmas Island",1786,"Other Territories",1
+2020,"Christmas Island",1758,"Other Territories",1
+2021,"Christmas Island",1717,"Other Territories",1
+2023,"Cocos Islands",631,"Other Territories",2
+2022,"Cocos Islands",616,"Other Territories",2
+2020,"Cocos Islands",608,"Other Territories",2
+2021,"Cocos Islands",603,"Other Territories",2
+2019,"Cocos Islands",591,"Other Territories",2
+2014,"Cocos Islands",556,"Other Territories",2
+2015,"Cocos Islands",555,"Other Territories",2
+2018,"Cocos Islands",553,"Other Territories",2
+2017,"Cocos Islands",552,"Other Territories",2
+2013,"Cocos Islands",547,"Other Territories",2
+2016,"Cocos Islands",546,"Other Territories",2
